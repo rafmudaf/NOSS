@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Riff-Raff</title>
+  <link rel="stylesheet" href="./assets/vendors/leaflet/leaflet.css" />
+  <link rel="stylesheet" href="./assets/vendors/daterangepicker/daterangepicker.css" />
+  <link rel="stylesheet" href="./assets/vendors/bootstrap/bootstrap.min.css" />
+</head>
+
+<body>
+  <header class="mb-4">
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+      <div class="container">
+        <a class="navbar-brand" href="#">Map</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <div class="ms-auto d-flex">
+            <button class="btn btn-primary me-2" data-bs-toggle="modal" data-bs-target="#filters-modal">
+              Filters
+            </button>
+            <button class="btn btn-success" data-bs-toggle="modal" data-bs-target="#settings-modal">
+              Settings
+            </button>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <div class="container">
+    <div id="map"></div>
+    <div class="result-count">
+      <span>Total: <span id="result-total">N/A</span></span> ,
+      <span>Filtered: <span id="result-filtered">N/A</span></span>
+    </div>
+  </div>
+
+  <div class="modal fade" id="app-modal">
+    <div class="modal-dialog modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="settings-modal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Settings</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <button class="btn btn-success mb-2" id="remove-all-heitory">
+            Remove all history
+          </button>
+          <br />
+          <button class="btn btn-info" id="remove-map-storage">
+            Reset map location
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="filters-modal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Filters</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <form id="filters-form">
+            <div class="mb-2">
+
+              <label class="form-label">Sales Date</label>
+              <input type="text" class="form-control" name="salesDate" placeholder="Select dates..." />
+            </div>
+
+            <div class="mb-2">
+              <label class="form-label">Writ Amount (min)</label>
+              <div class="input-group">
+                <span class="input-group-text" id="basic-addon1">$</span>
+                <input type="text" class="form-control number-separator" name="minAmount" placeholder="Enter amount..." />
+              </div>
+            </div>
+
+            <div class="mb-2">
+              <label class="form-label">Writ Amount (max)</label>
+              <div class="input-group">
+                <span class="input-group-text" id="basic-addon1">$</span>
+                <input type="text" class="form-control number-separator" name="maxAmount" placeholder="Enter amount..." />
+              </div>
+            </div>
+            <div class="mb-2">
+              <label class="form-label">Terms and Conditions</label>
+              <input type="text" class="form-control" name="terms" placeholder="Enter text..." />
+            </div>
+            <div class="mb-2">
+              <label class="form-label">Zip</label>
+              <input type="number" class="form-control" name="zip" placeholder="Enter zip code..." />
+            </div>
+            <button class="btn btn-primary btn-block" type="submit">
+              Apply Filters
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="./assets/vendors/jquery/jquery-3.6.0.min.js"></script>
+  <script src="./assets/vendors/bootstrap/bootstrap.bundle.min.js"></script>
+  <script src="./assets/vendors/daterangepicker/moment.min.js"></script>
+  <script src="./assets/vendors/daterangepicker/daterangepicker.js"></script>
+  <script src="./assets/vendors/leaflet/leaflet.js"></script>
+  <script src="./assets/vendors/lodash/lodash.min.js"></script>
+  <script src="./assets/js/filters.js"></script>
+  <script src="./assets/js/app.js"></script>
+
+  <script>
+    var config = {
+      modalElement: $("#app-modal"),
+      leaflet: {
+        element: $("#map"),
+        width: "100%",
+        height: "500px",
+      },
+    };
+
+    $(function() {
+      $.ajax({
+        url: "https://raw.githubusercontent.com/rafmudaf/NOSSDB/main/Orleans_Parish_sales.json",
+        dataType: "json",
+        success: function(res) {
+          App.init(res, config);
+          $("#result-total").html(App.data.length);
+        },
+      });
+    });
+  </script>
+</body>
+
+</html>
