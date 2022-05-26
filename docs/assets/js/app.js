@@ -263,8 +263,8 @@ var App = {
       var AddressDescription = findItem["Address/Description"];
       var Attorney = findItem["Attorney"];
       var CaseTitle = findItem["Case Title"];
-      var Latitude = findItem["Latitude"];
-      var Longitude = findItem["Longitude"];
+      // var Latitude = findItem["Latitude"];
+      // var Longitude = findItem["Longitude"];
       var Picture = findItem["Picture"];
       var PropertyStatus = findItem["Property Status"];
       var SalesDate = findItem["Sales Date"];
@@ -306,16 +306,16 @@ var App = {
     this.rerenderMap();
   },
 
-  removeMapHistory: function () {
-    var lsName = "leaflet-map-data";
-    localStorage.removeItem(lsName);
-    var centerZoom = this.helpers.getCenterZoomLevel(this.data);
-    if (centerZoom) {
-      centerLatLng = [centerZoom.centerLat, centerZoom.centerLong];
-      zoomLevel = centerZoom.zoomLevel;
-      this.map.setView(centerLatLng, zoomLevel);
-    }
-  },
+  // removeMapHistory: function () {
+  //   var lsName = "leaflet-map-data";
+  //   localStorage.removeItem(lsName);
+  //   var centerZoom = this.helpers.getCenterZoomLevel(this.data);
+  //   if (centerZoom) {
+  //     centerLatLng = [centerZoom.centerLat, centerZoom.centerLong];
+  //     zoomLevel = centerZoom.zoomLevel;
+  //     this.map.setView(centerLatLng, zoomLevel);
+  //   }
+  // },
 
   helpers: {
     //LS: localStoarge
