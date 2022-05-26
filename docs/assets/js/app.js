@@ -5,7 +5,7 @@ var App = {
   init: function (data, configs) {
     var thiz = this;
     var defaults = {
-      localStorageName: "Riff-Raff-Selected",
+      localStorageName: "NOSSDB",
       modalElement: null,
       leaflet: {
         element: $("#map"),
