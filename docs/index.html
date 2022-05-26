@@ -10,6 +10,17 @@
   <link rel="stylesheet" href="./assets/vendors/daterangepicker/daterangepicker.css" />
   <link rel="stylesheet" href="./assets/vendors/bootstrap/bootstrap.min.css" />
 
+  <style>
+    body {
+        padding: 0;
+        margin: 0;
+    }
+    html, body, #map {
+        height: 100%;
+        width: 100%;
+    }
+  </style>
+
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-B8PRHD3SYR"></script>
   <script>
@@ -43,13 +54,14 @@
       </div>
     </nav>
   </header>
-  <div class="container">
+
+  <!-- <div class="container"> -->
     <div id="map"></div>
     <div class="result-count">
       <span>Total: <span id="result-total">N/A</span></span> ,
       <span>Filtered: <span id="result-filtered">N/A</span></span>
     </div>
-  </div>
+  <!-- </div> -->
 
   <div class="modal fade" id="app-modal">
     <div class="modal-dialog modal-dialog-scrollable">
@@ -145,7 +157,7 @@
       leaflet: {
         element: $("#map"),
         width: "100%",
-        height: "500px",
+        height: "100%",
       },
     };
 
