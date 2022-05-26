@@ -337,8 +337,8 @@ var App = {
 
         data = data.map((item) => {
           var saleTime = item["Sales Time"];
-          var spectrumRange = (saleTime - minTime) / length;
-          var spectrumRangePrecent = spectrumRange * 100;
+          var spectrumRange = (maxTime - saleTime) / length;  // This is the distance from one of the range to the current value
+          var spectrumRangePrecent = spectrumRange; //* 100;  // Use values from 0 - 1
           item["spectrumRange"] = spectrumRange;
           item["spectrumRangePrecent"] = spectrumRangePrecent;
           item["color"] = thiz.numberToColorRgb(spectrumRangePrecent);
@@ -350,9 +350,18 @@ var App = {
     },
 
     numberToColorRgb: function (i) {
-      var red = Math.floor(255 - (255 * i) / 100);
-      var green = Math.floor((255 * i) / 100);
-      return "rgb(" + red + "," + green + ",0)";
+      // This function sets a single color (rgb) for all markers
+      // and scales the intensity based on i.
+  
+      // var red = Math.floor(255 - (255 * i) / 100);
+      // var green = Math.floor((255 * i) / 100);
+
+      // bright pink
+      var red = 255;
+      var green = 20;
+      var blue = 147;
+
+      return "rgb(" + i*red + "," + i*green + "," + i*blue + ")";
     },
 
     getCenterZoomLevel: function (data) {
