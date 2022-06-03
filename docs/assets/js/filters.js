@@ -38,7 +38,7 @@ $(document).ready(function () {
     $("#filters-modal").modal("hide");
   });
 
-  $("#remove-all-heitory").click(function () {
+  $("#remove-all-history").click(function () {
     App.removeAllHistory();
     $("#settings-modal").modal("hide");
   });
