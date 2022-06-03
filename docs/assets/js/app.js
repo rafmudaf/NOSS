@@ -306,16 +306,16 @@ var App = {
     this.rerenderMap();
   },
 
-  // removeMapHistory: function () {
-  //   var lsName = "leaflet-map-data";
-  //   localStorage.removeItem(lsName);
-  //   var centerZoom = this.helpers.getCenterZoomLevel(this.data);
-  //   if (centerZoom) {
-  //     centerLatLng = [centerZoom.centerLat, centerZoom.centerLong];
-  //     zoomLevel = centerZoom.zoomLevel;
-  //     this.map.setView(centerLatLng, zoomLevel);
-  //   }
-  // },
+  removeMapHistory: function () {
+    var lsName = "leaflet-map-data";
+    localStorage.removeItem(lsName);
+    var centerZoom = this.helpers.getCenterZoomLevel(this.data);
+    if (centerZoom) {
+      centerLatLng = [centerZoom.centerLat, centerZoom.centerLong];
+      zoomLevel = centerZoom.zoomLevel;
+      this.map.setView(centerLatLng, zoomLevel);
+    }
+  },
 
   helpers: {
     //LS: localStoarge
