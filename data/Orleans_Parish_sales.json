@@ -55,7 +55,7 @@
         "Case #": "2021-7366",
         "Sales Date": "6/9/2022",
         "Property Status": "Scheduled",
-        "Case Title": "MORTGAGE ASSETS MANAGEMENT, LLC vs THE UNOPENED SUCCESSION OF GLORIA MAE ALEXANDER VALLERY, (A/K/A GLORIA MAE ALEXANDER, GLORIA MAE MCCOVINS, GLORIA MAE VALLERY)",
+        "Case Title": "HB2 ALTERNATIVE HOLDINGS, LLC vs THE UNOPENED SUCCESSION OF GLORIA MAE ALEXANDER VALLERY, (A/K/A GLORIA MAE ALEXANDER, GLORIA MAE MCCOVINS, GLORIA MAE VALLERY)",
         "Address/Description": "6100 KUEBEL DRIVE  NEW ORLEANS LA 70126",
         "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\205723.JPG",
         "Attorney": "LOGS LEGAL GROUP LLC",
@@ -1053,6 +1053,32 @@
         "Longitude": -90.08991834693877
     },
     {
+        "Case #": "2022-3485",
+        "Sales Date": "8/4/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs WEALTH FOR KIDS, LLC",
+        "Address/Description": "832 TRICOU ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$16,420.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.95651730612245,
+        "Longitude": -90.01051526530613
+    },
+    {
+        "Case #": "2022-3004",
+        "Sales Date": "8/4/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK NATIONAL ASSOCIATION vs NICHOLE R. LEE A/K/A NICHOLE LEE",
+        "Address/Description": "2161 HOPE ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "CONDON, WOOD & BURKHART LLC",
+        "Writ Amount": "$146,000.37",
+        "Terms and Conditions": "",
+        "Latitude": 29.98491285,
+        "Longitude": -90.05922543900093
+    },
+    {
         "Case #": "2022-2587",
         "Sales Date": "8/4/2022",
         "Property Status": "Scheduled",
@@ -1196,32 +1222,6 @@
         "Longitude": -89.99099002042144
     },
     {
-        "Case #": "2022-2588",
-        "Sales Date": "8/11/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "WELLS FARGO BANK, N.A. vs TIMOTHY TIGGS AND JAMES TIGG'S PROPERTIES, LLC",
-        "Address/Description": "505 WASHINGTON AV  NEW ORLEANS LA 70130",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\238943.JPG",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$123,219.07",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.921213166666668,
-        "Longitude": -90.0785755
-    },
-    {
-        "Case #": "2021-1515",
-        "Sales Date": "8/11/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "KIMBERLY C. HOLLINS vs GRANVILLE C. TACKE, III, MICHAEL J. BERGERON, AND ECLECTIC INVESTMENT PARTNERS, L.P.",
-        "Address/Description": "2522 EAGLE ST  NEW ORLEANS LA 70118",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\243359.JPG",
-        "Attorney": "TAXTITLE.COM",
-        "Writ Amount": "",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.961770938775512,
-        "Longitude": -90.12535367346939
-    },
-    {
         "Case #": "2022-3159",
         "Sales Date": "8/11/2022",
         "Property Status": "Scheduled",
@@ -1287,6 +1287,32 @@
         "Longitude": -90.05116726439503
     },
     {
+        "Case #": "2021-1515",
+        "Sales Date": "8/11/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "KIMBERLY C. HOLLINS vs GRANVILLE C. TACKE, III, MICHAEL J. BERGERON, AND ECLECTIC INVESTMENT PARTNERS, L.P.",
+        "Address/Description": "2522 EAGLE ST  NEW ORLEANS LA 70118",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\243359.JPG",
+        "Attorney": "TAXTITLE.COM",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.961770938775512,
+        "Longitude": -90.12535367346939
+    },
+    {
+        "Case #": "2022-3605",
+        "Sales Date": "8/18/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs NOE JEOVANNY LOPEZ CHEPIO",
+        "Address/Description": "2140-42 REYNES ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$5,205.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9627533,
+        "Longitude": -90.0222558
+    },
+    {
         "Case #": "2022-1829",
         "Sales Date": "8/18/2022",
         "Property Status": "Scheduled",
@@ -1311,6 +1337,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.934898,
         "Longitude": -90.130059
+    },
+    {
+        "Case #": "2021-4514",
+        "Sales Date": "8/18/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE FOR RENAISSANCE HOME EQUITY LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-3 vs ROSE MARY CUMMINGS LANDRY A/K/A ROSE MARY CUMMINGS A/K/A ROSE M. CUMMINGS A/K/A ROSE CUMMINGS A/K/A ROSE MARY LANDRY A/K/A ROSE M. LANDRY A/K/A ROSE LANDRY A/K/A ROSE CUMMINGS LANDRY A/K/A ROSE C. LANDRY AND WAYNE JOSEPH LANDRY A/K/A WAYNE J. LANDRY A/K/A WAYNE LANDRY",
+        "Address/Description": "3444-46 LIVINGSTON ST  NEW ORLEANS LA 70118",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\185349.JPG",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$194,416.46",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-2089",
