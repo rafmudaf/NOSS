@@ -104,19 +104,6 @@
         "Longitude": -90.010496
     },
     {
-        "Case #": "2022-1488",
-        "Sales Date": "6/23/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs SUCCESSION OF THOMAS NELSON, JR.",
-        "Address/Description": "2315 ST. ANTHONY ST  NEW ORLEANS LA 70119",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\237624.JPG",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$8,522.37",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9807792,
-        "Longitude": -90.0624218
-    },
-    {
         "Case #": "2018-4338",
         "Sales Date": "6/23/2022",
         "Property Status": "Scheduled",
@@ -1066,19 +1053,6 @@
         "Longitude": -90.06789062244897
     },
     {
-        "Case #": "2022-3264",
-        "Sales Date": "8/11/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "LAKEVIEW LOAN SERVICING, LLC vs LARRY J. FALGOUT A/K/A LARRY FALGOUT A/K/A LARRY J. FALGOUT, JR A/K/A LARRY FALGOUT, JR AND RENATA M. RANGEL A/K/A RENATA RANGEL",
-        "Address/Description": "6212 CARLISLE CT  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$94,724.80",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.913356286053354,
-        "Longitude": -89.98814881108059
-    },
-    {
         "Case #": "2022-3605",
         "Sales Date": "8/18/2022",
         "Property Status": "Scheduled",
@@ -1209,19 +1183,6 @@
         "Longitude": -89.99077285714286
     },
     {
-        "Case #": "2020-1861",
-        "Sales Date": "8/25/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "BAYVIEW LOAN SERVICING, LLC A DELAWARE LIMITED LIABILITY COMPANY vs KEITH G. PFISTER AKA KEITH GERALD PFISTER",
-        "Address/Description": "1724 S JEFFERSON DAVIS PKWY  NEW ORLEANS LA 70125",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\230378.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$239,776.77",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-2089",
         "Sales Date": "8/25/2022",
         "Property Status": "Scheduled",
@@ -1339,6 +1300,45 @@
         "Longitude": null
     },
     {
+        "Case #": "2019-6270",
+        "Sales Date": "9/1/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "BANK OF AMERICA N.A. vs IVORY EPSON JOHNSON",
+        "Address/Description": "",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$38,585.91",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2010-1077",
+        "Sales Date": "9/1/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "STOREY MOUNTAIN, LLC vs LETHONIA J. WHITICAR, JR. A/K/A LETHORNIA WHITICAR, A/K/A LETHORNIA JOHN WHITICAR, JR.",
+        "Address/Description": "6926 LAKE WILLOW DR  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "THE ONEBANE LAW FIRM APC",
+        "Writ Amount": "$248,612.57",
+        "Terms and Conditions": "With appraisal; 100% cash at the moment of adjudication.",
+        "Latitude": 30.029416040142277,
+        "Longitude": -89.99879916672158
+    },
+    {
+        "Case #": "2010-1077",
+        "Sales Date": "9/1/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "STOREY MOUNTAIN, LLC vs LETHONIA J. WHITICAR, JR. A/K/A LETHORNIA WHITICAR, A/K/A LETHORNIA JOHN WHITICAR, JR.",
+        "Address/Description": "7831-33 SHELLY ST  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "ONEBANE LAW FIRM",
+        "Writ Amount": "$248,612.57",
+        "Terms and Conditions": "With appraisal; 100% cash at the moment of adjudication.",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2021-1655",
         "Sales Date": "9/1/2022",
         "Property Status": "Scheduled",
@@ -1365,17 +1365,30 @@
         "Longitude": -89.98580012336028
     },
     {
-        "Case #": "2019-6270",
+        "Case #": "2022-1828",
         "Sales Date": "9/1/2022",
         "Property Status": "Scheduled",
-        "Case Title": "BANK OF AMERICA N.A. vs IVORY EPSON JOHNSON",
-        "Address/Description": "",
+        "Case Title": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST vs DIONE DUHON A/K/A DIONE DUHON MCPHAIL",
+        "Address/Description": "1619 GENERAL PRERSHING ST  NEW ORLEANS LA 70115",
         "Picture": "",
         "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$38,585.91",
+        "Writ Amount": "$197,243.25",
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2022-965",
+        "Sales Date": "9/1/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "REVERSE MORTGAGE FUNDING LLC vs ESTATE OF VERONICA J. LEWIS",
+        "Address/Description": "2728 EDNA ST  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$78,384.32",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.99299096831039,
+        "Longitude": -90.04238390844263
     },
     {
         "Case #": "2020-1136",
@@ -1428,6 +1441,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.97921828175615,
         "Longitude": -90.03122962230115
+    },
+    {
+        "Case #": "2022-554",
+        "Sales Date": "9/8/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "AMERIHOME MORTGAGE COMPANY, LLC vs ERICA K. JEFFERSON (A/K/A ERICA JEFFERSON A/K/A ERICA KINGSTON)",
+        "Address/Description": "2317 BECK ST  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$167,854.66",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.928945375235003,
+        "Longitude": -90.00875326815618
     },
     {
         "Case #": "2021-3437",
