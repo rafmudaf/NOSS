@@ -1222,32 +1222,6 @@
         "Longitude": -90.06925355172413
     },
     {
-        "Case #": "2021-1655",
-        "Sales Date": "9/1/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "SUNSET HARBOUR LLC vs ANITA COBBINS, REPUBLIC FINANCE, LLC, MERS, LLC, CHARTER ONE MORTGAGE, INC., AND THE STATE OF LOUISIANA",
-        "Address/Description": "14047 PARTRIDGE LN  NEW ORLEANS LA 70128",
-        "Picture": "",
-        "Attorney": "TAXTITLE.COM",
-        "Writ Amount": "",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.06543414851816,
-        "Longitude": -89.9460227781919
-    },
-    {
-        "Case #": "2021-2270",
-        "Sales Date": "9/1/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "SUNSET HARBOUR, LLC vs THE SUCCESSION OF MARY ROSS BUSH ET AL",
-        "Address/Description": "6433 BRUNSWICK CT  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "TAXTITLE.COM",
-        "Writ Amount": "",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.91464303888335,
-        "Longitude": -89.98580012336028
-    },
-    {
         "Case #": "2010-1077",
         "Sales Date": "9/1/2022",
         "Property Status": "Scheduled",
@@ -1272,19 +1246,6 @@
         "Terms and Conditions": "With appraisal; 100% cash at the moment of adjudication.",
         "Latitude": null,
         "Longitude": null
-    },
-    {
-        "Case #": "2022-3386",
-        "Sales Date": "9/1/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "THE BANK OF NEW YORK MELLON TRUST COMPANY, NATIONAL ASSOCIATION FKA THE BANK OF NEW YORK TRUST COMPANY, N.A. AS SUCCESSOR TO JPMORGAN CHASE BANK, AS TRUSTEE FOR RESIDENTIAL ASSET MORTGAGE PRODUCTS, INC., MORTGAGE ASSET-BACKED PASS THROUGH CERTIFICATES, SERIES 2004-RP1 vs LUMENA TRUFANT SANDERS, (A/K/A LUMENA TRUFANT, LUMENA GREEN, LUMENA SCOTT, LUMENA T. SCOTT, LUMENA TRUFANT SCOTT, LUMENA SANDERS)",
-        "Address/Description": "7020 COVENTRY ST  NEW ORLEANS LA 70126",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$150,530.40",
-        "Terms and Conditions": "",
-        "Latitude": 30.032517311217457,
-        "Longitude": -90.01135228109878
     },
     {
         "Case #": "2022-1828",
@@ -1326,6 +1287,19 @@
         "Longitude": null
     },
     {
+        "Case #": "2022-3386",
+        "Sales Date": "9/1/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "THE BANK OF NEW YORK MELLON TRUST COMPANY, NATIONAL ASSOCIATION FKA THE BANK OF NEW YORK TRUST COMPANY, N.A. AS SUCCESSOR TO JPMORGAN CHASE BANK, AS TRUSTEE FOR RESIDENTIAL ASSET MORTGAGE PRODUCTS, INC., MORTGAGE ASSET-BACKED PASS THROUGH CERTIFICATES, SERIES 2004-RP1 vs LUMENA TRUFANT SANDERS, (A/K/A LUMENA TRUFANT, LUMENA GREEN, LUMENA SCOTT, LUMENA T. SCOTT, LUMENA TRUFANT SCOTT, LUMENA SANDERS)",
+        "Address/Description": "7020 COVENTRY ST  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$150,530.40",
+        "Terms and Conditions": "",
+        "Latitude": 30.032517311217457,
+        "Longitude": -90.01135228109878
+    },
+    {
         "Case #": "2022-965",
         "Sales Date": "9/1/2022",
         "Property Status": "Scheduled",
@@ -1339,17 +1313,30 @@
         "Longitude": -90.04238390844263
     },
     {
-        "Case #": "2022-138",
-        "Sales Date": "9/8/2022",
+        "Case #": "2021-1655",
+        "Sales Date": "9/1/2022",
         "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs DARRIN A. DUFAUCHARD AND JAMES R. SMITH",
-        "Address/Description": "1515-15 1/2 WARFIELD ST  NEW ORLEANS LA ",
+        "Case Title": "SUNSET HARBOUR LLC vs ANITA COBBINS, REPUBLIC FINANCE, LLC, MERS, LLC, CHARTER ONE MORTGAGE, INC., AND THE STATE OF LOUISIANA",
+        "Address/Description": "14047 PARTRIDGE LN  NEW ORLEANS LA 70128",
         "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$19,672.74",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Attorney": "TAXTITLE.COM",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.06543414851816,
+        "Longitude": -89.9460227781919
+    },
+    {
+        "Case #": "2021-2270",
+        "Sales Date": "9/1/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "SUNSET HARBOUR, LLC vs THE SUCCESSION OF MARY ROSS BUSH ET AL",
+        "Address/Description": "6433 BRUNSWICK CT  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "TAXTITLE.COM",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.91464303888335,
+        "Longitude": -89.98580012336028
     },
     {
         "Case #": "2021-3437",
@@ -1365,6 +1352,19 @@
         "Longitude": -90.10106645454546
     },
     {
+        "Case #": "2022-3874",
+        "Sales Date": "9/8/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs SUCCESSION OF JOHN ROBERT SHOLES, RODNEY SHOLES, SANDRA SHOLES WILLIAMS, TYRONE ANTHONY SHOLES, KAREN MONICA SHOLES, THADDEUS CHRISTOPHER SHOLES, SELONE SHOLES, AND EVELYN SHOLES SKIDMORE",
+        "Address/Description": "2912 LIVE OAK ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$4,005.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.96848669387755,
+        "Longitude": -90.12723353061224
+    },
+    {
         "Case #": "2022-554",
         "Sales Date": "9/8/2022",
         "Property Status": "Scheduled",
@@ -1376,6 +1376,32 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.928945375235003,
         "Longitude": -90.00875326815618
+    },
+    {
+        "Case #": "2022-138",
+        "Sales Date": "9/8/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs DARRIN A. DUFAUCHARD AND JAMES R. SMITH",
+        "Address/Description": "1515-15 1/2 WARFIELD ST  NEW ORLEANS LA ",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$19,672.74",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-3393",
+        "Sales Date": "9/8/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "HANCOCK WHITNEY BANK vs ERIN MARSH HUGGINS",
+        "Address/Description": "2912-14 ST ANN ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
+        "Writ Amount": "$42,821.01",
+        "Terms and Conditions": "With appraisal; 10% deposit due at moment of adjudication; balance due by 4:00PM the same day.",
+        "Latitude": 29.9825793,
+        "Longitude": -90.099063
     },
     {
         "Case #": "2022-3062",
@@ -1428,5 +1454,44 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.97921828175615,
         "Longitude": -90.03122962230115
+    },
+    {
+        "Case #": "2022-1128",
+        "Sales Date": "9/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs TORINA LEWIS",
+        "Address/Description": "4139 GIBSON ST  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$2,205.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.999375204081634,
+        "Longitude": -90.0761198367347
+    },
+    {
+        "Case #": "2022-1999",
+        "Sales Date": "9/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "REVERSE MORTGAGE FUNDING LLC vs THE UNOPENED SUCCESSION OF ZOILA ANN PERRAULT A/K/A ZOILA ANN PERRAULT A/K/A ZOILA A. PERRAULT A/K/A ZOILA PERRAULT",
+        "Address/Description": "4 MARCUS CHRISTIAN CL  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$63,213.78",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-4150",
+        "Sales Date": "9/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs DANTON H. MOSES",
+        "Address/Description": "3049-3049 1/2 MARAIS ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$4,205.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     }
 ]
