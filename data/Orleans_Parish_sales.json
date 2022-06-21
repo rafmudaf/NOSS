@@ -1127,8 +1127,8 @@
         "Attorney": "LAW OFFICE OF KYLE S SCLAFANI",
         "Writ Amount": "$221,920.15",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9389344,
+        "Longitude": -90.0832457
     },
     {
         "Case #": "2017-6998",
@@ -1222,6 +1222,19 @@
         "Longitude": -90.06925355172413
     },
     {
+        "Case #": "2022-3386",
+        "Sales Date": "9/1/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "THE BANK OF NEW YORK MELLON TRUST COMPANY, NATIONAL ASSOCIATION FKA THE BANK OF NEW YORK TRUST COMPANY, N.A. AS SUCCESSOR TO JPMORGAN CHASE BANK, AS TRUSTEE FOR RESIDENTIAL ASSET MORTGAGE PRODUCTS, INC., MORTGAGE ASSET-BACKED PASS THROUGH CERTIFICATES, SERIES 2004-RP1 vs LUMENA TRUFANT SANDERS, (A/K/A LUMENA TRUFANT, LUMENA GREEN, LUMENA SCOTT, LUMENA T. SCOTT, LUMENA TRUFANT SCOTT, LUMENA SANDERS)",
+        "Address/Description": "7020 COVENTRY ST  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$150,530.40",
+        "Terms and Conditions": "",
+        "Latitude": 30.032517311217457,
+        "Longitude": -90.01135228109878
+    },
+    {
         "Case #": "2010-1077",
         "Sales Date": "9/1/2022",
         "Property Status": "Scheduled",
@@ -1287,32 +1300,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2022-3386",
-        "Sales Date": "9/1/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "THE BANK OF NEW YORK MELLON TRUST COMPANY, NATIONAL ASSOCIATION FKA THE BANK OF NEW YORK TRUST COMPANY, N.A. AS SUCCESSOR TO JPMORGAN CHASE BANK, AS TRUSTEE FOR RESIDENTIAL ASSET MORTGAGE PRODUCTS, INC., MORTGAGE ASSET-BACKED PASS THROUGH CERTIFICATES, SERIES 2004-RP1 vs LUMENA TRUFANT SANDERS, (A/K/A LUMENA TRUFANT, LUMENA GREEN, LUMENA SCOTT, LUMENA T. SCOTT, LUMENA TRUFANT SCOTT, LUMENA SANDERS)",
-        "Address/Description": "7020 COVENTRY ST  NEW ORLEANS LA 70126",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$150,530.40",
-        "Terms and Conditions": "",
-        "Latitude": 30.032517311217457,
-        "Longitude": -90.01135228109878
-    },
-    {
-        "Case #": "2022-965",
-        "Sales Date": "9/1/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "REVERSE MORTGAGE FUNDING LLC vs ESTATE OF VERONICA J. LEWIS",
-        "Address/Description": "2728 EDNA ST  NEW ORLEANS LA 70126",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$78,384.32",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.99299096831039,
-        "Longitude": -90.04238390844263
-    },
-    {
         "Case #": "2021-1655",
         "Sales Date": "9/1/2022",
         "Property Status": "Scheduled",
@@ -1339,17 +1326,17 @@
         "Longitude": -89.98580012336028
     },
     {
-        "Case #": "2021-3437",
-        "Sales Date": "9/8/2022",
+        "Case #": "2022-965",
+        "Sales Date": "9/1/2022",
         "Property Status": "Scheduled",
-        "Case Title": "TRACY JOHNSON vs BRIAN MCCULLUM",
-        "Address/Description": "4115 S PRIEUR ST  NEW ORLEANS LA ",
+        "Case Title": "REVERSE MORTGAGE FUNDING LLC vs ESTATE OF VERONICA J. LEWIS",
+        "Address/Description": "2728 EDNA ST  NEW ORLEANS LA 70126",
         "Picture": "",
-        "Attorney": "STEPHENSON, CHAVARRI & LAMBERT, LLC",
-        "Writ Amount": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$78,384.32",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.943417151515153,
-        "Longitude": -90.10106645454546
+        "Latitude": 29.99299096831039,
+        "Longitude": -90.04238390844263
     },
     {
         "Case #": "2022-3874",
@@ -1365,17 +1352,17 @@
         "Longitude": -90.12723353061224
     },
     {
-        "Case #": "2022-554",
+        "Case #": "2021-3437",
         "Sales Date": "9/8/2022",
         "Property Status": "Scheduled",
-        "Case Title": "AMERIHOME MORTGAGE COMPANY, LLC vs ERICA K. JEFFERSON (A/K/A ERICA JEFFERSON A/K/A ERICA KINGSTON)",
-        "Address/Description": "2317 BECK ST  NEW ORLEANS LA 70131",
+        "Case Title": "TRACY JOHNSON vs BRIAN MCCULLUM",
+        "Address/Description": "4115 S PRIEUR ST  NEW ORLEANS LA ",
         "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$167,854.66",
+        "Attorney": "STEPHENSON, CHAVARRI & LAMBERT, LLC",
+        "Writ Amount": "",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.928945375235003,
-        "Longitude": -90.00875326815618
+        "Latitude": 29.943417151515153,
+        "Longitude": -90.10106645454546
     },
     {
         "Case #": "2022-138",
@@ -1402,6 +1389,19 @@
         "Terms and Conditions": "With appraisal; 10% deposit due at moment of adjudication; balance due by 4:00PM the same day.",
         "Latitude": 29.9825793,
         "Longitude": -90.099063
+    },
+    {
+        "Case #": "2022-554",
+        "Sales Date": "9/8/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "AMERIHOME MORTGAGE COMPANY, LLC vs ERICA K. JEFFERSON (A/K/A ERICA JEFFERSON A/K/A ERICA KINGSTON)",
+        "Address/Description": "2317 BECK ST  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$167,854.66",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.928945375235003,
+        "Longitude": -90.00875326815618
     },
     {
         "Case #": "2022-3062",
@@ -1469,6 +1469,58 @@
         "Longitude": -90.0761198367347
     },
     {
+        "Case #": "2022-3568",
+        "Sales Date": "9/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "BANK OF AMERICA, N.A. vs CODY A. CROCKEM, (A/K/A CODY CROCKEM) AND (LECHELLE M. GRANT-CROCKEM, (A/K/A LECHELLE M. GRANT, LECHELLE M. CROCKEM)",
+        "Address/Description": "3548 SILVER MAPLE CT  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$205,058.08",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.90314693525946,
+        "Longitude": -89.99934824109108
+    },
+    {
+        "Case #": "2022-3569",
+        "Sales Date": "9/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "REGIONS BANK D/B/A REGIONS MORTGAGE vs AWNI SALEM KHALEK (A/K/A AWNI KHALEK)",
+        "Address/Description": "8300 CURRAN BD  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$122,889.78",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-3488",
+        "Sales Date": "9/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "AMERIHOME MORTGAGE COMPANY, LLC vs AMBER ALYCIA MATTHEWS",
+        "Address/Description": "8201-03 OLEANDER ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$247,619.94",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-3474",
+        "Sales Date": "9/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "BROKER SOLUTIONS INC, DBA NEW AMERICAN FUNDING vs DEMETRIA DUHE ROBICHAUX, (A/K/A DEMETRIA DUHE, DEMETRIA ROBICHAUX)",
+        "Address/Description": "4760 OVERTON DR  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$60,429.18",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.005377639024513,
+        "Longitude": -90.07323512693984
+    },
+    {
         "Case #": "2022-1999",
         "Sales Date": "9/15/2022",
         "Property Status": "Scheduled",
@@ -1482,6 +1534,19 @@
         "Longitude": null
     },
     {
+        "Case #": "2022-2478",
+        "Sales Date": "9/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC F/K/A QUICKEN LOANS INC. vs NADINE FRESNEL FULLER, INDIVIDUALLY, AND IN HER CAPACITY AS CURATRIX FOR EDDIE JOSEPH FULLER, III",
+        "Address/Description": "6001 WRIGHT RD  NEW ORLEANS LA 70128",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$342,551.14",
+        "Terms and Conditions": "",
+        "Latitude": 30.03987164361105,
+        "Longitude": -89.96688868053432
+    },
+    {
         "Case #": "2022-4150",
         "Sales Date": "9/15/2022",
         "Property Status": "Scheduled",
@@ -1493,5 +1558,31 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2022-4149",
+        "Sales Date": "9/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs THU X. CAN AND KIM TUYET DINH CAN",
+        "Address/Description": "624-26 S RENDON ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$15,915.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9667033,
+        "Longitude": -90.0952012
+    },
+    {
+        "Case #": "2022-3584",
+        "Sales Date": "9/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "REVERSE MORTGAGE FUNDING LLC vs ERMENCE DEBOSE PARENT",
+        "Address/Description": "7422 SPRINGLAKE DR  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$220,103.38",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.030623530604384,
+        "Longitude": -90.00612109878321
     }
 ]
