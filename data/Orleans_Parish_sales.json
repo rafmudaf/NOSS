@@ -52,19 +52,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2020-923",
-        "Sales Date": "6/23/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CASCADE FUNDING MORTGAGE TRUST HB7 vs JULIA JOHNSON FISHER, (AKA JULIA MARIE JOHNSON, JULIA MARIE FISHER)",
-        "Address/Description": "7671 DUNE DR  NEW ORLEANS LA 70128",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\198746.JPG",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$146,579.71",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.058219428571427,
-        "Longitude": -89.96019357142858
-    },
-    {
         "Case #": "2018-2922",
         "Sales Date": "6/23/2022",
         "Property Status": "Scheduled",
@@ -76,19 +63,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.9599501,
         "Longitude": -90.0111478
-    },
-    {
-        "Case #": "2022-1129",
-        "Sales Date": "6/30/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs KENNETH J. BARNES, OR HIS HEIRS, SUCCESSORS OR ASSIGNS",
-        "Address/Description": "2409-11 FIRST ST  NEW ORLEANS LA 70113",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\230373.JPG",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$1,205.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.939314,
-        "Longitude": -90.087556
     },
     {
         "Case #": "2020-2195",
@@ -128,19 +102,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.967961367346938,
         "Longitude": -90.11897291836735
-    },
-    {
-        "Case #": "2015-12025",
-        "Sales Date": "6/30/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "SELENE FINANCE LP vs N'KEIDRE RAYMON AND RYAN JONES AND TRENTEZ MIXON",
-        "Address/Description": "3506 DERBY PLACE  New Orleans LA ",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\20891.jpg",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$80,610.99",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.98697136734694,
-        "Longitude": -90.08302165306122
     },
     {
         "Case #": "2022-693",
@@ -258,19 +219,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.052925549999998,
         "Longitude": -89.96628995912766
-    },
-    {
-        "Case #": "2019-3854",
-        "Sales Date": "7/7/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs ANTHONY J. JEANMARIE, III AND NICOLE C. BELL-JEANMARIE",
-        "Address/Description": "7811 ALLISON RD  NEW ORLEANS LA 70126",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235940.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$151,979.52",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.035890444444444,
-        "Longitude": -90.00894166666667
     },
     {
         "Case #": "2015-9518",
@@ -1127,8 +1075,8 @@
         "Attorney": "LAW OFFICE OF KYLE S SCLAFANI",
         "Writ Amount": "$221,920.15",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9389344,
-        "Longitude": -90.0832457
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2017-6998",
@@ -1170,19 +1118,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2020-1136",
-        "Sales Date": "9/1/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT INDIVIDUALLY BUT SOLELY AS TRUSTEE FOR FINANCE OF AMERICA STRUCTURED SECURITIES ACQUISITION TRUST 2018-HB1 vs VERDENE TAYLOR THOMAS",
-        "Address/Description": "9920 E ROCKTON CR  NEW ORLEANS LA 70127",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\83645.JPG",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$160,804.17",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2021-6004",
         "Sales Date": "9/1/2022",
         "Property Status": "Scheduled",
@@ -1191,6 +1126,19 @@
         "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\193622.JPG",
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$53,018.79",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2020-1136",
+        "Sales Date": "9/1/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT INDIVIDUALLY BUT SOLELY AS TRUSTEE FOR FINANCE OF AMERICA STRUCTURED SECURITIES ACQUISITION TRUST 2018-HB1 vs VERDENE TAYLOR THOMAS",
+        "Address/Description": "9920 E ROCKTON CR  NEW ORLEANS LA 70127",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\83645.JPG",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$160,804.17",
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
@@ -1441,6 +1389,32 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.9574319,
         "Longitude": -90.1172343
+    },
+    {
+        "Case #": "2019-4799",
+        "Sales Date": "9/8/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "REGIONS BANK DBA REGIONS MORTGAGE SUCCESSOR BY MERGER TO UNION PLANTERS BANK, N.A. vs THE  SUCCESSION OF ISADORA TURNER THOMAS A/K/A ISADORA TURNER THOMAS A/K/A ISADORA T. THOMAS A/K/A ISADORA THOMAS",
+        "Address/Description": "4518 CAMELOT DR  NEW ORLEANS LA 70127",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\97019.JPG",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$61,179.05",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.017101323232325,
+        "Longitude": -89.98207087878788
+    },
+    {
+        "Case #": "2022-998",
+        "Sales Date": "9/8/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "ADMINISTRATOR, U.S. SMALL BUSINESS ADMINISTRATION, AN AGENCY OF THE  UNITED STATES GOVERNMENT vs LILLIAN RUSSELL MORAN A/K/A LILLIAN R. MORAN A/K/A LILLIAN MORAN IN HER INDIVIDUAL CAPACITY AND AS THE SURVIVING SPOUSE IN COMMUNITY OF SAMUEL L. MORAN, JR. A/K/A SAMUEL MORAN",
+        "Address/Description": "2139 ANNUNCIATION ST  NEW ORLEANS LA 70130",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\234094.JPG",
+        "Attorney": "CONDON, WOOD & BURKHART LLC",
+        "Writ Amount": "$77,890.66",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9274207,
+        "Longitude": -90.0744942
     },
     {
         "Case #": "2022-1174",
