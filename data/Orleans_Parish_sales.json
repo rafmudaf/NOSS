@@ -533,19 +533,6 @@
         "Longitude": -89.93335745675057
     },
     {
-        "Case #": "2022-3778",
-        "Sales Date": "8/11/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "WELLS FARGO BANK, N.A. vs DERRICK J. GREEN",
-        "Address/Description": "6962 DEANNE ST  NEW ORLEANS LA 70126",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\249582.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$92,886.89",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.023613349999998,
-        "Longitude": -90.02279539089167
-    },
-    {
         "Case #": "2020-8708",
         "Sales Date": "8/11/2022",
         "Property Status": "Scheduled",
@@ -1287,19 +1274,6 @@
         "Longitude": -90.06154289884768
     },
     {
-        "Case #": "2022-1940",
-        "Sales Date": "9/22/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "WELLS FARGO BANK, N.A., AS TRUSTEE FOR PARK PLACE SECURITIES, INC. ASSET-BACKED PASS-THROUGH CERTIFICATES SERIES 2005-WHQ1 vs CHARLES VALL, III, (A/K/A CHARLES VALL) AND MIRIAM ELLEN BRYANT VALL, (A/K/A MIRIAM ELLEN BRYANT, MIRIAM ELLEN BOWMAN, MARIAM ELLEN VALL)",
-        "Address/Description": "6621 MAUMUS AV  NEW ORLEANS LA 70131",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\236640.JPG",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$66,585.14",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.913542149999998,
-        "Longitude": -89.98388750380417
-    },
-    {
         "Case #": "2022-1988",
         "Sales Date": "9/22/2022",
         "Property Status": "Scheduled",
@@ -1311,6 +1285,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2022-1940",
+        "Sales Date": "9/22/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "WELLS FARGO BANK, N.A., AS TRUSTEE FOR PARK PLACE SECURITIES, INC. ASSET-BACKED PASS-THROUGH CERTIFICATES SERIES 2005-WHQ1 vs CHARLES VALL, III, (A/K/A CHARLES VALL) AND MIRIAM ELLEN BRYANT VALL, (A/K/A MIRIAM ELLEN BRYANT, MIRIAM ELLEN BOWMAN, MARIAM ELLEN VALL)",
+        "Address/Description": "6621 MAUMUS AV  NEW ORLEANS LA 70131",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\236640.JPG",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$66,585.14",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.913542149999998,
+        "Longitude": -89.98388750380417
     },
     {
         "Case #": "2019-13326",
@@ -1337,6 +1324,32 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.02672235,
         "Longitude": -89.96041610955473
+    },
+    {
+        "Case #": "2022-142",
+        "Sales Date": "9/29/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs DEMETRICA BRAZILE WINFIELD",
+        "Address/Description": "6021 DOROTHEA  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$2,705.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.025751142857143,
+        "Longitude": -90.02279665306123
+    },
+    {
+        "Case #": "2022-1242",
+        "Sales Date": "9/29/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs DERRICK R. BRESTON AND MADELINE SIMON BRESTON OR HER SUCCESSORS, HEIRS OR ASSIGNS",
+        "Address/Description": "2701-03 S ROBERTSON ST  NEW ORLEANS LA 70113",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$2,205.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-632",
@@ -1430,6 +1443,19 @@
         "Longitude": -90.00575275917271
     },
     {
+        "Case #": "2022-3557",
+        "Sales Date": "9/29/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "DLJ MORGAGE CAPITAL, INC. vs THE OPENED SUCCESSION OF BRIAN LEE, (A/K/A BRIAN LEE, SR., BRIAN W. LEE, SR. BRIAN W. LEE AND ADRIAN WILLIAMS LEE, (A/K/A ADRIAN WILLIAMS, ADRIAN W. LEE, ADRIAN LEE)",
+        "Address/Description": "4421 CROWDER BD  NEW ORLEANS LA 70127",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$117,826.22",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2022-3411",
         "Sales Date": "9/29/2022",
         "Property Status": "Scheduled",
@@ -1467,5 +1493,18 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.91485675,
         "Longitude": -89.9933284533517
+    },
+    {
+        "Case #": "2022-3416",
+        "Sales Date": "10/6/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "FREEDOM MORTGAGE CORPORATION vs ROBERT A. DUBOIS",
+        "Address/Description": "2622-24 MARTIN LUTHER KING, JR. BD  NEW ORLEANS LA 70113",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$241,359.42",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     }
 ]
