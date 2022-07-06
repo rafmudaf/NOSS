@@ -65,19 +65,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2020-37",
-        "Sales Date": "7/7/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "MORTGAGE ASSETS MANAGEMENT, LLC vs THE OPENED SUCCESSION OF IFEANYI CHARLES ANTHONY OKPALOBI",
-        "Address/Description": "4928 CARTIER AV  NEW ORLEANS LA 70122",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\78593.JPG",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$543,482.31",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.0077516,
-        "Longitude": -90.07950196032178
-    },
-    {
         "Case #": "2021-6829",
         "Sales Date": "7/7/2022",
         "Property Status": "Scheduled",
@@ -637,19 +624,6 @@
         "Longitude": -90.12678667346938
     },
     {
-        "Case #": "2021-3169",
-        "Sales Date": "8/25/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "LH-NP-ABS INCOME OWNER TRUST vs ROSE MARY CUMMINGS LANDRY A/K/A ROSE MARIE CUMMINGS LANDRY A/K/A ROSE M. CUMMINGS LANDRY A/K/A ROSE M. LANDRY A/K/A ROSE CUMMINGS AND WAYNE JOSEPH LANDRY A/K/A WAYNE J. LANDRY A/K/A WAYNE LANDRY",
-        "Address/Description": "2301 PENISTON ST  NEW ORLEANS LA 70115",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\176378.JPG",
-        "Attorney": "CONDON, WOOD & BURKHART LLC",
-        "Writ Amount": "$122,500.00",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9340028,
-        "Longitude": -90.0973024
-    },
-    {
         "Case #": "2021-3174",
         "Sales Date": "8/25/2022",
         "Property Status": "Scheduled",
@@ -1053,32 +1027,6 @@
         "Longitude": -90.07594815
     },
     {
-        "Case #": "2022-3569",
-        "Sales Date": "9/15/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "REGIONS BANK D/B/A REGIONS MORTGAGE vs AWNI SALEM KHALEK (A/K/A AWNI KHALEK)",
-        "Address/Description": "8300 CURRAN BD  NEW ORLEANS LA 70126",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\249586.JPG",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$122,889.78",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2022-4543",
-        "Sales Date": "9/15/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING vs BETTY LAWYER ALLISON A/K/A BETTY ANN LAWYER ALLISON ELLIOTT",
-        "Address/Description": "2033 EVERGREEN AV  NEW ORLEANS LA 70114",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$47,658.58",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.935977489795917,
-        "Longitude": -90.04742063265306
-    },
-    {
         "Case #": "2022-4150",
         "Sales Date": "9/15/2022",
         "Property Status": "Scheduled",
@@ -1116,6 +1064,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.984905375,
         "Longitude": -90.066280625
+    },
+    {
+        "Case #": "2022-3569",
+        "Sales Date": "9/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "REGIONS BANK D/B/A REGIONS MORTGAGE vs AWNI SALEM KHALEK (A/K/A AWNI KHALEK)",
+        "Address/Description": "8300 CURRAN BD  NEW ORLEANS LA 70126",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\249586.JPG",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$122,889.78",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-1999",
@@ -1261,19 +1222,6 @@
         "Longitude": -89.98574755
     },
     {
-        "Case #": "2022-2370",
-        "Sales Date": "9/22/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "ADMINISTRATOR, U.S. SMALL BUSINESS ADMINISTRATION, AN AGENCY OF THE UNITED STATES GOVERNMENT vs DONALD STEPHEN PLAISANCE, JR. AKA DONALD S. PLAISANCE AND KENNETH PLAISANCE, IN HIS PERSONAL CAPACITY AND IN HIS CAPACITY AS INDEPENDENT ADMINISTRATOR FOR THE SUCCESSION OF SANDRA OSBORNE PLAISANCE",
-        "Address/Description": "2900 PAUGER ST  NEW ORLEANS LA 70119",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\242914.JPG",
-        "Attorney": "CONDON, WOOD & BURKHART LLC",
-        "Writ Amount": "$629,290.64",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9795944,
-        "Longitude": -90.06154289884768
-    },
-    {
         "Case #": "2022-1988",
         "Sales Date": "9/22/2022",
         "Property Status": "Scheduled",
@@ -1300,17 +1248,30 @@
         "Longitude": -89.98388750380417
     },
     {
-        "Case #": "2019-13326",
+        "Case #": "2022-2289",
         "Sales Date": "9/22/2022",
         "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK NATIONAL ASSOCIATION vs BRUCE G. BAKER A/K/A BRUCE GEORGE BAKER, SR. AND TANYA B. DOUCETTE",
-        "Address/Description": "7860 DARLENE CT  NEW ORLEANS LA 70128",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\83639.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$69,612.55",
+        "Case Title": "CITY OF NEW ORLEANS vs REVELATION MISSIONARY BAPTIST CHURCH",
+        "Address/Description": "3531 WASHINGTON AV  NEW ORLEANS LA ",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\237606.JPG",
+        "Attorney": "",
+        "Writ Amount": "$1,805.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.946819040816326,
+        "Longitude": -90.09766559183673
+    },
+    {
+        "Case #": "2022-2370",
+        "Sales Date": "9/22/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "ADMINISTRATOR, U.S. SMALL BUSINESS ADMINISTRATION, AN AGENCY OF THE UNITED STATES GOVERNMENT vs DONALD STEPHEN PLAISANCE, JR. AKA DONALD S. PLAISANCE AND KENNETH PLAISANCE, IN HIS PERSONAL CAPACITY AND IN HIS CAPACITY AS INDEPENDENT ADMINISTRATOR FOR THE SUCCESSION OF SANDRA OSBORNE PLAISANCE",
+        "Address/Description": "2900 PAUGER ST  NEW ORLEANS LA 70119",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\242914.JPG",
+        "Attorney": "CONDON, WOOD & BURKHART LLC",
+        "Writ Amount": "$629,290.64",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9795944,
+        "Longitude": -90.06154289884768
     },
     {
         "Case #": "2019-11527",
@@ -1326,6 +1287,19 @@
         "Longitude": -89.96041610955473
     },
     {
+        "Case #": "2022-1878",
+        "Sales Date": "9/29/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs SUCCESSION OF MAE MARGARET SPEARS KENNEDY",
+        "Address/Description": "8815 STROELITZ ST  NEW ORLEANS LA 70118",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\237962.JPG",
+        "Attorney": "",
+        "Writ Amount": "$3,705.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.97035535,
+        "Longitude": -90.11664189767053
+    },
+    {
         "Case #": "2022-142",
         "Sales Date": "9/29/2022",
         "Property Status": "Scheduled",
@@ -1337,19 +1311,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.025751142857143,
         "Longitude": -90.02279665306123
-    },
-    {
-        "Case #": "2022-1242",
-        "Sales Date": "9/29/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs DERRICK R. BRESTON AND MADELINE SIMON BRESTON OR HER SUCCESSORS, HEIRS OR ASSIGNS",
-        "Address/Description": "2701-03 S ROBERTSON ST  NEW ORLEANS LA 70113",
-        "Picture": "",
-        "Attorney": "",
-        "Writ Amount": "$2,205.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
     },
     {
         "Case #": "2022-632",
@@ -1378,19 +1339,6 @@
         "Longitude": -90.09514029356451
     },
     {
-        "Case #": "2022-1878",
-        "Sales Date": "9/29/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs SUCCESSION OF MAE MARGARET SPEARS KENNEDY",
-        "Address/Description": "8815 STROELITZ ST  NEW ORLEANS LA 70118",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\237962.JPG",
-        "Attorney": "",
-        "Writ Amount": "$3,705.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.97035535,
-        "Longitude": -90.11664189767053
-    },
-    {
         "Case #": "2022-3945",
         "Sales Date": "9/29/2022",
         "Property Status": "Scheduled",
@@ -1415,6 +1363,32 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.98662742857143,
         "Longitude": -90.05949071428572
+    },
+    {
+        "Case #": "621-858",
+        "Sales Date": "9/29/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "OMNI BANK, STOREY MOUNTAIN, LLC vs ROBERT V. WINEBURG",
+        "Address/Description": "7149 WESTHAVEN RD  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "THE ONEBANE LAW FIRM APC",
+        "Writ Amount": "$30,026.35",
+        "Terms and Conditions": "With appraisal; 100% cash at the moment of adjudication.",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-2689",
+        "Sales Date": "9/29/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "DEUTSCHE BANK NATIONAL TRUST COMPANY , TRUSTEE, FOR CARRINGTON MORTGAGE LOAN TRUST, SERIES 2005-NC3 ASSET-BACKED PASS-THROUGH CERTIFICATES vs CHANEL D WATSON A/K/A CHANEL DAVIS WATSON, WIFE OF/AND RICKIE V. WATSON A/K/A RICHIE VANPATRICK WATSON",
+        "Address/Description": "7021 WAYSIDE DR  NEW ORLEANS LA 70128",
+        "Picture": "",
+        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
+        "Writ Amount": "$132,693.43",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.054021050000003,
+        "Longitude": -89.95222860153737
     },
     {
         "Case #": "2022-4453",
