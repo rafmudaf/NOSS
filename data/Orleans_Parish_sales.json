@@ -1560,6 +1560,19 @@
         "Longitude": -90.0707942
     },
     {
+        "Case #": "2022-3787",
+        "Sales Date": "10/20/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "NAVY FEDERAL CU vs GIOVANNI J. VITA AND CASSIDY HOOD A/K/A CASSIDY HOOD VITA",
+        "Address/Description": "2516 ELDER ST  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$176,826.09",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9942423,
+        "Longitude": -90.05106552705158
+    },
+    {
         "Case #": "2022-4875",
         "Sales Date": "10/20/2022",
         "Property Status": "Scheduled",
@@ -1571,6 +1584,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.030376167028987,
         "Longitude": -89.99743409219813
+    },
+    {
+        "Case #": "2022-3457",
+        "Sales Date": "10/20/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION vs JULETA C. JACQUES, RIVERS A. JACQUES, JR. AND JEANDELLE M. JACQUES, HEIRS OF RIVERS A. JACQUES, SR., DECEASED",
+        "Address/Description": "2183 N DORGENOIS ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
+        "Writ Amount": "$61,644.55",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.982774142857142,
+        "Longitude": -90.05886285714286
     },
     {
         "Case #": "2022-1241",
@@ -1599,19 +1625,6 @@
         "Longitude": -90.0521847755102
     },
     {
-        "Case #": "2022-4661",
-        "Sales Date": "11/3/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs HAROLD A. FOLEY, III AND VERLYN BRITTON FOLEY",
-        "Address/Description": "4301-03 FONTAINBEAU DR  AND 2027 S. SALCEDO STREET NEW ORLEANS LA ",
-        "Picture": "",
-        "Attorney": "",
-        "Writ Amount": "$72,995.36",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-4890",
         "Sales Date": "11/3/2022",
         "Property Status": "Scheduled",
@@ -1620,6 +1633,19 @@
         "Picture": "",
         "Attorney": "",
         "Writ Amount": "$4,355.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-4661",
+        "Sales Date": "11/3/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs HAROLD A. FOLEY, III AND VERLYN BRITTON FOLEY",
+        "Address/Description": "4301-03 FONTAINBEAU DR  AND 2027 S. SALCEDO STREET NEW ORLEANS LA ",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$72,995.36",
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
