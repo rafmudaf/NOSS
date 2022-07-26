@@ -130,19 +130,6 @@
         "Longitude": -89.99986472744669
     },
     {
-        "Case #": "2015-5264",
-        "Sales Date": "8/4/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "BANK OF NEW YORK MELLON TRUST COMPANY, N.A. AS TRUSTEE FOR MORTGAGE ASSETS MANAGEMENT SERIES I TRUST vs MARGIE R. VANCE",
-        "Address/Description": "1667 TREASURE STREET  New Orleans LA ",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\19929.jpg",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$86,341.60",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.98920795,
-        "Longitude": -90.07096689509194
-    },
-    {
         "Case #": "2018-12101",
         "Sales Date": "8/4/2022",
         "Property Status": "Scheduled",
@@ -1183,6 +1170,19 @@
         "Longitude": -90.05308427649805
     },
     {
+        "Case #": "2022-4452",
+        "Sales Date": "10/13/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs MELVIN J. BOUIE",
+        "Address/Description": "9119 EDINBURGH ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$118,252.24",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.970968900000003,
+        "Longitude": -90.1206124795956
+    },
+    {
         "Case #": "2022-4601",
         "Sales Date": "10/13/2022",
         "Property Status": "Scheduled",
@@ -1235,19 +1235,6 @@
         "Longitude": -90.05502822869565
     },
     {
-        "Case #": "2022-4452",
-        "Sales Date": "10/13/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs MELVIN J. BOUIE",
-        "Address/Description": "9119 EDINBURGH ST  NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$118,252.24",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.970968900000003,
-        "Longitude": -90.1206124795956
-    },
-    {
         "Case #": "2021-9103",
         "Sales Date": "10/13/2022",
         "Property Status": "Scheduled",
@@ -1298,6 +1285,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.0147876,
         "Longitude": -90.06908442256957
+    },
+    {
+        "Case #": "2022-5342",
+        "Sales Date": "10/20/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "REVERSE MORTGAGE FUNDING LLC vs ESTATE OF DARRELL A. GIBSON",
+        "Address/Description": "5470 STILLWATER DR  NEW ORLEANS LA 70128",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$131,509.13",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.0343452,
+        "Longitude": -89.95606627298801
     },
     {
         "Case #": "2022-4875",
@@ -1417,6 +1417,19 @@
         "Longitude": -90.05233823497198
     },
     {
+        "Case #": "2022-5229",
+        "Sales Date": "10/20/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET MORTGAGE PRODUCTS, INC., MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-RS2 vs AVIS RANSON JOHNSON A/K/A AVIS R. JOHNSON A/K/A AVIS JOHNSON AND ADRIAN D. JOHNSON A/K/A ADRIAN JOHNSON",
+        "Address/Description": "567 AURORA OAK DR  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$143,792.62",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2017-3199",
         "Sales Date": "10/20/2022",
         "Property Status": "Scheduled",
@@ -1428,6 +1441,32 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.0064018,
         "Longitude": -90.0707942
+    },
+    {
+        "Case #": "2022-3684",
+        "Sales Date": "10/20/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S.BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE NATIONAL BANK, AS TRUSTEE FOR BCF L.L.C. MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 1997-R3 vs EARL CLEMONS AND FRANCITTA CLEMONS AND ROBERT LEE BODY, SR. AND WARDELLA ANDERSON BODY, (A/K/A WARDELLA ANDERSON, WARDELLA BODY) AND DIMEYATA CLEMONS AND THE OPENED SUCCESSION OF HELEN O. WITHERSPOON, (A/K/A HELEN OLIVIA WITHERSPOON)",
+        "Address/Description": "4566 VIOLA ST  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$20,257.93",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.016663,
+        "Longitude": -89.99613690059414
+    },
+    {
+        "Case #": "2021-9913",
+        "Sales Date": "10/20/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs MICHAEL DELORIAN POGUE",
+        "Address/Description": "4587 MARQUE DR  NEW ORLEANS LA 70127",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\219925.JPG",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$2,205.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.01846469387755,
+        "Longitude": -89.97649204081632
     },
     {
         "Case #": "2019-8878",
@@ -1456,19 +1495,6 @@
         "Longitude": -90.10683301002388
     },
     {
-        "Case #": "2022-1241",
-        "Sales Date": "10/27/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs WALTER CLAIBORNE AND DES CAPITAL, LLC",
-        "Address/Description": "1335 FLOOD ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$26,206.43",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.964075,
-        "Longitude": -90.0157237
-    },
-    {
         "Case #": "2022-974",
         "Sales Date": "10/27/2022",
         "Property Status": "Scheduled",
@@ -1480,6 +1506,19 @@
         "Terms and Conditions": "",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2022-1241",
+        "Sales Date": "10/27/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs WALTER CLAIBORNE AND DES CAPITAL, LLC",
+        "Address/Description": "1335 FLOOD ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$26,206.43",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.964075,
+        "Longitude": -90.0157237
     },
     {
         "Case #": "2022-2467",
@@ -1519,19 +1558,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.0248326,
         "Longitude": -89.96733245157412
-    },
-    {
-        "Case #": "2022-5249",
-        "Sales Date": "10/27/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs KEVIN L. WILLIAMS",
-        "Address/Description": "11270 S IDLEWOOD CT  NEW ORLEANS LA 70128",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$127,825.75",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.0318179,
-        "Longitude": -89.95533894306705
     },
     {
         "Case #": "2022-1813",
