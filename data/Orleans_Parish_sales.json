@@ -65,19 +65,6 @@
         "Longitude": -90.059661
     },
     {
-        "Case #": "2022-2186",
-        "Sales Date": "7/28/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "PNC BANK, NATIONAL ASSOCIATION vs VINCENT PACIERA, III",
-        "Address/Description": "501 DAVID ST  NEW ORLEANS LA 70119",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\242917.JPG",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$162,929.91",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9783663,
-        "Longitude": -90.098513
-    },
-    {
         "Case #": "2022-2847",
         "Sales Date": "8/4/2022",
         "Property Status": "Scheduled",
@@ -498,7 +485,7 @@
         "Sales Date": "9/8/2022",
         "Property Status": "Scheduled",
         "Case Title": "CITY OF NEW ORLEANS vs DARRIN A. DUFAUCHARD AND JAMES R. SMITH",
-        "Address/Description": "1515-15 1/2 WARFIELD ST  NEW ORLEANS LA ",
+        "Address/Description": "7215-15 1/2 WARFIELD ST  NEW ORLEANS LA ",
         "Picture": "",
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$19,672.74",
@@ -825,7 +812,7 @@
         "Case Title": "CITY OF NEW ORLEANS vs DEMETRICA BRAZILE WINFIELD",
         "Address/Description": "6021 DOROTHEA  NEW ORLEANS LA 70126",
         "Picture": "",
-        "Attorney": "",
+        "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$2,705.00",
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.025751142857143,
@@ -1118,19 +1105,6 @@
         "Longitude": -90.062027
     },
     {
-        "Case #": "2022-2633",
-        "Sales Date": "10/13/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "ANGEL OAK BRIDGE LENDING FUND, LP vs 3D ENTERPRISES INTERNATIONAL, LLC",
-        "Address/Description": "8520-22 BILL ST  NEW ORLEANS LA 70127",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\249587.JPG",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$94,574.49",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-2568",
         "Sales Date": "10/13/2022",
         "Property Status": "Scheduled",
@@ -1142,6 +1116,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.930852950000002,
         "Longitude": -90.00788382737673
+    },
+    {
+        "Case #": "2022-2633",
+        "Sales Date": "10/13/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "ANGEL OAK BRIDGE LENDING FUND, LP vs 3D ENTERPRISES INTERNATIONAL, LLC",
+        "Address/Description": "8520-22 BILL ST  NEW ORLEANS LA 70127",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\249587.JPG",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$94,574.49",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2020-1953",
@@ -1209,19 +1196,6 @@
         "Longitude": -89.9643856115647
     },
     {
-        "Case #": "2022-4300",
-        "Sales Date": "10/13/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs SAMUEL A. WYLIE OR HIS SUCCESSORS, HEIRS, AND ASSIGNS AND SUCCESSION OF LILLIANN BANNER WYLIE",
-        "Address/Description": "2443 LOUISA ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "",
-        "Writ Amount": "$4,855.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.98149215,
-        "Longitude": -90.03794025656737
-    },
-    {
         "Case #": "2022-1534",
         "Sales Date": "10/13/2022",
         "Property Status": "Scheduled",
@@ -1233,6 +1207,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.988290499999998,
         "Longitude": -90.05502822869565
+    },
+    {
+        "Case #": "2022-4300",
+        "Sales Date": "10/13/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs SAMUEL A. WYLIE OR HIS SUCCESSORS, HEIRS, AND ASSIGNS AND SUCCESSION OF LILLIANN BANNER WYLIE",
+        "Address/Description": "2443 LOUISA ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$4,855.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.98149215,
+        "Longitude": -90.03794025656737
     },
     {
         "Case #": "2021-9103",
@@ -1313,19 +1300,6 @@
         "Longitude": -89.99743409219813
     },
     {
-        "Case #": "2022-4883",
-        "Sales Date": "10/20/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "LAKEVIEW LOAN SERVICING, LLC vs CAMREON DYER",
-        "Address/Description": "2525-27 S DORGENOIS ST  NEW ORLEANS LA 70125",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$156,818.85",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-5185",
         "Sales Date": "10/20/2022",
         "Property Status": "Scheduled",
@@ -1378,32 +1352,6 @@
         "Longitude": -90.11333704599167
     },
     {
-        "Case #": "2021-1240",
-        "Sales Date": "10/20/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "SUNSET HARBOUR, LLC vs EDWARD L. RENTON, JR. AND FRANK NEWFIELD, JR.",
-        "Address/Description": "",
-        "Picture": "",
-        "Attorney": "JAMES E. USCHOLD, PLC",
-        "Writ Amount": "",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2022-3457",
-        "Sales Date": "10/20/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION vs JULETA C. JACQUES, RIVERS A. JACQUES, JR. AND JEANDELLE M. JACQUES, HEIRS OF RIVERS A. JACQUES, SR., DECEASED",
-        "Address/Description": "2183 N DORGENOIS ST  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
-        "Writ Amount": "$61,644.55",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.982774142857142,
-        "Longitude": -90.05886285714286
-    },
-    {
         "Case #": "2022-5043",
         "Sales Date": "10/20/2022",
         "Property Status": "Scheduled",
@@ -1428,6 +1376,45 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2022-3457",
+        "Sales Date": "10/20/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION vs JULETA C. JACQUES, RIVERS A. JACQUES, JR. AND JEANDELLE M. JACQUES, HEIRS OF RIVERS A. JACQUES, SR., DECEASED",
+        "Address/Description": "2183 N DORGENOIS ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
+        "Writ Amount": "$61,644.55",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.982774142857142,
+        "Longitude": -90.05886285714286
+    },
+    {
+        "Case #": "2021-1240",
+        "Sales Date": "10/20/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "SUNSET HARBOUR, LLC vs EDWARD L. RENTON, JR. AND FRANK NEWFIELD, JR.",
+        "Address/Description": "",
+        "Picture": "",
+        "Attorney": "JAMES E. USCHOLD, PLC",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-4840",
+        "Sales Date": "10/20/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs 2100 ST. CLAUDE, LLC",
+        "Address/Description": "2100 ST CLAUDE AV  NEW ORLEANS LA ",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$1,205.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9683144,
+        "Longitude": -90.05791981523437
     },
     {
         "Case #": "2017-3199",
@@ -1560,6 +1547,32 @@
         "Longitude": -89.96733245157412
     },
     {
+        "Case #": "2022-3778",
+        "Sales Date": "10/27/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "WELLS FARGO BANK, N.A. vs DERRICK J. GREEN",
+        "Address/Description": "6962 DEANNE ST  NEW ORLEANS LA 70126",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\249582.JPG",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$92,886.89",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.023613349999998,
+        "Longitude": -90.02279539089167
+    },
+    {
+        "Case #": "2022-3311",
+        "Sales Date": "10/27/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "BANK OF AMERICA, N.A. vs CYNTHIA L. MANDARINO A/K/A CYNTHIA L MANDARINO MATTHEWS",
+        "Address/Description": "3140 ST ANN ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$15,240.61",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9748551,
+        "Longitude": -90.0877738
+    },
+    {
         "Case #": "2022-1813",
         "Sales Date": "10/27/2022",
         "Property Status": "Scheduled",
@@ -1599,17 +1612,43 @@
         "Longitude": -90.09069642857143
     },
     {
-        "Case #": "2022-4890",
+        "Case #": "2022-4889",
         "Sales Date": "11/3/2022",
         "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs BETTY LYNCH AND NONDC (AKA HARMONY NEIGHBORHOOD DEVELOPMENT, INC FKA NEW ORLEANS NEIGHBORHOOD DEVELOPMENT COLLABORATIVE, INC)",
-        "Address/Description": "2121 REV. JOHN RAPHAEL JR. WAY/LASALLE ST  NEW ORLEANS LA 70113",
+        "Case Title": "CITY OF NEW ORLEANS vs DEYVIS EUGENIO VELA ESPINOZA",
+        "Address/Description": "1854 INDUSTRY ST  NEW ORLEANS LA 70119",
         "Picture": "",
         "Attorney": "",
-        "Writ Amount": "$4,355.00",
+        "Writ Amount": "$8,914.56",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.986111049999998,
+        "Longitude": -90.06603965228607
+    },
+    {
+        "Case #": "2022-5252",
+        "Sales Date": "11/3/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "HOME BANK, N.A. vs JOHNNY L. LENOIR",
+        "Address/Description": "5424 ELYSIAN FIELDS AV  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
+        "Writ Amount": "$109,033.05",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.01338465,
+        "Longitude": -90.06089035943171
+    },
+    {
+        "Case #": "2022-5153",
+        "Sales Date": "11/3/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "NATIONSTAR MORTGAGE LLC D/B/A MR. COOPER vs FERDINAND TONEY",
+        "Address/Description": "2115-17 PLEASURE ST  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$34,492.72",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9921493,
+        "Longitude": -90.0707063
     },
     {
         "Case #": "2022-4661",
@@ -1649,6 +1688,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.916631199999998,
         "Longitude": -89.98859309110898
+    },
+    {
+        "Case #": "2022-4890",
+        "Sales Date": "11/3/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs BETTY LYNCH AND NONDC (AKA HARMONY NEIGHBORHOOD DEVELOPMENT, INC FKA NEW ORLEANS NEIGHBORHOOD DEVELOPMENT COLLABORATIVE, INC)",
+        "Address/Description": "2121 REV. JOHN RAPHAEL JR. WAY/LASALLE ST  NEW ORLEANS LA 70113",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$4,355.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-667",
