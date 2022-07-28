@@ -13,19 +13,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2022-2108",
-        "Sales Date": "7/28/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2019-3 vs ACHILLE P. DURONSLET",
-        "Address/Description": "3322 N ROBERTSON ST  NEW ORLEANS LA ",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235933.JPG",
-        "Attorney": "DWYER, CAMBRE & SUFFERN, APLC",
-        "Writ Amount": "$116,142.62",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9707097,
-        "Longitude": -90.03982760362165
-    },
-    {
         "Case #": "2021-7064",
         "Sales Date": "7/28/2022",
         "Property Status": "Scheduled",
@@ -604,7 +591,7 @@
         "Case Title": "CITY OF NEW ORLEANS vs THU X. CAN AND KIM TUYET DINH CAN",
         "Address/Description": "624-26 S RENDON ST  NEW ORLEANS LA 70119",
         "Picture": "",
-        "Attorney": "",
+        "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$15,915.00",
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.9667033,
@@ -1105,19 +1092,6 @@
         "Longitude": -90.062027
     },
     {
-        "Case #": "2022-2568",
-        "Sales Date": "10/13/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs BRADLEY E. RICHARDS A/K/A BRADLEY EARL RICHARDS",
-        "Address/Description": "1311 KABEL DR  NEW ORLEANS LA 70131",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\251607.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$105,703.20",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.930852950000002,
-        "Longitude": -90.00788382737673
-    },
-    {
         "Case #": "2022-2633",
         "Sales Date": "10/13/2022",
         "Property Status": "Scheduled",
@@ -1129,6 +1103,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2022-2568",
+        "Sales Date": "10/13/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs BRADLEY E. RICHARDS A/K/A BRADLEY EARL RICHARDS",
+        "Address/Description": "1311 KABEL DR  NEW ORLEANS LA 70131",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\251607.JPG",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$105,703.20",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.930852950000002,
+        "Longitude": -90.00788382737673
     },
     {
         "Case #": "2020-1953",
@@ -1157,19 +1144,6 @@
         "Longitude": -90.05308427649805
     },
     {
-        "Case #": "2022-4452",
-        "Sales Date": "10/13/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs MELVIN J. BOUIE",
-        "Address/Description": "9119 EDINBURGH ST  NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$118,252.24",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.970968900000003,
-        "Longitude": -90.1206124795956
-    },
-    {
         "Case #": "2022-4601",
         "Sales Date": "10/13/2022",
         "Property Status": "Scheduled",
@@ -1183,17 +1157,17 @@
         "Longitude": -90.10477594715162
     },
     {
-        "Case #": "2022-3976",
+        "Case #": "2022-4452",
         "Sales Date": "10/13/2022",
         "Property Status": "Scheduled",
-        "Case Title": "LAKEVIEW LOAN SERVICING LLC vs DONALD CAUDILL A/K/A DONALD P. CAUDILL",
-        "Address/Description": "7901 PARRY ST  NEW ORLEANS LA 70128",
+        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs MELVIN J. BOUIE",
+        "Address/Description": "9119 EDINBURGH ST  NEW ORLEANS LA 70118",
         "Picture": "",
         "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$44,864.87",
+        "Writ Amount": "$118,252.24",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.0583289,
-        "Longitude": -89.9643856115647
+        "Latitude": 29.970968900000003,
+        "Longitude": -90.1206124795956
     },
     {
         "Case #": "2022-1534",
@@ -1222,6 +1196,32 @@
         "Longitude": -90.03794025656737
     },
     {
+        "Case #": "2022-3976",
+        "Sales Date": "10/13/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "LAKEVIEW LOAN SERVICING LLC vs DONALD CAUDILL A/K/A DONALD P. CAUDILL",
+        "Address/Description": "7901 PARRY ST  NEW ORLEANS LA 70128",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$44,864.87",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.0583289,
+        "Longitude": -89.9643856115647
+    },
+    {
+        "Case #": "2022-5189",
+        "Sales Date": "10/13/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "MIDFIRST BANK vs BETTY SULLIVAN ANYANWU",
+        "Address/Description": "5655 NORGATE DR  NEW ORLEANS LA 70127",
+        "Picture": "",
+        "Attorney": "KIZER, HOOD & MORGAN, LLP",
+        "Writ Amount": "$67,727.20",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2021-9103",
         "Sales Date": "10/13/2022",
         "Property Status": "Scheduled",
@@ -1235,15 +1235,67 @@
         "Longitude": -90.0798889
     },
     {
-        "Case #": "2022-5189",
+        "Case #": "2022-5244",
         "Sales Date": "10/13/2022",
         "Property Status": "Scheduled",
-        "Case Title": "MIDFIRST BANK vs BETTY SULLIVAN ANYANWU",
-        "Address/Description": "5655 NORGATE DR  NEW ORLEANS LA 70127",
+        "Case Title": "BARCLAYS BANK PLC vs ERICA TERRY (ERICA DANIEL TERRY, ERICA DANIEL)",
+        "Address/Description": "1304 ASHLAND  NEW ORLEANS LA 70128",
         "Picture": "",
-        "Attorney": "KIZER, HOOD & MORGAN, LLP",
-        "Writ Amount": "$67,727.20",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$160,512.03",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.0531403,
+        "Longitude": -89.95346
+    },
+    {
+        "Case #": "2022-5490",
+        "Sales Date": "10/13/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs JOHN BELLINI, III",
+        "Address/Description": "400 COUNTRY CLUB DR  NEW ORLEANS LA 70124",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$426,749.67",
         "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9909854,
+        "Longitude": -90.12162966768452
+    },
+    {
+        "Case #": "2022-2589",
+        "Sales Date": "10/13/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "REVERSE MORTGAGE SOLUTIONS, INC. vs THE UNOPENED SUCCESSION OF JOSEPHINE ROBERTS DUCHANE  A/K/A JOSEPHINE ROBERTS DUCHANEA /K/A JOSEPHINE R. DUCHANE A/K/A JOSEPHINE DUCHANE A/K/A JOSEPHINE ROBERTS",
+        "Address/Description": "1008 CHARBONNET ST  # 10 NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$185,884.30",
+        "Terms and Conditions": "",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2017-4470",
+        "Sales Date": "10/13/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR MERRILL LYNCH MORTGAGE INVESTORS TRUST, MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-HE3 vs BRIAN W. FAIR, (A/K/A BRIAN WILLIAM FAIR) AND HELGA EISELE FAIR, (A/K/A HELGA EISELE DUCOTE, HELGA EISELE)",
+        "Address/Description": "609 LYONS ST  NEW ORLEANS LA 70115",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$320,927.52",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.91766718367347,
+        "Longitude": -90.10682824489797
+    },
+    {
+        "Case #": "2021-1240",
+        "Sales Date": "10/20/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "SUNSET HARBOUR, LLC vs EDWARD L. RENTON, JR. AND FRANK NEWFIELD, JR.",
+        "Address/Description": "",
+        "Picture": "",
+        "Attorney": "JAMES E. USCHOLD, PLC",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
     },
@@ -1391,19 +1443,6 @@
         "Longitude": -90.05886285714286
     },
     {
-        "Case #": "2021-1240",
-        "Sales Date": "10/20/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "SUNSET HARBOUR, LLC vs EDWARD L. RENTON, JR. AND FRANK NEWFIELD, JR.",
-        "Address/Description": "",
-        "Picture": "",
-        "Attorney": "JAMES E. USCHOLD, PLC",
-        "Writ Amount": "",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-4840",
         "Sales Date": "10/20/2022",
         "Property Status": "Scheduled",
@@ -1532,6 +1571,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.02408224489796,
         "Longitude": -90.0521847755102
+    },
+    {
+        "Case #": "2022-2253",
+        "Sales Date": "10/27/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS INDENTURE TRUSTEE OF CIM TRUST 2021-NR3 vs FLOYD M. PERSON A/K/A FLOYD PERSON AND CHERYL PROVO PERSON A/K/A CHERYL P. PERSON A/K/A CHERYL PERSON",
+        "Address/Description": "3534 CLEMATIS AV  NEW ORLEANS LA 70122",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235915.JPG",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$1,052.72",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2019-6453",
