@@ -624,19 +624,6 @@
         "Longitude": -90.06154289884768
     },
     {
-        "Case #": "2022-3060",
-        "Sales Date": "9/22/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "FREEDOM MORTGAGE CORPORATION vs THOMAS SCHMIDT, III",
-        "Address/Description": "8823 BIRCH ST  NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$394,106.08",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9553256,
-        "Longitude": -90.1329204
-    },
-    {
         "Case #": "2022-4441",
         "Sales Date": "9/22/2022",
         "Property Status": "Scheduled",
@@ -1053,17 +1040,17 @@
         "Longitude": -89.97812065197168
     },
     {
-        "Case #": "2022-4344",
+        "Case #": "2022-4452",
         "Sales Date": "10/13/2022",
         "Property Status": "Scheduled",
-        "Case Title": "GMFS LLC vs CHARLES EARL DANCY, INDEPENDENT ADMINISTRATOR OF THE SUCCESSION OF LIONELL HERBERT BROWN, JR., A/K/A LIONEL HERBERT BROWN, JR.",
-        "Address/Description": "2419 AGRICULTURE ST  NEW ORLEANS LA 70122",
+        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs MELVIN J. BOUIE",
+        "Address/Description": "9119 EDINBURGH ST  NEW ORLEANS LA 70118",
         "Picture": "",
         "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$83,459.81",
+        "Writ Amount": "$118,252.24",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.988345250000002,
-        "Longitude": -90.05308427649805
+        "Latitude": 29.970968900000003,
+        "Longitude": -90.1206124795956
     },
     {
         "Case #": "2022-4601",
@@ -1079,17 +1066,17 @@
         "Longitude": -90.10477594715162
     },
     {
-        "Case #": "2022-4452",
+        "Case #": "2022-4344",
         "Sales Date": "10/13/2022",
         "Property Status": "Scheduled",
-        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs MELVIN J. BOUIE",
-        "Address/Description": "9119 EDINBURGH ST  NEW ORLEANS LA 70118",
+        "Case Title": "GMFS LLC vs CHARLES EARL DANCY, INDEPENDENT ADMINISTRATOR OF THE SUCCESSION OF LIONELL HERBERT BROWN, JR., A/K/A LIONEL HERBERT BROWN, JR.",
+        "Address/Description": "2419 AGRICULTURE ST  NEW ORLEANS LA 70122",
         "Picture": "",
         "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$118,252.24",
+        "Writ Amount": "$83,459.81",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.970968900000003,
-        "Longitude": -90.1206124795956
+        "Latitude": 29.988345250000002,
+        "Longitude": -90.05308427649805
     },
     {
         "Case #": "2022-1534",
@@ -1105,6 +1092,19 @@
         "Longitude": -90.05502822869565
     },
     {
+        "Case #": "2022-3976",
+        "Sales Date": "10/13/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "LAKEVIEW LOAN SERVICING LLC vs DONALD CAUDILL A/K/A DONALD P. CAUDILL",
+        "Address/Description": "7901 PARRY ST  NEW ORLEANS LA 70128",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$44,864.87",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.0583289,
+        "Longitude": -89.9643856115647
+    },
+    {
         "Case #": "2022-4300",
         "Sales Date": "10/13/2022",
         "Property Status": "Scheduled",
@@ -1118,17 +1118,17 @@
         "Longitude": -90.03794025656737
     },
     {
-        "Case #": "2022-3976",
+        "Case #": "2022-2589",
         "Sales Date": "10/13/2022",
         "Property Status": "Scheduled",
-        "Case Title": "LAKEVIEW LOAN SERVICING LLC vs DONALD CAUDILL A/K/A DONALD P. CAUDILL",
-        "Address/Description": "7901 PARRY ST  NEW ORLEANS LA 70128",
+        "Case Title": "REVERSE MORTGAGE SOLUTIONS, INC. vs THE UNOPENED SUCCESSION OF JOSEPHINE ROBERTS DUCHANE  A/K/A JOSEPHINE ROBERTS DUCHANEA /K/A JOSEPHINE R. DUCHANE A/K/A JOSEPHINE DUCHANE A/K/A JOSEPHINE ROBERTS",
+        "Address/Description": "1008 CHARBONNET ST  # 10 NEW ORLEANS LA 70117",
         "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$44,864.87",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.0583289,
-        "Longitude": -89.9643856115647
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$185,884.30",
+        "Terms and Conditions": "",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-5189",
@@ -1196,45 +1196,6 @@
         "Longitude": -90.12162966768452
     },
     {
-        "Case #": "2022-2589",
-        "Sales Date": "10/13/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "REVERSE MORTGAGE SOLUTIONS, INC. vs THE UNOPENED SUCCESSION OF JOSEPHINE ROBERTS DUCHANE  A/K/A JOSEPHINE ROBERTS DUCHANEA /K/A JOSEPHINE R. DUCHANE A/K/A JOSEPHINE DUCHANE A/K/A JOSEPHINE ROBERTS",
-        "Address/Description": "1008 CHARBONNET ST  # 10 NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$185,884.30",
-        "Terms and Conditions": "",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2022-3457",
-        "Sales Date": "10/20/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION vs JULETA C. JACQUES, RIVERS A. JACQUES, JR. AND JEANDELLE M. JACQUES, HEIRS OF RIVERS A. JACQUES, SR., DECEASED",
-        "Address/Description": "2183 N DORGENOIS ST  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
-        "Writ Amount": "$61,644.55",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.982774142857142,
-        "Longitude": -90.05886285714286
-    },
-    {
-        "Case #": "2021-1240",
-        "Sales Date": "10/20/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "SUNSET HARBOUR, LLC vs EDWARD L. RENTON, JR. AND FRANK NEWFIELD, JR.",
-        "Address/Description": "",
-        "Picture": "",
-        "Attorney": "JAMES E. USCHOLD, PLC",
-        "Writ Amount": "",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-5043",
         "Sales Date": "10/20/2022",
         "Property Status": "Scheduled",
@@ -1259,6 +1220,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2022-3457",
+        "Sales Date": "10/20/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION vs JULETA C. JACQUES, RIVERS A. JACQUES, JR. AND JEANDELLE M. JACQUES, HEIRS OF RIVERS A. JACQUES, SR., DECEASED",
+        "Address/Description": "2183 N DORGENOIS ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
+        "Writ Amount": "$61,644.55",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.982774142857142,
+        "Longitude": -90.05886285714286
     },
     {
         "Case #": "2022-3787",
@@ -1365,17 +1339,17 @@
         "Longitude": -90.11333704599167
     },
     {
-        "Case #": "2022-4840",
+        "Case #": "2021-1240",
         "Sales Date": "10/20/2022",
         "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs 2100 ST. CLAUDE, LLC",
-        "Address/Description": "2100 ST CLAUDE AV  NEW ORLEANS LA ",
+        "Case Title": "SUNSET HARBOUR, LLC vs EDWARD L. RENTON, JR. AND FRANK NEWFIELD, JR.",
+        "Address/Description": "",
         "Picture": "",
-        "Attorney": "",
-        "Writ Amount": "$1,205.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9683144,
-        "Longitude": -90.05791981523437
+        "Attorney": "JAMES E. USCHOLD, PLC",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2017-3199",
@@ -1402,6 +1376,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.016663,
         "Longitude": -89.99613690059414
+    },
+    {
+        "Case #": "2022-4840",
+        "Sales Date": "10/20/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs 2100 ST. CLAUDE, LLC",
+        "Address/Description": "2100 ST CLAUDE AV  NEW ORLEANS LA ",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$1,205.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9683144,
+        "Longitude": -90.05791981523437
     },
     {
         "Case #": "2021-9913",
@@ -1547,6 +1534,32 @@
         "Longitude": -90.0157237
     },
     {
+        "Case #": "2022-4873",
+        "Sales Date": "10/27/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "PRIME IMPORTS COMPANY, INC. vs S & J REAL ESTATE GROUP, LLC AND STAR KAYLA LEWIS",
+        "Address/Description": "6727 DORIAN ST  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "THE SILVERSTEIN LAW FIRM, APLC",
+        "Writ Amount": "$67,938.15",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.02238885,
+        "Longitude": -90.01977897663454
+    },
+    {
+        "Case #": "2022-1813",
+        "Sales Date": "10/27/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION vs THE UNOPENED SUCCESSION OF HENRY L. IRVIN, SR., DECEASED",
+        "Address/Description": "2526 ST MAURICE AV  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
+        "Writ Amount": "$19,551.88",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9737952,
+        "Longitude": -90.00351365390071
+    },
+    {
         "Case #": "2022-4446",
         "Sales Date": "10/27/2022",
         "Property Status": "Scheduled",
@@ -1586,30 +1599,17 @@
         "Longitude": -90.087477
     },
     {
-        "Case #": "2022-1813",
-        "Sales Date": "10/27/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION vs THE UNOPENED SUCCESSION OF HENRY L. IRVIN, SR., DECEASED",
-        "Address/Description": "2526 ST MAURICE AV  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
-        "Writ Amount": "$19,551.88",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9737952,
-        "Longitude": -90.00351365390071
-    },
-    {
-        "Case #": "2022-4316",
+        "Case #": "2022-5252",
         "Sales Date": "11/3/2022",
         "Property Status": "Scheduled",
-        "Case Title": "REVERSE MORTGAGE FUNDING LLC vs THE UNOPENED SUCCESSION OF RICO RODRIGUEZ A/K/A RICO RODRIGUEZ AND ROSA AMERICA RODRIGUEZ A/K/A ROSA A. RODRIGUEZ A/K/A ROSA RODRIGUEZ A/K/A ROSA ISAAC RODRIGUEZ A/K/A ROSA I. RODRIGUEZ",
-        "Address/Description": "2745 BANKS ST  NEW ORLEANS LA 70119",
+        "Case Title": "HOME BANK, N.A. vs JOHNNY L. LENOIR",
+        "Address/Description": "5424 ELYSIAN FIELDS AV  NEW ORLEANS LA 70122",
         "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$96,568.63",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.963756755102043,
-        "Longitude": -90.09069642857143
+        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
+        "Writ Amount": "$109,033.05",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.01338465,
+        "Longitude": -90.06089035943171
     },
     {
         "Case #": "2022-5384",
@@ -1638,19 +1638,6 @@
         "Longitude": -90.07295914285714
     },
     {
-        "Case #": "2022-5252",
-        "Sales Date": "11/3/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "HOME BANK, N.A. vs JOHNNY L. LENOIR",
-        "Address/Description": "5424 ELYSIAN FIELDS AV  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
-        "Writ Amount": "$109,033.05",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.01338465,
-        "Longitude": -90.06089035943171
-    },
-    {
         "Case #": "2022-5768",
         "Sales Date": "11/3/2022",
         "Property Status": "Scheduled",
@@ -1675,6 +1662,32 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2022-4316",
+        "Sales Date": "11/3/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "REVERSE MORTGAGE FUNDING LLC vs THE UNOPENED SUCCESSION OF RICO RODRIGUEZ A/K/A RICO RODRIGUEZ AND ROSA AMERICA RODRIGUEZ A/K/A ROSA A. RODRIGUEZ A/K/A ROSA RODRIGUEZ A/K/A ROSA ISAAC RODRIGUEZ A/K/A ROSA I. RODRIGUEZ",
+        "Address/Description": "2745 BANKS ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$96,568.63",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.963756755102043,
+        "Longitude": -90.09069642857143
+    },
+    {
+        "Case #": "2022-4889",
+        "Sales Date": "11/3/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs DEYVIS EUGENIO VELA ESPINOZA",
+        "Address/Description": "1854 INDUSTRY ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$8,914.56",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.986111049999998,
+        "Longitude": -90.06603965228607
     },
     {
         "Case #": "2022-4661",
@@ -1714,19 +1727,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.916631199999998,
         "Longitude": -89.98859309110898
-    },
-    {
-        "Case #": "2022-4889",
-        "Sales Date": "11/3/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs DEYVIS EUGENIO VELA ESPINOZA",
-        "Address/Description": "1854 INDUSTRY ST  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "",
-        "Writ Amount": "$8,914.56",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.986111049999998,
-        "Longitude": -90.06603965228607
     },
     {
         "Case #": "2022-667",
