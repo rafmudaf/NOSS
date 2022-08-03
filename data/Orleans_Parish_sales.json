@@ -109,7 +109,7 @@
         "Property Status": "Scheduled",
         "Case Title": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2016-1 vs CHARLES E. MOORE, III",
         "Address/Description": "2734 ST BERNARD AV  NEW ORLEANS LA ",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\137213.JPG",
+        "Picture": "",
         "Attorney": "DWYER, CAMBRE & SUFFERN, APLC",
         "Writ Amount": "$168,015.31",
         "Terms and Conditions": "With appraisal; ",
@@ -1365,6 +1365,19 @@
         "Longitude": -89.99743409219813
     },
     {
+        "Case #": "2022-4873",
+        "Sales Date": "10/27/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "PRIME IMPORTS COMPANY, INC. vs S & J REAL ESTATE GROUP, LLC AND STAR KAYLA LEWIS",
+        "Address/Description": "6727 DORIAN ST  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "THE SILVERSTEIN LAW FIRM, APLC",
+        "Writ Amount": "$67,938.15",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.02238885,
+        "Longitude": -90.01977897663454
+    },
+    {
         "Case #": "2022-1813",
         "Sales Date": "10/27/2022",
         "Property Status": "Scheduled",
@@ -1389,19 +1402,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.9410248,
         "Longitude": -90.087477
-    },
-    {
-        "Case #": "2022-4873",
-        "Sales Date": "10/27/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "PRIME IMPORTS COMPANY, INC. vs S & J REAL ESTATE GROUP, LLC AND STAR KAYLA LEWIS",
-        "Address/Description": "6727 DORIAN ST  NEW ORLEANS LA 70126",
-        "Picture": "",
-        "Attorney": "THE SILVERSTEIN LAW FIRM, APLC",
-        "Writ Amount": "$67,938.15",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.02238885,
-        "Longitude": -90.01977897663454
     },
     {
         "Case #": "2022-3311",
@@ -1443,19 +1443,6 @@
         "Longitude": -90.10683301002388
     },
     {
-        "Case #": "2022-974",
-        "Sales Date": "10/27/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK, N.A., SUCCESSOR TRUSTEE TO LASALLE BANK NATIONAL ASSOCIATION, ON BEHALF OF THE HOLDERS OF BEAR STEARNS ASSET BACKED SECURITIES I TRUST 2005-HE8, ASSET-BACKED CERTIFICATES SERIES 2005-HE8 vs THE SUCCESSION OF ARMITEEN CUFFEE A/K/A ARMITEEN CUFFEE A/K/A ARMITEEN MCKELPHIN CUFFEE A/K/A ARMITEEN M. CUFFEE, MAYLORIE ROBEY HAYES A/K/A MAYLORIE R. HAYES A/K/A MAYLORIE HAYES, WINDA ROBEY CHRISTOPHE A/K/A WINDA R. CHRISTOPHE A/K/A WINDA CHRISTOPHE, DEBORAH ROBEY HUNTER A/K/A DEBORAH R. HUNTER A/K/A DEBORAH HUNTER, BEVERLY ROBEY MAYES A/K/A BEVERLY R. MAYES A/K/A BEVERLY MAYES, LARRY ROBEY, BRENDA ROBEY BROWDER A/K/A BRENDA R. BROWDER A/K/A BRENDA BROWDER AND KELVIN ROBEY",
-        "Address/Description": "1838-38 1/2 PAULINE ST  NEW ORLEANS LA 70117",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235925.JPG",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$56,142.18",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-1241",
         "Sales Date": "10/27/2022",
         "Property Status": "Scheduled",
@@ -1467,19 +1454,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.964075,
         "Longitude": -90.0157237
-    },
-    {
-        "Case #": "2022-1901",
-        "Sales Date": "10/27/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "ADMINISTRATOR, U.S. SMALL BUSINESS ADMINISTRATION, AN AGENCY OF THE UNITED STATES GOVERNMENT vs EMELDA ALICE RIDDLE JACKSON A/K/A EMELDA A. JACKSON A/K/A EMELDA JACKSON A/K/A EMELDA RIDDLE JACKSON A/K/A EMELDA R. JACKSON",
-        "Address/Description": "6334 FRANKLIN AV  NEW ORLEANS LA 70122",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235938.JPG",
-        "Attorney": "CONDON, WOOD & BURKHART LLC",
-        "Writ Amount": "$81,671.96",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.02408224489796,
-        "Longitude": -90.0521847755102
     },
     {
         "Case #": "2022-2467",
@@ -1495,17 +1469,30 @@
         "Longitude": -90.05016898404585
     },
     {
-        "Case #": "2022-2253",
+        "Case #": "2022-974",
         "Sales Date": "10/27/2022",
         "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS INDENTURE TRUSTEE OF CIM TRUST 2021-NR3 vs FLOYD M. PERSON A/K/A FLOYD PERSON AND CHERYL PROVO PERSON A/K/A CHERYL P. PERSON A/K/A CHERYL PERSON",
-        "Address/Description": "3534 CLEMATIS AV  NEW ORLEANS LA 70122",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235915.JPG",
+        "Case Title": "U.S. BANK, N.A., SUCCESSOR TRUSTEE TO LASALLE BANK NATIONAL ASSOCIATION, ON BEHALF OF THE HOLDERS OF BEAR STEARNS ASSET BACKED SECURITIES I TRUST 2005-HE8, ASSET-BACKED CERTIFICATES SERIES 2005-HE8 vs THE SUCCESSION OF ARMITEEN CUFFEE A/K/A ARMITEEN CUFFEE A/K/A ARMITEEN MCKELPHIN CUFFEE A/K/A ARMITEEN M. CUFFEE, MAYLORIE ROBEY HAYES A/K/A MAYLORIE R. HAYES A/K/A MAYLORIE HAYES, WINDA ROBEY CHRISTOPHE A/K/A WINDA R. CHRISTOPHE A/K/A WINDA CHRISTOPHE, DEBORAH ROBEY HUNTER A/K/A DEBORAH R. HUNTER A/K/A DEBORAH HUNTER, BEVERLY ROBEY MAYES A/K/A BEVERLY R. MAYES A/K/A BEVERLY MAYES, LARRY ROBEY, BRENDA ROBEY BROWDER A/K/A BRENDA R. BROWDER A/K/A BRENDA BROWDER AND KELVIN ROBEY",
+        "Address/Description": "1838-38 1/2 PAULINE ST  NEW ORLEANS LA 70117",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235925.JPG",
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$1,052.72",
-        "Terms and Conditions": "Without appraisal; ",
+        "Writ Amount": "$56,142.18",
+        "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2022-1901",
+        "Sales Date": "10/27/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "ADMINISTRATOR, U.S. SMALL BUSINESS ADMINISTRATION, AN AGENCY OF THE UNITED STATES GOVERNMENT vs EMELDA ALICE RIDDLE JACKSON A/K/A EMELDA A. JACKSON A/K/A EMELDA JACKSON A/K/A EMELDA RIDDLE JACKSON A/K/A EMELDA R. JACKSON",
+        "Address/Description": "6334 FRANKLIN AV  NEW ORLEANS LA 70122",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235938.JPG",
+        "Attorney": "CONDON, WOOD & BURKHART LLC",
+        "Writ Amount": "$81,671.96",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.02408224489796,
+        "Longitude": -90.0521847755102
     },
     {
         "Case #": "2019-6453",
@@ -1547,6 +1534,32 @@
         "Longitude": null
     },
     {
+        "Case #": "2021-9357",
+        "Sales Date": "11/3/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs WILBERT THOMAS, SR.",
+        "Address/Description": "2230-32 FRANKLIN AV  NEW ORLEANS LA 70117",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\219927.JPG",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$6,705.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9741021,
+        "Longitude": -90.0487906
+    },
+    {
+        "Case #": "2021-9699",
+        "Sales Date": "11/3/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs BARRY G. CRYER",
+        "Address/Description": "2127-29 JOURDAN AV  NEW ORLEANS LA 70117",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\219946.JPG",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$2,205.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9663277,
+        "Longitude": -90.0243486
+    },
+    {
         "Case #": "2021-6829",
         "Sales Date": "11/3/2022",
         "Property Status": "Scheduled",
@@ -1571,32 +1584,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.975376750000002,
         "Longitude": -90.04308350357144
-    },
-    {
-        "Case #": "2022-4889",
-        "Sales Date": "11/3/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs DEYVIS EUGENIO VELA ESPINOZA",
-        "Address/Description": "1854 INDUSTRY ST  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "",
-        "Writ Amount": "$8,914.56",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.986111049999998,
-        "Longitude": -90.06603965228607
-    },
-    {
-        "Case #": "2022-4890",
-        "Sales Date": "11/3/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs BETTY LYNCH AND NONDC (AKA HARMONY NEIGHBORHOOD DEVELOPMENT, INC FKA NEW ORLEANS NEIGHBORHOOD DEVELOPMENT COLLABORATIVE, INC)",
-        "Address/Description": "2121 REV. JOHN RAPHAEL JR. WAY/LASALLE ST  NEW ORLEANS LA 70113",
-        "Picture": "",
-        "Attorney": "",
-        "Writ Amount": "$4,355.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
     },
     {
         "Case #": "2022-4661",
@@ -1638,6 +1625,19 @@
         "Longitude": -89.98859309110898
     },
     {
+        "Case #": "2022-4890",
+        "Sales Date": "11/3/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs BETTY LYNCH AND NONDC (AKA HARMONY NEIGHBORHOOD DEVELOPMENT, INC FKA NEW ORLEANS NEIGHBORHOOD DEVELOPMENT COLLABORATIVE, INC)",
+        "Address/Description": "2121 REV. JOHN RAPHAEL JR. WAY/LASALLE ST  NEW ORLEANS LA 70113",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$4,355.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2022-5252",
         "Sales Date": "11/3/2022",
         "Property Status": "Scheduled",
@@ -1662,6 +1662,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.963756755102043,
         "Longitude": -90.09069642857143
+    },
+    {
+        "Case #": "2022-4889",
+        "Sales Date": "11/3/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs DEYVIS EUGENIO VELA ESPINOZA",
+        "Address/Description": "1854 INDUSTRY ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$8,914.56",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.986111049999998,
+        "Longitude": -90.06603965228607
     },
     {
         "Case #": "2022-6006",
@@ -1727,5 +1740,18 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.0260949,
         "Longitude": -89.97026197252444
+    },
+    {
+        "Case #": "2022-2321",
+        "Sales Date": "11/10/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs ROSALIE WILLIAMS LANERS AND EDDIE LANERS OF HIS HEIRS, SUCCESSORS, OR ASSIGNS",
+        "Address/Description": "4834 LAINE AV  NEW ORLEANS LA ",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\242924.JPG",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$675.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.02173226787633,
+        "Longitude": -89.99099002042144
     }
 ]
