@@ -1,57 +1,5 @@
 [
     {
-        "Case #": "2022-2847",
-        "Sales Date": "8/4/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs TERRELL A. LONG",
-        "Address/Description": "3305-07 FIRST ST  NEW ORLEANS LA 70125",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\238940.JPG",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$33,376.44",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2022-966",
-        "Sales Date": "8/4/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT INDIVIDUALLY BUT SOLELY AS TRUSTEE FOR FINANCE OF AMERICA STRUCTURED SECURITIES ACQUISITION TRUST 2018-HB1 vs ESTATE OF DONALD R. STRATTON",
-        "Address/Description": "10211 SPRINGWOOD ST  NEW ORLEANS LA 70127",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\229327.JPG",
-        "Attorney": "JACKSON & MCPHERSON LLC",
-        "Writ Amount": "$60,832.82",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.021153849999997,
-        "Longitude": -89.96676015054632
-    },
-    {
-        "Case #": "2018-12101",
-        "Sales Date": "8/4/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "WELLS FARGO BANK, N.A. vs BETTY CONNER, CAROL CONNER, RICKEY CONNER, AND WILLIE D. CONNER III",
-        "Address/Description": "1809-11 ST. ROCH AV  NEW ORLEANS LA 70117",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\133190.JPG",
-        "Attorney": "THE LAW OFFICE OF ROBERT WILLIAM KNIGHTS, L.L.C.",
-        "Writ Amount": "",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9718718,
-        "Longitude": -90.0522643
-    },
-    {
-        "Case #": "2012-9985",
-        "Sales Date": "8/4/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK, NATIONAL ASSOCIATION, AS TRUSTEE FOR THE HOLDERS OF THE STRUCTURED ASSET INVESTMENT LOAN TRUST 2006-3 vs THE SUCCESSION OF JOSEPH WILSON ALLEN A/K/A JOSEPH WILSON ALLEN, THE SUCCESSION OF LOUIDA DILLON ALLEN A/K/A LOUIDA DILLON ALLEN, JOSEPH ALLEN, JR. AND TONYA R. ALLEN A/K/A TONYA ALLEN",
-        "Address/Description": "725 HUNTLEE DR  NEW ORLEANS LA 70131",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\251608.JPG",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$114,987.18",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9225595,
-        "Longitude": -90.00472124539107
-    },
-    {
         "Case #": "2022-3832",
         "Sales Date": "8/11/2022",
         "Property Status": "Scheduled",
@@ -1391,19 +1339,6 @@
         "Longitude": -90.10683301002388
     },
     {
-        "Case #": "2022-1241",
-        "Sales Date": "10/27/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs WALTER CLAIBORNE AND DES CAPITAL, LLC",
-        "Address/Description": "1335 FLOOD ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$26,206.43",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.964075,
-        "Longitude": -90.0157237
-    },
-    {
         "Case #": "2022-1901",
         "Sales Date": "10/27/2022",
         "Property Status": "Scheduled",
@@ -1415,6 +1350,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.02408224489796,
         "Longitude": -90.0521847755102
+    },
+    {
+        "Case #": "2022-1241",
+        "Sales Date": "10/27/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs WALTER CLAIBORNE AND DES CAPITAL, LLC",
+        "Address/Description": "1335 FLOOD ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$26,206.43",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.964075,
+        "Longitude": -90.0157237
     },
     {
         "Case #": "2022-974",
@@ -1469,15 +1417,15 @@
         "Longitude": -90.02279539089167
     },
     {
-        "Case #": "2022-667",
+        "Case #": "2022-2761",
         "Sales Date": "11/3/2022",
         "Property Status": "Scheduled",
-        "Case Title": "CITIZENS BANK, N.A. vs KIMBERLY LYNN WOODARD A/K/A KIMBERLY L. WOODARD A/K/A KIMBERLY  WOODARD",
-        "Address/Description": "3719-21 LOUISIANA AVENUE PK  NEW ORLEANS LA 70125",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\230377.JPG",
+        "Case Title": "MORTGAGE ASSETS MANAGEMENT, LLC vs JAMES FRANCOIS",
+        "Address/Description": "1917-19 N ROMAN ST  NEW ORLEANS LA 70116",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\243267.JPG",
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$351,209.77",
-        "Terms and Conditions": "With appraisal; ",
+        "Writ Amount": "$262,644.84",
+        "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
     },
@@ -1508,6 +1456,19 @@
         "Longitude": -90.0243486
     },
     {
+        "Case #": "2022-667",
+        "Sales Date": "11/3/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITIZENS BANK, N.A. vs KIMBERLY LYNN WOODARD A/K/A KIMBERLY L. WOODARD A/K/A KIMBERLY  WOODARD",
+        "Address/Description": "3719-21 LOUISIANA AVENUE PK  NEW ORLEANS LA 70125",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\230377.JPG",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$351,209.77",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2021-6829",
         "Sales Date": "11/3/2022",
         "Property Status": "Scheduled",
@@ -1519,6 +1480,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.9825666,
         "Longitude": -90.04723135223472
+    },
+    {
+        "Case #": "2019-10644",
+        "Sales Date": "11/3/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "FEDERAL NATIONAL MORTGAGE ASSOCIATION vs DOUGLAS KOEHLER AKA DOUGLAS JOHN KOEHLER AKA DOUGLAS J. KOEHLER AND LORI KOEHLER AKA LORI HUEY KOEHLER AKA LORI H. KOEHLER",
+        "Address/Description": "3701 RUE COLLETTE  NEW ORLEANS LA 70131",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\196280.JPG",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$161,303.03",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2019-2689",
@@ -1543,6 +1517,19 @@
         "Attorney": "",
         "Writ Amount": "$4,355.00",
         "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-4340",
+        "Sales Date": "11/3/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "AMERIHOME MORTGAGE COMPANY, LLC vs LOUIS JOSEPH MILLER III (A/K/A LOUIS JOSEPH MILLER) AND ORLANDO MARIE MILLER",
+        "Address/Description": "4042 SOUTH INWOOD AV  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$210,781.38",
+        "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
     },
@@ -1703,32 +1690,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2022-2321",
-        "Sales Date": "11/10/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs ROSALIE WILLIAMS LANERS AND EDDIE LANERS OF HIS HEIRS, SUCCESSORS, OR ASSIGNS",
-        "Address/Description": "4834 LAINE AV  NEW ORLEANS LA ",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\242924.JPG",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$675.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.02173226787633,
-        "Longitude": -89.99099002042144
-    },
-    {
-        "Case #": "2022-1541",
-        "Sales Date": "11/10/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC F/K/A QUICKEN LOANS INC. vs KAREN ANTHONY FKA KAREN KLINKNETT AKA KAREN KLINKNETT EDWARDS ANTHONY",
-        "Address/Description": "5820 BRUNSWICK CT  NEW ORLEANS LA 70131",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\236641.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$113,809.65",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.91548305,
-        "Longitude": -89.99378917317975
-    },
-    {
         "Case #": "2022-241",
         "Sales Date": "11/10/2022",
         "Property Status": "Scheduled",
@@ -1766,5 +1727,44 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2022-1541",
+        "Sales Date": "11/10/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC F/K/A QUICKEN LOANS INC. vs KAREN ANTHONY FKA KAREN KLINKNETT AKA KAREN KLINKNETT EDWARDS ANTHONY",
+        "Address/Description": "5820 BRUNSWICK CT  NEW ORLEANS LA 70131",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\236641.JPG",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$113,809.65",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.91548305,
+        "Longitude": -89.99378917317975
+    },
+    {
+        "Case #": "2022-2321",
+        "Sales Date": "11/10/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs ROSALIE WILLIAMS LANERS AND EDDIE LANERS OF HIS HEIRS, SUCCESSORS, OR ASSIGNS",
+        "Address/Description": "4834 LAINE AV  NEW ORLEANS LA ",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\242924.JPG",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$675.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.02173226787633,
+        "Longitude": -89.99099002042144
+    },
+    {
+        "Case #": "2022-3159",
+        "Sales Date": "11/11/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs SEAN C. MCGITTIGAN, INGRID HICKS AND GULF TRANSPORT & FORWARDING",
+        "Address/Description": "424 WAGNER ST  NEW ORLEANS LA 70114",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\251601.JPG",
+        "Attorney": "",
+        "Writ Amount": "$2,205.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.951289,
+        "Longitude": -90.03927251020409
     }
 ]
