@@ -191,8 +191,8 @@
         "Attorney": "LAW OFFICE OF KYLE S SCLAFANI",
         "Writ Amount": "$221,920.15",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9389344,
-        "Longitude": -90.0832457
+        "Latitude": 29.9421045,
+        "Longitude": -90.0806717
     },
     {
         "Case #": "2017-6998",
@@ -360,8 +360,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$141,732.01",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9288339,
-        "Longitude": -90.0418019
+        "Latitude": 29.9462708,
+        "Longitude": -90.0406716
     },
     {
         "Case #": "2022-1192",
@@ -648,19 +648,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.945815,
         "Longitude": -90.0915003
-    },
-    {
-        "Case #": "2018-8820",
-        "Sales Date": "9/29/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE, FOR THE NOTEHOLDERS OF AAMES MORTGAGE INVESTMENTS TRUST 2005-3 vs RAYMOND J. GORDON, JR. AND HELEN BRAUD GORDON",
-        "Address/Description": "1908 FOUCHER ST  NEW ORLEANS LA 70115",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\237609.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$11,316.84",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.93058315,
-        "Longitude": -90.09514029356451
     },
     {
         "Case #": "2020-2195",
@@ -1274,19 +1261,6 @@
         "Longitude": -90.01977897663454
     },
     {
-        "Case #": "2022-3775",
-        "Sales Date": "10/27/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "ROCKET MORTGAGE, LLC FKA QUICKEN LOANS, LLC FKA QUICKEN LOANS INC. vs CELESTE MICHELLE CUELLAR AND MANUEL ALFONSO CUELLAR, III",
-        "Address/Description": "2227 FRERET ST  NEW ORLEANS LA 70113",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$139,262.91",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9410248,
-        "Longitude": -90.087477
-    },
-    {
         "Case #": "2022-3311",
         "Sales Date": "10/27/2022",
         "Property Status": "Scheduled",
@@ -1677,6 +1651,19 @@
         "Longitude": -90.0515197
     },
     {
+        "Case #": "2017-5215",
+        "Sales Date": "11/10/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs REBECCA A. BARNETT, ASIA P. DUWELL, IAN N. DUWELL, AND DONALD G. JONES",
+        "Address/Description": "2800 SULLEN PL AND 6401-6403 GENERAL MEYER STREET  NEW ORLEANS LA ",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\165459.JPG",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$29,360.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2020-37",
         "Sales Date": "11/10/2022",
         "Property Status": "Scheduled",
@@ -1779,6 +1766,32 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.0260949,
         "Longitude": -89.97026197252444
+    },
+    {
+        "Case #": "2022-5100",
+        "Sales Date": "11/10/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs MILLENNIUM HOME SOLUTION, INC., CLARENCE K. THOMAS",
+        "Address/Description": "5804 ELYSIAN FIELDS AV  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$15,210.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.018148449999998,
+        "Longitude": -90.06124667761172
+    },
+    {
+        "Case #": "2022-5101",
+        "Sales Date": "11/10/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs RODERICK J. LAGARDE",
+        "Address/Description": "2201-03 FELICIANA ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$1,805.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-4841",
