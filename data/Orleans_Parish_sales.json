@@ -559,19 +559,6 @@
         "Longitude": -90.01051526530613
     },
     {
-        "Case #": "2019-6488",
-        "Sales Date": "9/29/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs MAURICE D DAMPIER, JR.",
-        "Address/Description": "2323 S DERBIGNY ST  NEW ORLEANS LA ",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\55183.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$77,796.53",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.945815,
-        "Longitude": -90.0915003
-    },
-    {
         "Case #": "2020-2195",
         "Sales Date": "9/29/2022",
         "Property Status": "Scheduled",
@@ -583,19 +570,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.04652257142857,
         "Longitude": -89.97618912244899
-    },
-    {
-        "Case #": "2022-4448",
-        "Sales Date": "9/29/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "WELLS FARGO BANK, N.A. vs ASHANTI DAVIS A/K/A ASHANTI R. DAVIS",
-        "Address/Description": "3618 RIVER OAKS DR  NEW ORLEANS LA 70131",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\251614.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$134,409.54",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.916887833717773,
-        "Longitude": -90.00575275917271
     },
     {
         "Case #": "2022-3557",
@@ -1235,6 +1209,32 @@
         "Longitude": -90.0157237
     },
     {
+        "Case #": "2022-1901",
+        "Sales Date": "10/27/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "ADMINISTRATOR, U.S. SMALL BUSINESS ADMINISTRATION, AN AGENCY OF THE UNITED STATES GOVERNMENT vs EMELDA ALICE RIDDLE JACKSON A/K/A EMELDA A. JACKSON A/K/A EMELDA JACKSON A/K/A EMELDA RIDDLE JACKSON A/K/A EMELDA R. JACKSON",
+        "Address/Description": "6334 FRANKLIN AV  NEW ORLEANS LA 70122",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235938.JPG",
+        "Attorney": "CONDON, WOOD & BURKHART LLC",
+        "Writ Amount": "$81,671.96",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.02408224489796,
+        "Longitude": -90.0521847755102
+    },
+    {
+        "Case #": "2022-974",
+        "Sales Date": "10/27/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK, N.A., SUCCESSOR TRUSTEE TO LASALLE BANK NATIONAL ASSOCIATION, ON BEHALF OF THE HOLDERS OF BEAR STEARNS ASSET BACKED SECURITIES I TRUST 2005-HE8, ASSET-BACKED CERTIFICATES SERIES 2005-HE8 vs THE SUCCESSION OF ARMITEEN CUFFEE A/K/A ARMITEEN CUFFEE A/K/A ARMITEEN MCKELPHIN CUFFEE A/K/A ARMITEEN M. CUFFEE, MAYLORIE ROBEY HAYES A/K/A MAYLORIE R. HAYES A/K/A MAYLORIE HAYES, WINDA ROBEY CHRISTOPHE A/K/A WINDA R. CHRISTOPHE A/K/A WINDA CHRISTOPHE, DEBORAH ROBEY HUNTER A/K/A DEBORAH R. HUNTER A/K/A DEBORAH HUNTER, BEVERLY ROBEY MAYES A/K/A BEVERLY R. MAYES A/K/A BEVERLY MAYES, LARRY ROBEY, BRENDA ROBEY BROWDER A/K/A BRENDA R. BROWDER A/K/A BRENDA BROWDER AND KELVIN ROBEY",
+        "Address/Description": "1838-38 1/2 PAULINE ST  NEW ORLEANS LA 70117",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235925.JPG",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$56,142.18",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2022-3411",
         "Sales Date": "10/27/2022",
         "Property Status": "Scheduled",
@@ -1272,32 +1272,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.023613349999998,
         "Longitude": -90.02279539089167
-    },
-    {
-        "Case #": "2022-1901",
-        "Sales Date": "10/27/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "ADMINISTRATOR, U.S. SMALL BUSINESS ADMINISTRATION, AN AGENCY OF THE UNITED STATES GOVERNMENT vs EMELDA ALICE RIDDLE JACKSON A/K/A EMELDA A. JACKSON A/K/A EMELDA JACKSON A/K/A EMELDA RIDDLE JACKSON A/K/A EMELDA R. JACKSON",
-        "Address/Description": "6334 FRANKLIN AV  NEW ORLEANS LA 70122",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235938.JPG",
-        "Attorney": "CONDON, WOOD & BURKHART LLC",
-        "Writ Amount": "$81,671.96",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.02408224489796,
-        "Longitude": -90.0521847755102
-    },
-    {
-        "Case #": "2022-974",
-        "Sales Date": "10/27/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK, N.A., SUCCESSOR TRUSTEE TO LASALLE BANK NATIONAL ASSOCIATION, ON BEHALF OF THE HOLDERS OF BEAR STEARNS ASSET BACKED SECURITIES I TRUST 2005-HE8, ASSET-BACKED CERTIFICATES SERIES 2005-HE8 vs THE SUCCESSION OF ARMITEEN CUFFEE A/K/A ARMITEEN CUFFEE A/K/A ARMITEEN MCKELPHIN CUFFEE A/K/A ARMITEEN M. CUFFEE, MAYLORIE ROBEY HAYES A/K/A MAYLORIE R. HAYES A/K/A MAYLORIE HAYES, WINDA ROBEY CHRISTOPHE A/K/A WINDA R. CHRISTOPHE A/K/A WINDA CHRISTOPHE, DEBORAH ROBEY HUNTER A/K/A DEBORAH R. HUNTER A/K/A DEBORAH HUNTER, BEVERLY ROBEY MAYES A/K/A BEVERLY R. MAYES A/K/A BEVERLY MAYES, LARRY ROBEY, BRENDA ROBEY BROWDER A/K/A BRENDA R. BROWDER A/K/A BRENDA BROWDER AND KELVIN ROBEY",
-        "Address/Description": "1838-38 1/2 PAULINE ST  NEW ORLEANS LA 70117",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235925.JPG",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$56,142.18",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
     },
     {
         "Case #": "2021-9357",
@@ -1571,19 +1545,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.0194342,
         "Longitude": -90.0515197
-    },
-    {
-        "Case #": "2019-6685",
-        "Sales Date": "11/10/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK NATIONAL ASSOCIATION vs CORNELIUS MANEAUX AND INENA HANDY",
-        "Address/Description": "2504 MARTIN LUTHER KING BD  NEW ORLEANS LA 70113",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\55182.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$106,575.71",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
     },
     {
         "Case #": "2022-5492",
