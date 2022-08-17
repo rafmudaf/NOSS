@@ -780,19 +780,6 @@
         "Longitude": -90.00788382737673
     },
     {
-        "Case #": "2022-5490",
-        "Sales Date": "10/13/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs JOHN BELLINI, III",
-        "Address/Description": "400 COUNTRY CLUB DR  NEW ORLEANS LA 70124",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$426,749.67",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9909854,
-        "Longitude": -90.12162966768452
-    },
-    {
         "Case #": "2022-4344",
         "Sales Date": "10/13/2022",
         "Property Status": "Scheduled",
@@ -1095,7 +1082,7 @@
         "Case #": "2022-4875",
         "Sales Date": "10/20/2022",
         "Property Status": "Scheduled",
-        "Case Title": "PRIME IMPORTS COMPANY, INC. vs PROPERTY TRANSFORMATION OF NEW ORLEANS, LLC AMD SONNY OKPALOBI",
+        "Case Title": "PRIME IMPORTS COMPANY, INC. vs PROPERTY TRANSFORMATION OF NEW ORLEANS, LLC AND SONNY OKPALOBI",
         "Address/Description": "6845 LAKE WILLOW DR  NEW ORLEANS LA 70126",
         "Picture": "",
         "Attorney": "THE SILVERSTEIN LAW FIRM, APLC",
@@ -1298,19 +1285,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
-    },
-    {
-        "Case #": "2022-4889",
-        "Sales Date": "11/3/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs DEYVIS EUGENIO VELA ESPINOZA",
-        "Address/Description": "1854 INDUSTRY ST  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "",
-        "Writ Amount": "$8,914.56",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.986111049999998,
-        "Longitude": -90.06603965228607
     },
     {
         "Case #": "2022-4890",
@@ -1766,5 +1740,18 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.959577857142857,
         "Longitude": -90.00759742857143
+    },
+    {
+        "Case #": "2022-6019",
+        "Sales Date": "12/1/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "AMERIHOME MORTGAGE COMPANY, LLC vs WENDY KAY LENTZ A/K/A WENDY K. LENTZ A/K/A WENDY LENTZ",
+        "Address/Description": "9408 PALM ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$131,277.44",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9732981,
+        "Longitude": -90.12252770508539
     }
 ]
