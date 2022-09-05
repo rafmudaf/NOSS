@@ -13,19 +13,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2019-3835",
-        "Sales Date": "9/8/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "USAA FEDERAL SAVINGS BANK vs BENJAMIN JOHN HUDNALL",
-        "Address/Description": "2918 COLLEGE CT  NEW ORLEANS LA 70125",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\115699.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$166,524.82",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9551896,
-        "Longitude": -90.11026692246952
-    },
-    {
         "Case #": "2022-3062",
         "Sales Date": "9/8/2022",
         "Property Status": "Scheduled",
@@ -258,19 +245,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.025751142857143,
         "Longitude": -90.02279665306123
-    },
-    {
-        "Case #": "2022-1878",
-        "Sales Date": "9/29/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs SUCCESSION OF MAE MARGARET SPEARS KENNEDY",
-        "Address/Description": "8815 STROELITZ ST  NEW ORLEANS LA 70118",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\237962.JPG",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$3,705.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.97035535,
-        "Longitude": -90.11664189767053
     },
     {
         "Case #": "2022-3485",
@@ -1066,19 +1040,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2022-1488",
-        "Sales Date": "11/10/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs SUCCESSION OF THOMAS NELSON, JR.",
-        "Address/Description": "2315 ST ANTHONY ST  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$12,227.37",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9807792,
-        "Longitude": -90.0624218
-    },
-    {
         "Case #": "2022-2321",
         "Sales Date": "11/10/2022",
         "Property Status": "Scheduled",
@@ -1090,19 +1051,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.02173226787633,
         "Longitude": -89.99099002042144
-    },
-    {
-        "Case #": "2022-5100",
-        "Sales Date": "11/10/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs MILLENNIUM HOME SOLUTION, INC., CLARENCE K. THOMAS",
-        "Address/Description": "5804 ELYSIAN FIELDS AV  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$15,210.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.018148449999998,
-        "Longitude": -90.06124667761172
     },
     {
         "Case #": "2016-9988",
@@ -1389,6 +1337,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.9716384375,
         "Longitude": -90.1147471875
+    },
+    {
+        "Case #": "2015-9039",
+        "Sales Date": "12/8/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "FEDERAL NATIONAL MORTGAGE ASSOCIATION vs JOANN HONORA DUNCAN",
+        "Address/Description": "3618-20 DANNEEL ST  NEW ORLEANS LA 70115",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\196290.JPG",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$83,323.39",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-3945",
