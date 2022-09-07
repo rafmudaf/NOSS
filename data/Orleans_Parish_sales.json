@@ -923,19 +923,6 @@
         "Longitude": -89.98859309110898
     },
     {
-        "Case #": "2022-4453",
-        "Sales Date": "11/3/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING vs GAYNELL COUDRAY AND GERMAYNE NASH, AS CO-ADMINSTRATORS FOR THE SUCCESSION OF MAMIE L. TURNER",
-        "Address/Description": "9004 PRITCHARD PL  NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$102,859.29",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.96568712244898,
-        "Longitude": -90.12431148979591
-    },
-    {
         "Case #": "2019-2689",
         "Sales Date": "11/3/2022",
         "Property Status": "Scheduled",
@@ -1202,7 +1189,7 @@
         "Case Title": "CITY OF NEW ORLEANS vs SEAN C. MCGITTIGAN, INGRID HICKS AND GULF TRANSPORT & FORWARDING",
         "Address/Description": "424 WAGNER ST  NEW ORLEANS LA 70114",
         "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\251601.JPG",
-        "Attorney": "",
+        "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$2,205.00",
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.951289,
@@ -1274,6 +1261,45 @@
         "Longitude": null
     },
     {
+        "Case #": "2022-5490",
+        "Sales Date": "12/1/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs JOHN BELLINI, III",
+        "Address/Description": "400 COUNTRY CLUB DR  NEW ORLEANS LA 70124",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$426,749.67",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9909854,
+        "Longitude": -90.12162966768452
+    },
+    {
+        "Case #": "2022-6031",
+        "Sales Date": "12/1/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "OVIEDO MEDICAL LLC vs BLUEREALTY1914LLC",
+        "Address/Description": "2259 HUMANITY ST  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$134,974.60",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.99218535,
+        "Longitude": -90.0569226401661
+    },
+    {
+        "Case #": "2022-5977",
+        "Sales Date": "12/1/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "REGIONS BANK D/B/A REGIONS MORTGAGE vs CHRISTOPHER SEAN PAYNE A/K/A CHRISTOPHER S. PAYNE A/K/A CHRISTOPHER PAYNE AND TARYN LEGVOLD",
+        "Address/Description": "2420 MARTIN LUTHER KING JR BD  NEW ORLEANS LA 70113",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$249,041.92",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2022-6019",
         "Sales Date": "12/1/2022",
         "Property Status": "Scheduled",
@@ -1311,6 +1337,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.9853635,
         "Longitude": -90.0669286
+    },
+    {
+        "Case #": "2022-3416",
+        "Sales Date": "12/1/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "FREEDOM MORTGAGE CORPORATION vs ROBERT A. DUBOIS",
+        "Address/Description": "2622-24 MARTIN LUTHER KING, JR. BD  NEW ORLEANS LA 70113",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$241,359.42",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2021-7931",
