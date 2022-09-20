@@ -585,19 +585,6 @@
         "Longitude": -90.10683301002388
     },
     {
-        "Case #": "2022-3411",
-        "Sales Date": "10/27/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "REVERSE MORTGAGE FUNDING LLC vs GWENDOLYN FLORENCE TEMPLE JOHNSON A/K/A GWENDOLYN FLORENCE TEMPLE A/K/A GWENDOLYN F. TEMPLE A/K/A  GWENDOLYN TEMPLE A/K/A GWENDOLYN FLORENCE JOHNSON A/K/A GWENDOLYN F. JOHNSON A/K/A GWENDOLYN JOHNSON A/K/A GWENDOLYN TEMPLE JOHNSON A/K/A GWENDOLYN T. JOHNSON",
-        "Address/Description": "1620 CATON CT  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$221,419.79",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-974",
         "Sales Date": "10/27/2022",
         "Property Status": "Scheduled",
@@ -1430,6 +1417,58 @@
         "Longitude": -90.051973
     },
     {
+        "Case #": "2022-1879",
+        "Sales Date": "12/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs BRUCE C. WALLACE, SR., AND CHARLOTTE M. WALLACE",
+        "Address/Description": "4967-69 N RAMPART ST AND 1014 REYNES ST  NEW ORLEANS LA ",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235930.JPG",
+        "Attorney": "",
+        "Writ Amount": "$15,205.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-3945",
+        "Sales Date": "12/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "SFS VENTURES LLC vs BAKER READY MIX, LLC AND A & E LEASING, LLC",
+        "Address/Description": "2800 FRENCHMEN ST  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "CARVER DARDEN KORETZKY TESSIER FINN BLOSSMAN & AREAUX LLC",
+        "Writ Amount": "$2,604,758.08",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.986224,
+        "Longitude": -90.059648
+    },
+    {
+        "Case #": "2022-3945",
+        "Sales Date": "12/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "SFS VENTURES LLC vs BAKER READY MIX, LLC AND A & E LEASING, LLC",
+        "Address/Description": "2829 FRENCHMEN ST  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "CARVER DARDEN KORETZKY TESSIER FINN BLOSSMAN & AREAUX LLC",
+        "Writ Amount": "$2,604,758.08",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.98662742857143,
+        "Longitude": -90.05949071428572
+    },
+    {
+        "Case #": "2021-7646",
+        "Sales Date": "12/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION vs JUDY LEAUMONT HAMILTON AND ALEX HAMILTON AS INDEPENDENT EXECUTOR OF THE SUCCESSION OF LEROY PAUL HAMILTON",
+        "Address/Description": "4353 GENERAL MEYER AV  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$107,537.25",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.934785400000003,
+        "Longitude": -90.01026003024256
+    },
+    {
         "Case #": "2020-2634",
         "Sales Date": "12/15/2022",
         "Property Status": "Scheduled",
@@ -1456,17 +1495,17 @@
         "Longitude": -90.01714870784298
     },
     {
-        "Case #": "2019-8133",
+        "Case #": "2022-1412",
         "Sales Date": "12/15/2022",
         "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO BANK OF AMERICA, N.A., AS TRUSTEE, AS SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE FOR THE HOLDERS OF THE ACCREDITED MORTGAGE LOAN TRUST 2005-3 ASSET BACKED NOTES vs ROSE LEE COLLINS, INDIVIDUALLY AND AS SURVIVING SPOUSE OF NORMAN C. COLLINS",
-        "Address/Description": "2612-14 MILAN ST  NEW ORLEANS LA 70115",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\72439.JPG",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$91,360.97",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9287053,
-        "Longitude": -90.0999048
+        "Case Title": "FORSTALL FOLLIES, LLC vs THE UNITED STATES OF AMERICA",
+        "Address/Description": "536-38 S BROAD ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "JONAH FREEDMAN LAW, LLC",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; 100% cash at the moment of adjudication.",
+        "Latitude": 29.9642116,
+        "Longitude": -90.0886694
     },
     {
         "Case #": "2017-10937",
@@ -1482,19 +1521,6 @@
         "Longitude": -90.0236204
     },
     {
-        "Case #": "2022-1879",
-        "Sales Date": "12/15/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs BRUCE C. WALLACE, SR., AND CHARLOTTE M. WALLACE",
-        "Address/Description": "4967-69 N RAMPART ST AND 1014 REYNES ST  NEW ORLEANS LA ",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235930.JPG",
-        "Attorney": "",
-        "Writ Amount": "$15,205.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-1730",
         "Sales Date": "12/15/2022",
         "Property Status": "Scheduled",
@@ -1506,6 +1532,32 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.001833400000002,
         "Longitude": -90.07877661335417
+    },
+    {
+        "Case #": "2019-8133",
+        "Sales Date": "12/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO BANK OF AMERICA, N.A., AS TRUSTEE, AS SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE FOR THE HOLDERS OF THE ACCREDITED MORTGAGE LOAN TRUST 2005-3 ASSET BACKED NOTES vs ROSE LEE COLLINS, INDIVIDUALLY AND AS SURVIVING SPOUSE OF NORMAN C. COLLINS",
+        "Address/Description": "2612-14 MILAN ST  NEW ORLEANS LA 70115",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\72439.JPG",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$91,360.97",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9287053,
+        "Longitude": -90.0999048
+    },
+    {
+        "Case #": "2021-3437",
+        "Sales Date": "12/15/2022",
+        "Property Status": "Scheduled",
+        "Case Title": "TRACY JOHNSON vs BRIAN MCCULLUM",
+        "Address/Description": "4115 S PRIEUR ST  NEW ORLEANS LA ",
+        "Picture": "",
+        "Attorney": "STEPHENSON, CHAVARRI & LAMBERT, LLC",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.94350225,
+        "Longitude": -90.10110710557765
     },
     {
         "Case #": "2022-3230",
@@ -1534,56 +1586,43 @@
         "Longitude": -89.98468030206404
     },
     {
-        "Case #": "2022-1412",
-        "Sales Date": "12/15/2022",
+        "Case #": "2019-12270",
+        "Sales Date": "1/5/2023",
         "Property Status": "Scheduled",
-        "Case Title": "FORSTALL FOLLIES, LLC vs THE UNITED STATES OF AMERICA",
-        "Address/Description": "536-38 S BROAD ST  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "JONAH FREEDMAN LAW, LLC",
-        "Writ Amount": "",
-        "Terms and Conditions": "Without appraisal; 100% cash at the moment of adjudication.",
-        "Latitude": 29.9642116,
-        "Longitude": -90.0886694
+        "Case Title": "LAKEVIEW LOAN SERVICING, LLC vs CHERYL ANN MCCOY",
+        "Address/Description": "1609 MARAIS ST  NEW ORLEANS LA 70116",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\64761.JPG",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$80,076.02",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.969390750000002,
+        "Longitude": -90.06322727438273
     },
     {
-        "Case #": "2021-7646",
-        "Sales Date": "12/15/2022",
+        "Case #": "2021-4703",
+        "Sales Date": "1/5/2023",
         "Property Status": "Scheduled",
-        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION vs JUDY LEAUMONT HAMILTON AND ALEX HAMILTON AS INDEPENDENT EXECUTOR OF THE SUCCESSION OF LEROY PAUL HAMILTON",
-        "Address/Description": "4353 GENERAL MEYER AV  NEW ORLEANS LA 70131",
-        "Picture": "",
+        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2019-2 vs THE SUCCESSION OF JAMES DEAN LEEMING A/K/A JAMES DEAN LEEMING A/K/A JAMES D. LEEMING A/K/A JAMES LEEMING, HEATHER P. FURNESS LEEMING A/K/A HEATHER P. FURNESS A/K/A HEATHER FURNESS A/K/A HEATHER P. LEEMING A/K/A HEATHER LEEMING A/K/A HEATHER FURNESS LEEMING A/K/A HEATHER F. LEEMING AND KOBE JAMES LEEMING A/K/A KOBE J. LEEMING A/K/A KOBE LEEMING",
+        "Address/Description": "3816 LAUREL ST  NEW ORLEANS LA 70115",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\188071.JPG",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$139,199.88",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.91919415,
+        "Longitude": -90.09402472708196
+    },
+    {
+        "Case #": "2019-3835",
+        "Sales Date": "1/5/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "USAA FEDERAL SAVINGS BANK vs BENJAMIN JOHN HUDNALL",
+        "Address/Description": "2918 COLLEGE CT  NEW ORLEANS LA 70125",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\115699.JPG",
         "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$107,537.25",
+        "Writ Amount": "$166,524.82",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.934785400000003,
-        "Longitude": -90.01026003024256
-    },
-    {
-        "Case #": "2022-3945",
-        "Sales Date": "12/15/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "SFS VENTURES LLC vs BAKER READY MIX, LLC AND A & E LEASING, LLC",
-        "Address/Description": "2800 FRENCHMEN ST  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "CARVER DARDEN KORETZKY TESSIER FINN BLOSSMAN & AREAUX LLC",
-        "Writ Amount": "$2,604,758.08",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.986224,
-        "Longitude": -90.059648
-    },
-    {
-        "Case #": "2022-3945",
-        "Sales Date": "12/15/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "SFS VENTURES LLC vs BAKER READY MIX, LLC AND A & E LEASING, LLC",
-        "Address/Description": "2829 FRENCHMEN ST  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "CARVER DARDEN KORETZKY TESSIER FINN BLOSSMAN & AREAUX LLC",
-        "Writ Amount": "$2,604,758.08",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.98662742857143,
-        "Longitude": -90.05949071428572
+        "Latitude": 29.9551896,
+        "Longitude": -90.11026692246952
     },
     {
         "Case #": "2022-683",
@@ -1664,6 +1703,32 @@
         "Longitude": -90.0001833585343
     },
     {
+        "Case #": "2022-3737",
+        "Sales Date": "1/5/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "PATRICK GORHAM AND NORTHWEST PACIFIC PROPERTY MANAGEMENT, LLC vs MICHELLE MOSKOVITZ KAUFMAN AND DANIELLE COHEN MOSKOVITZ",
+        "Address/Description": "8725 OAK ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "MILLS & AMOND LLP",
+        "Writ Amount": "$403,615.50",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9519505,
+        "Longitude": -90.13516916041274
+    },
+    {
+        "Case #": "2022-3737",
+        "Sales Date": "1/5/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "PATRICK GORHAM AND NORTHWEST PACIFIC PROPERTY MANAGEMENT, LLC vs MICHELLE MOSKOVITZ KAUFMAN AND DANIELLE COHEN MOSKOVITZ",
+        "Address/Description": "3308 PRYTANIA ST  UNIT 4 NEW ORLEANS LA 70115",
+        "Picture": "",
+        "Attorney": "MILLS & AMOND LLP",
+        "Writ Amount": "$403,615.50",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2022-6396",
         "Sales Date": "1/5/2023",
         "Property Status": "Scheduled",
@@ -1675,44 +1740,5 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.0361404,
         "Longitude": -90.00175188311864
-    },
-    {
-        "Case #": "2022-6672",
-        "Sales Date": "1/5/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs AVION TURNER",
-        "Address/Description": "5918-20 N ROBERTSON ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$1,710.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2019-12270",
-        "Sales Date": "1/5/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "LAKEVIEW LOAN SERVICING, LLC vs CHERYL ANN MCCOY",
-        "Address/Description": "1609 MARAIS ST  NEW ORLEANS LA 70116",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\64761.JPG",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$80,076.02",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.969390750000002,
-        "Longitude": -90.06322727438273
-    },
-    {
-        "Case #": "2021-4703",
-        "Sales Date": "1/5/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2019-2 vs THE SUCCESSION OF JAMES DEAN LEEMING A/K/A JAMES DEAN LEEMING A/K/A JAMES D. LEEMING A/K/A JAMES LEEMING, HEATHER P. FURNESS LEEMING A/K/A HEATHER P. FURNESS A/K/A HEATHER FURNESS A/K/A HEATHER P. LEEMING A/K/A HEATHER LEEMING A/K/A HEATHER FURNESS LEEMING A/K/A HEATHER F. LEEMING AND KOBE JAMES LEEMING A/K/A KOBE J. LEEMING A/K/A KOBE LEEMING",
-        "Address/Description": "3816 LAUREL ST  NEW ORLEANS LA 70115",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\188071.JPG",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$139,199.88",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.91919415,
-        "Longitude": -90.09402472708196
     }
 ]
