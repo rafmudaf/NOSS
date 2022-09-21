@@ -1586,30 +1586,17 @@
         "Longitude": -89.98468030206404
     },
     {
-        "Case #": "2019-12270",
+        "Case #": "2022-3474",
         "Sales Date": "1/5/2023",
         "Property Status": "Scheduled",
-        "Case Title": "LAKEVIEW LOAN SERVICING, LLC vs CHERYL ANN MCCOY",
-        "Address/Description": "1609 MARAIS ST  NEW ORLEANS LA 70116",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\64761.JPG",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$80,076.02",
+        "Case Title": "BROKER SOLUTIONS INC, DBA NEW AMERICAN FUNDING vs DEMETRIA DUHE ROBICHAUX, (A/K/A DEMETRIA DUHE, DEMETRIA ROBICHAUX)",
+        "Address/Description": "4760 OVERTON DR  NEW ORLEANS LA 70122",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\250714.JPG",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$60,429.18",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.969390750000002,
-        "Longitude": -90.06322727438273
-    },
-    {
-        "Case #": "2021-4703",
-        "Sales Date": "1/5/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2019-2 vs THE SUCCESSION OF JAMES DEAN LEEMING A/K/A JAMES DEAN LEEMING A/K/A JAMES D. LEEMING A/K/A JAMES LEEMING, HEATHER P. FURNESS LEEMING A/K/A HEATHER P. FURNESS A/K/A HEATHER FURNESS A/K/A HEATHER P. LEEMING A/K/A HEATHER LEEMING A/K/A HEATHER FURNESS LEEMING A/K/A HEATHER F. LEEMING AND KOBE JAMES LEEMING A/K/A KOBE J. LEEMING A/K/A KOBE LEEMING",
-        "Address/Description": "3816 LAUREL ST  NEW ORLEANS LA 70115",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\188071.JPG",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$139,199.88",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.91919415,
-        "Longitude": -90.09402472708196
+        "Latitude": 30.005687299999998,
+        "Longitude": -90.07350148999606
     },
     {
         "Case #": "2019-3835",
@@ -1625,6 +1612,19 @@
         "Longitude": -90.11026692246952
     },
     {
+        "Case #": "2021-4703",
+        "Sales Date": "1/5/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2019-2 vs THE SUCCESSION OF JAMES DEAN LEEMING A/K/A JAMES DEAN LEEMING A/K/A JAMES D. LEEMING A/K/A JAMES LEEMING, HEATHER P. FURNESS LEEMING A/K/A HEATHER P. FURNESS A/K/A HEATHER FURNESS A/K/A HEATHER P. LEEMING A/K/A HEATHER LEEMING A/K/A HEATHER FURNESS LEEMING A/K/A HEATHER F. LEEMING AND KOBE JAMES LEEMING A/K/A KOBE J. LEEMING A/K/A KOBE LEEMING",
+        "Address/Description": "3816 LAUREL ST  NEW ORLEANS LA 70115",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\188071.JPG",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$139,199.88",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.91919415,
+        "Longitude": -90.09402472708196
+    },
+    {
         "Case #": "2022-683",
         "Sales Date": "1/5/2023",
         "Property Status": "Scheduled",
@@ -1638,6 +1638,84 @@
         "Longitude": null
     },
     {
+        "Case #": "2021-772",
+        "Sales Date": "1/5/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "MBM DEVELOPMENT, LLC vs CHARLES EDWARD HARRIS AND THE SUCCESSION OF GENEVA FOSTER HARRIS",
+        "Address/Description": "3717-19 S PRIEUR ST  NEW ORLEANS LA ",
+        "Picture": "",
+        "Attorney": "JONAH FREEDMAN LAW, LLC",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; 100% cash at the moment of adjudication.",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-6545",
+        "Sales Date": "1/5/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "REVERSE MORTGAGE FUNDING LLC vs BARBARA GOINS A/K/A BARBARA JEAN GOINS A/K/A BARBARA J. GOINS",
+        "Address/Description": "2405-2407 VALENCE ST  NEW ORLEANS LA 70115",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$183,294.86",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9272852,
+        "Longitude": -90.1056682
+    },
+    {
+        "Case #": "2022-5851",
+        "Sales Date": "1/5/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "ADMINISTRATOR, U.S. SMALL BUSINESS ADMINISTRATION, AN AGENCY OF THE UNITED STATES GOVERNMENT vs LAWRENCE MARTIN JR., A/K/A LAWRENCE MARTIN, INDIVIDUALLY AND IN HIS CAPACITY AS THE SURVIVING SPOUSE IN COMMUNITY OF ELAINE W. MARTIN A/K/A ELAINE MARTIN A/K/A ELAINE WILLIAMS MARTIN A/K/A ELAINE WILLIAMS",
+        "Address/Description": "2017 CLOUET ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "CONDON, WOOD & BURKHART LLC",
+        "Writ Amount": "$68,145.42",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.977190450000002,
+        "Longitude": -90.04110774113259
+    },
+    {
+        "Case #": "2022-6396",
+        "Sales Date": "1/5/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "LNV CORPORATION vs FAY ANN PRICE, (A/K/A FAY ANN MAGEE, FAY ANN VELTRI)",
+        "Address/Description": "7517 WOODBINE DR  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$119,539.59",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.0361404,
+        "Longitude": -90.00175188311864
+    },
+    {
+        "Case #": "2022-6672",
+        "Sales Date": "1/5/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs AVION TURNER",
+        "Address/Description": "5918-20 N ROBERTSON ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$1,710.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2019-4250",
+        "Sales Date": "1/5/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "DIRECT CAPITAL CORPORATION, A DIVISION OF CIT BANK, N.A. vs ALL-COAST LOGISTICS LLC AND FREDRICK W. POWELL",
+        "Address/Description": "3400 INDIANA ST  NEW ORLEANS LA 70114",
+        "Picture": "",
+        "Attorney": "THE OAKES LAW FIRM, LLC",
+        "Writ Amount": "$26,029.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.925849602409638,
+        "Longitude": -90.02914124096385
+    },
+    {
         "Case #": "2022-6015",
         "Sales Date": "1/5/2023",
         "Property Status": "Scheduled",
@@ -1649,6 +1727,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2010-5394",
+        "Sales Date": "1/5/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "STOREY MOUNTAIN, LLC vs TROY D. PORTER AND JENNIFER HOWARD PORTER",
+        "Address/Description": "2229-31 ST ROCH AV  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "THE ONEBANE LAW FIRM APC",
+        "Writ Amount": "$104,939.53",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.966866,
+        "Longitude": -90.051973
     },
     {
         "Case #": "2022-6230",
@@ -1704,7 +1795,7 @@
     },
     {
         "Case #": "2022-3737",
-        "Sales Date": "1/5/2023",
+        "Sales Date": "1/12/2023",
         "Property Status": "Scheduled",
         "Case Title": "PATRICK GORHAM AND NORTHWEST PACIFIC PROPERTY MANAGEMENT, LLC vs MICHELLE MOSKOVITZ KAUFMAN AND DANIELLE COHEN MOSKOVITZ",
         "Address/Description": "8725 OAK ST  NEW ORLEANS LA 70118",
@@ -1717,7 +1808,7 @@
     },
     {
         "Case #": "2022-3737",
-        "Sales Date": "1/5/2023",
+        "Sales Date": "1/12/2023",
         "Property Status": "Scheduled",
         "Case Title": "PATRICK GORHAM AND NORTHWEST PACIFIC PROPERTY MANAGEMENT, LLC vs MICHELLE MOSKOVITZ KAUFMAN AND DANIELLE COHEN MOSKOVITZ",
         "Address/Description": "3308 PRYTANIA ST  UNIT 4 NEW ORLEANS LA 70115",
@@ -1727,18 +1818,5 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
-    },
-    {
-        "Case #": "2022-6396",
-        "Sales Date": "1/5/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "LNV CORPORATION vs FAY ANN PRICE, (A/K/A FAY ANN MAGEE, FAY ANN VELTRI)",
-        "Address/Description": "7517 WOODBINE DR  NEW ORLEANS LA 70126",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$119,539.59",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0361404,
-        "Longitude": -90.00175188311864
     }
 ]
