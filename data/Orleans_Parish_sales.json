@@ -234,19 +234,6 @@
         "Longitude": -90.01977897663454
     },
     {
-        "Case #": "2022-4890",
-        "Sales Date": "11/3/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs BETTY LYNCH AND NONDC (AKA HARMONY NEIGHBORHOOD DEVELOPMENT, INC FKA NEW ORLEANS NEIGHBORHOOD DEVELOPMENT COLLABORATIVE, INC)",
-        "Address/Description": "2121 REV. JOHN RAPHAEL JR. WAY/LASALLE ST  NEW ORLEANS LA 70113",
-        "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$4,355.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2020-2635",
         "Sales Date": "11/3/2022",
         "Property Status": "Scheduled",
@@ -685,8 +672,8 @@
         "Attorney": "LAW OFFICE OF KYLE S SCLAFANI",
         "Writ Amount": "$221,920.15",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9421045,
-        "Longitude": -90.0806717
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-618",
