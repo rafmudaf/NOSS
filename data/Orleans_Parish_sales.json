@@ -1131,19 +1131,6 @@
         "Longitude": -90.06154289884768
     },
     {
-        "Case #": "2022-5842",
-        "Sales Date": "1/19/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "ADMINISTRATOR, U.S. SMALL BUSINESS ADMINISTRATION, AN AGENCY OF THE UNITED STATES GOVERNMENT vs DYKON COMPUTER HELP CENTER, INC.",
-        "Address/Description": "11331 LAKE FOREST BD  NEW ORLEANS LA 70128",
-        "Picture": "",
-        "Attorney": "CONDON, WOOD & BURKHART LLC",
-        "Writ Amount": "$440,865.20",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-4343",
         "Sales Date": "1/19/2023",
         "Property Status": "Scheduled",
@@ -2008,7 +1995,7 @@
         "Case Title": "CITY OF NEW ORLEANS vs GREATER ST. STEPHEN MINISTRIES AKA GREATER ST. STEPHEN MINISTRIES & DEVELOPMENT CORP",
         "Address/Description": "2305-7, 2309-11 FIRST ST  NEW ORLEANS LA 70113",
         "Picture": "",
-        "Attorney": "",
+        "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$5,910.00",
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
@@ -2353,6 +2340,19 @@
         "Longitude": -89.95597537576765
     },
     {
+        "Case #": "2022-1268",
+        "Sales Date": "2/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "APOGEE CAPITAL PARTNERS, LLC vs CROWDER BOULEVARD PROPERTIES, L.L.C.",
+        "Address/Description": "7701 CROWDER BD  NEW ORLEANS LA 70127",
+        "Picture": "",
+        "Attorney": "CARVER DARDEN KORETZKY TESSIER FINN BLOSSMAN & AREAUX LLC",
+        "Writ Amount": "$1,253,246.33",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2022-9253",
         "Sales Date": "2/23/2023",
         "Property Status": "Scheduled",
@@ -2452,6 +2452,19 @@
         "Picture": "",
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$136,113.18",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-5842",
+        "Sales Date": "3/2/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "ADMINISTRATOR, U.S. SMALL BUSINESS ADMINISTRATION, AN AGENCY OF THE UNITED STATES GOVERNMENT vs DYKON COMPUTER HELP CENTER, INC.",
+        "Address/Description": "11331 LAKE FOREST BD  NEW ORLEANS LA 70128",
+        "Picture": "",
+        "Attorney": "CONDON, WOOD & BURKHART LLC",
+        "Writ Amount": "$440,865.20",
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
