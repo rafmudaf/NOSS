@@ -1,57 +1,5 @@
 [
     {
-        "Case #": "2022-3159",
-        "Sales Date": "11/17/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs SEAN C. MCGITTIGAN, INGRID HICKS AND GULF TRANSPORT & FORWARDING",
-        "Address/Description": "424 WAGNER ST  NEW ORLEANS LA 70114",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\251601.JPG",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$2,205.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.951289,
-        "Longitude": -90.03927251020409
-    },
-    {
-        "Case #": "2021-1512",
-        "Sales Date": "11/17/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "BOBBY MAGEE vs D.N.R.C. INC. (DNCR)/WHITTEN FOUNDATION, LLC, TRAVIS ISAAC BROOKS, CLEMENTINE LEE, CARRY TRADE, LLC, OSF FINANCIAL SERVICES, INC. AND THE CITY OF NEW ORLEANS",
-        "Address/Description": "2701-03 N DERBIGNY ST  NEW ORLEANS LA ",
-        "Picture": "",
-        "Attorney": "LAW OFFICE OF SCOTT J. SONNIER",
-        "Writ Amount": "",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2022-6163",
-        "Sales Date": "11/17/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "FIRST HORIZON BANK vs CHRISTAL RUBY HURST",
-        "Address/Description": "4124 S JOHNSON ST  NEW ORLEANS LA 70125",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$41,225.67",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9439864,
-        "Longitude": -90.10135210931819
-    },
-    {
-        "Case #": "2022-1369",
-        "Sales Date": "11/17/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE FOR SECURITIZED ASSET BACKED RECEIVABLES LLC TRUST 2005-OP2, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-OP2 vs THE UNOPENED SUCCESSION OF PHILLIP JOSEPH LUMAR A/K/A PHILLIP JOSEPH LUMAR A/K/A PHILLIP J. LUMAR A/K/A PHILLIP LUMAR AND CECILIA TYLER LUMAR A/K/A CECILIA T. LUMAR A/KA/ CECILIA LUMAR",
-        "Address/Description": "1931 W HOMESTEAD DR  NEW ORLEANS LA 70114",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\236637.JPG",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$54,585.55",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.93642015,
-        "Longitude": -90.01988875547072
-    },
-    {
         "Case #": "2019-127",
         "Sales Date": "12/1/2022",
         "Property Status": "Scheduled",
@@ -87,8 +35,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$8,705.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9929616,
+        "Longitude": -90.0694431
     },
     {
         "Case #": "2022-1128",
@@ -126,8 +74,8 @@
         "Attorney": "ADAMS AND REESE LLP",
         "Writ Amount": "$320,000.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.965497,
-        "Longitude": -90.0578964
+        "Latitude": 29.975898897959183,
+        "Longitude": -90.0586220612245
     },
     {
         "Case #": "2018-3633",
@@ -234,19 +182,6 @@
         "Longitude": -90.0827112
     },
     {
-        "Case #": "2022-6019",
-        "Sales Date": "12/1/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "AMERIHOME MORTGAGE COMPANY, LLC vs WENDY KAY LENTZ A/K/A WENDY K. LENTZ A/K/A WENDY LENTZ",
-        "Address/Description": "9408 PALM ST  NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$131,277.44",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9732981,
-        "Longitude": -90.12252770508539
-    },
-    {
         "Case #": "2022-4886",
         "Sales Date": "12/8/2022",
         "Property Status": "Scheduled",
@@ -256,8 +191,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$17,797.50",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.97539205,
+        "Longitude": -90.11401370995473
     },
     {
         "Case #": "2022-6020",
@@ -282,8 +217,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$89,723.96",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9377431,
-        "Longitude": -90.0371752
+        "Latitude": 29.9423427,
+        "Longitude": -90.0368312
     },
     {
         "Case #": "2022-6981",
@@ -347,8 +282,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$83,323.39",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.931151897959182,
+        "Longitude": -90.09532410204082
     },
     {
         "Case #": "2015-12025",
@@ -373,8 +308,8 @@
         "Attorney": "THE LAW OFFICE OF ROBERT WILLIAM KNIGHTS, L.L.C.",
         "Writ Amount": "",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.966866,
-        "Longitude": -90.051973
+        "Latitude": 29.9762254,
+        "Longitude": -90.0520843
     },
     {
         "Case #": "2017-1241",
@@ -464,8 +399,8 @@
         "Attorney": "JONAH FREEDMAN LAW, LLC",
         "Writ Amount": "",
         "Terms and Conditions": "Without appraisal; 100% cash at the moment of adjudication.",
-        "Latitude": 29.9629883,
-        "Longitude": -90.0897366
+        "Latitude": 29.960992545454545,
+        "Longitude": -90.09159454545454
     },
     {
         "Case #": "2017-10937",
@@ -503,8 +438,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$91,360.97",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9287053,
-        "Longitude": -90.0999048
+        "Latitude": 29.9367316,
+        "Longitude": -90.1008523
     },
     {
         "Case #": "2021-3437",
@@ -529,8 +464,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$20,356.98",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9885917,
-        "Longitude": -90.062027
+        "Latitude": 29.9891089,
+        "Longitude": -90.0573236
     },
     {
         "Case #": "2022-2587",
@@ -555,8 +490,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$1,710.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.964307285714284,
+        "Longitude": -90.01122938775511
     },
     {
         "Case #": "2022-5851",
@@ -620,8 +555,8 @@
         "Attorney": "JONAH FREEDMAN LAW, LLC",
         "Writ Amount": "",
         "Terms and Conditions": "Without appraisal; 100% cash at the moment of adjudication.",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9435929,
+        "Longitude": -90.1001116
     },
     {
         "Case #": "2022-3474",
@@ -685,8 +620,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$183,294.86",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9272852,
-        "Longitude": -90.1056682
+        "Latitude": 29.9342265,
+        "Longitude": -90.1062302
     },
     {
         "Case #": "2022-6591",
@@ -711,8 +646,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$40,638.95",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9315094,
-        "Longitude": -90.1012978
+        "Latitude": 29.9318768,
+        "Longitude": -90.09622706004805
     },
     {
         "Case #": "2010-5394",
@@ -724,8 +659,8 @@
         "Attorney": "THE ONEBANE LAW FIRM APC",
         "Writ Amount": "$104,939.53",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.966866,
-        "Longitude": -90.051973
+        "Latitude": 29.98031074489796,
+        "Longitude": -90.05325757142857
     },
     {
         "Case #": "2022-3737",
@@ -776,8 +711,8 @@
         "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
         "Writ Amount": "$133,663.10",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.98026,
-        "Longitude": -90.046663
+        "Latitude": 29.98033455,
+        "Longitude": -90.05025957553266
     },
     {
         "Case #": "2022-6975",
@@ -854,8 +789,8 @@
         "Attorney": "",
         "Writ Amount": "$5,705.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.948429,
+        "Longitude": -90.0964834
     },
     {
         "Case #": "2022-1988",
@@ -867,8 +802,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$4,705.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9625421,
+        "Longitude": -90.01670725
     },
     {
         "Case #": "2022-2289",
@@ -958,8 +893,8 @@
         "Attorney": "",
         "Writ Amount": "$1,415.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9688986,
+        "Longitude": -90.1262023
     },
     {
         "Case #": "2022-7094",
@@ -971,8 +906,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$3,180.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.975939,
+        "Longitude": -90.0467766
     },
     {
         "Case #": "2022-2370",
@@ -1010,8 +945,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$122,549.75",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.96791,
-        "Longitude": -90.050926
+        "Latitude": 29.971708149999998,
+        "Longitude": -90.05142795
     },
     {
         "Case #": "2022-4760",
@@ -1075,8 +1010,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$6,705.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9741021,
-        "Longitude": -90.0487906
+        "Latitude": 29.9808761,
+        "Longitude": -90.0488672
     },
     {
         "Case #": "2021-9699",
@@ -1088,8 +1023,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$2,205.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9663277,
-        "Longitude": -90.0243486
+        "Latitude": 29.97381906122449,
+        "Longitude": -90.02152963265307
     },
     {
         "Case #": "2021-7698",
@@ -1101,8 +1036,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$17,410.00",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9324316,
+        "Longitude": -90.0898807
     },
     {
         "Case #": "2022-6887",
@@ -1114,8 +1049,8 @@
         "Attorney": "",
         "Writ Amount": "$9,692.26",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.959411,
+        "Longitude": -90.108276
     },
     {
         "Case #": "2018-8820",
@@ -1205,8 +1140,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$265,980.96",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.952545,
+        "Longitude": -90.1229723
     },
     {
         "Case #": "2020-6991",
@@ -1322,8 +1257,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$124,024.47",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9632077,
-        "Longitude": -90.0629447
+        "Latitude": 29.9686581,
+        "Longitude": -90.0712245
     },
     {
         "Case #": "2022-7754",
@@ -1595,8 +1530,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$1,205.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.976972,
-        "Longitude": -90.017475
+        "Latitude": 29.983293795918367,
+        "Longitude": -90.0473176734694
     },
     {
         "Case #": "2022-1990",
@@ -1647,8 +1582,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$3,710.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9450612,
-        "Longitude": -90.0388129
+        "Latitude": 29.94524615,
+        "Longitude": -90.05131324999999
     },
     {
         "Case #": "2022-8098",
@@ -1751,8 +1686,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$537,764.13",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9430932,
-        "Longitude": -90.1245176
+        "Latitude": 29.9376903,
+        "Longitude": -90.129047
     },
     {
         "Case #": "2021-7270",
@@ -1816,8 +1751,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$11,173.50",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9502114,
-        "Longitude": -90.1017568
+        "Latitude": 29.9431237,
+        "Longitude": -90.0991809572495
     },
     {
         "Case #": "2019-6685",
@@ -1842,8 +1777,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$15,712.77",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9647498,
-        "Longitude": -90.0315904
+        "Latitude": 29.9682526,
+        "Longitude": -90.0456058
     },
     {
         "Case #": "2022-9299",
@@ -1881,8 +1816,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$2,212.78",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0233238,
-        "Longitude": -90.0767574
+        "Latitude": 30.02600805,
+        "Longitude": -90.05052651993199
     },
     {
         "Case #": "2022-8328",
@@ -2002,19 +1937,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2022-8473",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "THE MONEY SOURCE, INC. vs HESTER CLARK ANDERSON",
-        "Address/Description": "2010 COLUMBUS ST  NEW ORLEANS LA 70116",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$189,469.64",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.973619181818183,
-        "Longitude": -90.070986
-    },
-    {
         "Case #": "2022-8651",
         "Sales Date": "2/23/2023",
         "Property Status": "Scheduled",
@@ -2054,6 +1976,32 @@
         "Longitude": -89.95597537576765
     },
     {
+        "Case #": "2022-8473",
+        "Sales Date": "2/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "THE MONEY SOURCE, INC. vs HESTER CLARK ANDERSON",
+        "Address/Description": "2010 COLUMBUS ST  NEW ORLEANS LA 70116",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$189,469.64",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.973619181818183,
+        "Longitude": -90.070986
+    },
+    {
+        "Case #": "2019-10830",
+        "Sales Date": "2/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "STANDARD MORTGAGE CORPORATION vs LARRY A. BROYARD AND GAIL VEALS",
+        "Address/Description": "2054 CARNOT ST  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
+        "Writ Amount": "$142,251.62",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.00567425,
+        "Longitude": -90.06288195634467
+    },
+    {
         "Case #": "2022-8540",
         "Sales Date": "2/23/2023",
         "Property Status": "Scheduled",
@@ -2076,21 +2024,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$157,362.25",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2022-1180",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS IDENTURE TRUSTEE OF CIM TRUST 2021-NR4 vs BEVERLY R. ROSS A/K/A BEVERLY RIDGELEY ROSS A/K/A BEVERLY ROSS AND THE UNOPENED SUCCESSION OF HOWARD ROSS A/K/A HOWARD ROSS",
-        "Address/Description": "1337 S GENOIS ST  NEW ORLEANS LA 70125",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$50,689.40",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9577546,
-        "Longitude": -90.10687380479598
+        "Latitude": 29.9605736,
+        "Longitude": -90.0368254
     },
     {
         "Case #": "2022-1268",
@@ -2119,19 +2054,6 @@
         "Longitude": -90.0551603532198
     },
     {
-        "Case #": "2019-10830",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "STANDARD MORTGAGE CORPORATION vs LARRY A. BROYARD AND GAIL VEALS",
-        "Address/Description": "2054 CARNOT ST  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
-        "Writ Amount": "$142,251.62",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.00567425,
-        "Longitude": -90.06288195634467
-    },
-    {
         "Case #": "2019-13044",
         "Sales Date": "2/23/2023",
         "Property Status": "Scheduled",
@@ -2154,8 +2076,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$15,102.44",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9718588,
-        "Longitude": -90.0524796
+        "Latitude": 29.97516255,
+        "Longitude": -90.05295436893508
     },
     {
         "Case #": "2022-3440",
@@ -2236,19 +2158,6 @@
         "Longitude": -90.04877315544644
     },
     {
-        "Case #": "2022-5842",
-        "Sales Date": "3/2/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "ADMINISTRATOR, U.S. SMALL BUSINESS ADMINISTRATION, AN AGENCY OF THE UNITED STATES GOVERNMENT vs DYKON COMPUTER HELP CENTER, INC.",
-        "Address/Description": "11331 LAKE FOREST BD  NEW ORLEANS LA 70128",
-        "Picture": "",
-        "Attorney": "CONDON, WOOD & BURKHART LLC",
-        "Writ Amount": "$440,865.20",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2019-7730",
         "Sales Date": "3/2/2023",
         "Property Status": "Scheduled",
@@ -2297,8 +2206,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$203,357.96",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9326311,
-        "Longitude": -90.0914039
+        "Latitude": 29.934759469387757,
+        "Longitude": -90.09245665306122
     },
     {
         "Case #": "2022-1000",
@@ -2310,8 +2219,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$137,039.93",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 30.01539645,
+        "Longitude": -90.05675102100234
     },
     {
         "Case #": "2022-8837",
@@ -2466,8 +2375,8 @@
         "Attorney": "LOGS LEGAL GROUP LLC",
         "Writ Amount": "$34,492.72",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9921493,
-        "Longitude": -90.0707063
+        "Latitude": 29.992847954545454,
+        "Longitude": -90.060799
     },
     {
         "Case #": "2022-9052",
@@ -2492,8 +2401,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$140,890.47",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.0209806,
-        "Longitude": -90.0596903
+        "Latitude": 29.992310714285715,
+        "Longitude": -90.05748985714285
     },
     {
         "Case #": "2022-5043",
@@ -2509,6 +2418,45 @@
         "Longitude": -90.05233823497198
     },
     {
+        "Case #": "2022-4448",
+        "Sales Date": "3/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "WELLS FARGO BANK, N.A. vs ASHANTI DAVIS A/K/A ASHANTI R. DAVIS",
+        "Address/Description": "3618 RIVER OAKS DR  NEW ORLEANS LA 70131",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\251614.JPG",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$134,409.54",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.916887833717773,
+        "Longitude": -90.00575275917271
+    },
+    {
+        "Case #": "2022-4340",
+        "Sales Date": "3/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "AMERIHOME MORTGAGE COMPANY, LLC vs LOUIS JOSEPH MILLER III (A/K/A LOUIS JOSEPH MILLER) AND ORLANDO MARIE MILLER",
+        "Address/Description": "4042 SOUTH INWOOD AV  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$210,781.38",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-3664",
+        "Sales Date": "3/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "AMERIHOME MORTGAGE COMPANY, LLC vs HUBERT L. THOMPSON, JR. A/K/A HUBERT THOMPSON, JR.",
+        "Address/Description": "13955 EXPLORERS AV  NEW ORLEANS LA 70129",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$68,192.45",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.06116845,
+        "Longitude": -89.92479484553834
+    },
+    {
         "Case #": "2022-6789",
         "Sales Date": "3/9/2023",
         "Property Status": "Scheduled",
@@ -2518,8 +2466,34 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$116,931.10",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.943442,
-        "Longitude": -90.049528
+        "Latitude": 29.947299510204083,
+        "Longitude": -90.0492013877551
+    },
+    {
+        "Case #": "2019-2689",
+        "Sales Date": "3/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK TRUST, N.A. AS TRUSTEE FOR WATERFALL VICTORIA GRANTOR TRUST II, SERIES G vs HILTON WARREN BURNS  AND GWENDOLYN LANG BURNS A/K/A GWENDOLYN LANG LEWIS BURNS AND THE UNITED STATES OF AMERICA",
+        "Address/Description": "1812 FELICIANA ST  NEW ORLEANS LA 70117",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\78586.JPG",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$59,593.70",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.975376750000002,
+        "Longitude": -90.04308350357144
+    },
+    {
+        "Case #": "2021-6829",
+        "Sales Date": "3/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "REVERSE MORTGAGE SOLUTIONS, INC vs ALTON LANDRUM AND LORRAINE WASHINGTON LANDRUM A/K/A LORRAINE W. LANDRUM A/K/A LORRAINE LANDRUM",
+        "Address/Description": "2813 N ROCHEBLAVE ST  NEW ORLEANS LA ",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\223427.JPG",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$81,358.19",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9825666,
+        "Longitude": -90.04723135223472
     },
     {
         "Case #": "2020-743",
@@ -2535,6 +2509,19 @@
         "Longitude": null
     },
     {
+        "Case #": "2022-1129",
+        "Sales Date": "3/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs KENNETH J. BARNES, OR HIS HEIRS, SUCCESSORS OR ASSIGNS",
+        "Address/Description": "2409-11 FIRST ST  NEW ORLEANS LA 70113",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\230373.JPG",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$1,205.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.939680081632655,
+        "Longitude": -90.08769187755102
+    },
+    {
         "Case #": "2022-8997",
         "Sales Date": "3/9/2023",
         "Property Status": "Scheduled",
@@ -2544,34 +2531,21 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$352,155.35",
         "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9611856,
+        "Longitude": -90.12221007271353
+    },
+    {
+        "Case #": "2022-8609",
+        "Sales Date": "3/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "FIFTH THIRD BANK, NATIONAL ASSOCIATION vs JASON M. GALATAS",
+        "Address/Description": "1436 ROBERT E LEE BD  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$157,466.90",
+        "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
-    },
-    {
-        "Case #": "2022-9127",
-        "Sales Date": "3/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "MORTGAGE ASSETS MANAGEMENT, LLC vs THE SUCCESSION OF GUSSIE DAVIDSON JONES A/K/A GUSSIE DAVIDSON JONES A/K/A GUSSIE D. JONES A/K/A GUSSIE JONES A/K/A GUSSIE M. JONES, DENISE JONES BRYANT A/K/A DENISE J. BRYANT A/K/A DENISE BRYANT, GARY ANTHONY JONES A/K/A GARY A. JONES A/K/A GARY JONES, DEANNA JONES PAUL A/K/A DEANNA J. PAUL A/K/A DEANNA PAUL AND CHARLES EDWARD JONES A/K/A CHARLES E. JONES A/K/A CHARLES JONES",
-        "Address/Description": "3611 MANSFIELD AV  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$153,913.07",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.916185771180256,
-        "Longitude": -89.98182262476591
-    },
-    {
-        "Case #": "2022-9561",
-        "Sales Date": "3/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs KAIROS INVESTMENTS LLC",
-        "Address/Description": "2311 ST ANTHONY ST  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$3,110.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9807233,
-        "Longitude": -90.06229443558459
     },
     {
         "Case #": "2022-9428",
