@@ -117,19 +117,6 @@
         "Longitude": -90.12162966768452
     },
     {
-        "Case #": "2022-3416",
-        "Sales Date": "12/1/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "FREEDOM MORTGAGE CORPORATION vs ROBERT A. DUBOIS",
-        "Address/Description": "2622-24 MARTIN LUTHER KING, JR. BD  NEW ORLEANS LA 70113",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$241,359.42",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2011-4441",
         "Sales Date": "12/1/2022",
         "Property Status": "Scheduled",
@@ -1768,19 +1755,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2022-1829",
-        "Sales Date": "2/16/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "TIAA FSB vs DAVID R. PERKINS AND JUSTINE W. PERKINS A/K/A JUSTINE WILSON PERKINS",
-        "Address/Description": "3011-13 ST CLAUDE AV  NEW ORLEANS LA 70117",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\250039.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$15,712.77",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9682526,
-        "Longitude": -90.0456058
-    },
-    {
         "Case #": "2022-9299",
         "Sales Date": "2/16/2023",
         "Property Status": "Scheduled",
@@ -2520,6 +2494,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.939680081632655,
         "Longitude": -90.08769187755102
+    },
+    {
+        "Case #": "2022-3416",
+        "Sales Date": "3/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "FREEDOM MORTGAGE CORPORATION vs ROBERT A. DUBOIS",
+        "Address/Description": "2622-24 MARTIN LUTHER KING, JR. BD  NEW ORLEANS LA 70113",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$241,359.42",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-8997",
