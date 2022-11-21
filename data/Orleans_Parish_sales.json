@@ -1659,7 +1659,7 @@
         "Picture": "",
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$154,843.42",
-        "Terms and Conditions": "With appraisal; ",
+        "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.055158,
         "Longitude": -89.9531695047263
     },
@@ -1950,19 +1950,6 @@
         "Longitude": -89.95597537576765
     },
     {
-        "Case #": "2022-8473",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "THE MONEY SOURCE, INC. vs HESTER CLARK ANDERSON",
-        "Address/Description": "2010 COLUMBUS ST  NEW ORLEANS LA 70116",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$189,469.64",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.973619181818183,
-        "Longitude": -90.070986
-    },
-    {
         "Case #": "2019-10830",
         "Sales Date": "2/23/2023",
         "Property Status": "Scheduled",
@@ -1974,6 +1961,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.00567425,
         "Longitude": -90.06288195634467
+    },
+    {
+        "Case #": "2022-8473",
+        "Sales Date": "2/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "THE MONEY SOURCE, INC. vs HESTER CLARK ANDERSON",
+        "Address/Description": "2010 COLUMBUS ST  NEW ORLEANS LA 70116",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$189,469.64",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.973619181818183,
+        "Longitude": -90.070986
     },
     {
         "Case #": "2022-8540",
@@ -2270,7 +2270,7 @@
         "Picture": "",
         "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
         "Writ Amount": "$28,618.54",
-        "Terms and Conditions": "",
+        "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.93505185,
         "Longitude": -90.02190757622598
     },
@@ -2444,6 +2444,19 @@
         "Longitude": -90.0492013877551
     },
     {
+        "Case #": "2015-9594",
+        "Sales Date": "3/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF FINANCE OF AMERICA S                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF FINANCE OF AMERICA STRUCTURED SECURITIES ACQUISITION TRUST 2018-HB1 vs ANDREA T. LUCAS A/K/A ANDREA TYLER LUCAS",
+        "Address/Description": "5142 CHAMBERLAIN DRIVE  New Orleans LA ",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\22311.jpg",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$184,081.44",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.0098889,
+        "Longitude": -90.07379267822665
+    },
+    {
         "Case #": "2019-2689",
         "Sales Date": "3/9/2023",
         "Property Status": "Scheduled",
@@ -2509,32 +2522,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2022-8997",
-        "Sales Date": "3/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION vs WALTER R. OCAMPO A/K/A WALTER OCAMPO AND EMILY V. OCAMPO A/K/A EMILY OCAMPO",
-        "Address/Description": "8520-22 BELFAST ST  NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$352,155.35",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9611856,
-        "Longitude": -90.12221007271353
-    },
-    {
-        "Case #": "2022-8609",
-        "Sales Date": "3/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FIFTH THIRD BANK, NATIONAL ASSOCIATION vs JASON M. GALATAS",
-        "Address/Description": "1436 ROBERT E LEE BD  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$157,466.90",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-9428",
         "Sales Date": "3/9/2023",
         "Property Status": "Scheduled",
@@ -2559,5 +2546,31 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2022-9127",
+        "Sales Date": "3/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "MORTGAGE ASSETS MANAGEMENT, LLC vs THE SUCCESSION OF GUSSIE DAVIDSON JONES A/K/A GUSSIE DAVIDSON JONES A/K/A GUSSIE D. JONES A/K/A GUSSIE JONES A/K/A GUSSIE M. JONES, DENISE JONES BRYANT A/K/A DENISE J. BRYANT A/K/A DENISE BRYANT, GARY ANTHONY JONES A/K/A GARY A. JONES A/K/A GARY JONES, DEANNA JONES PAUL A/K/A DEANNA J. PAUL A/K/A DEANNA PAUL AND CHARLES EDWARD JONES A/K/A CHARLES E. JONES A/K/A CHARLES JONES",
+        "Address/Description": "3611 MANSFIELD AV  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$153,913.07",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.916185771180256,
+        "Longitude": -89.98182262476591
+    },
+    {
+        "Case #": "2022-8997",
+        "Sales Date": "3/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION vs WALTER R. OCAMPO A/K/A WALTER OCAMPO AND EMILY V. OCAMPO A/K/A EMILY OCAMPO",
+        "Address/Description": "8520-22 BELFAST ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$352,155.35",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9611856,
+        "Longitude": -90.12221007271353
     }
 ]
