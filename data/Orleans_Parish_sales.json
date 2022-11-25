@@ -139,8 +139,8 @@
         "Attorney": "LAW OFFICE OF KYLE S SCLAFANI",
         "Writ Amount": "$221,920.15",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.943919653061226,
+        "Longitude": -90.07921448979592
     },
     {
         "Case #": "2022-618",
@@ -1411,7 +1411,7 @@
         "Address/Description": "2722 FRANKFORT ST  NEW ORLEANS LA 70122",
         "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\237616.JPG",
         "Attorney": "KIZER, HOOD & MORGAN, LLP",
-        "Writ Amount": "$49,890.21",
+        "Writ Amount": "$158,143.70",
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.02568455,
         "Longitude": -90.0491820346763
@@ -2171,19 +2171,6 @@
         "Longitude": -90.09245665306122
     },
     {
-        "Case #": "2022-1000",
-        "Sales Date": "3/2/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLEY AS OWNER TRUST FOR RCF 2 ACQUISITION TRUST C/O U.S. BANK TRUST NATIONAL ASSOCIATION vs ROBERT L. PACKNETT",
-        "Address/Description": "5525-27 SPAIN ST  NEW ORLEANS LA 70122",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235350.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$137,039.93",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.01539645,
-        "Longitude": -90.05675102100234
-    },
-    {
         "Case #": "2022-8837",
         "Sales Date": "3/2/2023",
         "Property Status": "Scheduled",
@@ -2509,32 +2496,6 @@
         "Longitude": -90.04723135223472
     },
     {
-        "Case #": "2020-743",
-        "Sales Date": "3/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "NATIONSTAR MORTGAGE LLC D/B/A/ MR. COOPER vs LENNETTA M. FORTE (AKA LENNETTA M. SUMNER, LENNETTA M. CLOWNEY, LENNETTA SUMMERS, LENNETTA M. SUMMERS)",
-        "Address/Description": "4825 AND 4827 CAMELIA ST.  NEW ORLEANS LA 70126",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\234111.JPG",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$117,629.29",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2022-1129",
-        "Sales Date": "3/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs KENNETH J. BARNES, OR HIS HEIRS, SUCCESSORS OR ASSIGNS",
-        "Address/Description": "2409-11 FIRST ST  NEW ORLEANS LA 70113",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\230373.JPG",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$1,205.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.939680081632655,
-        "Longitude": -90.08769187755102
-    },
-    {
         "Case #": "2022-1828",
         "Sales Date": "3/9/2023",
         "Property Status": "Scheduled",
@@ -2556,6 +2517,32 @@
         "Picture": "",
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$241,359.42",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-1129",
+        "Sales Date": "3/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs KENNETH J. BARNES, OR HIS HEIRS, SUCCESSORS OR ASSIGNS",
+        "Address/Description": "2409-11 FIRST ST  NEW ORLEANS LA 70113",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\230373.JPG",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$1,205.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.939680081632655,
+        "Longitude": -90.08769187755102
+    },
+    {
+        "Case #": "2020-743",
+        "Sales Date": "3/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "NATIONSTAR MORTGAGE LLC D/B/A/ MR. COOPER vs LENNETTA M. FORTE (AKA LENNETTA M. SUMNER, LENNETTA M. CLOWNEY, LENNETTA SUMMERS, LENNETTA M. SUMMERS)",
+        "Address/Description": "4825 AND 4827 CAMELIA ST.  NEW ORLEANS LA 70126",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\234111.JPG",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$117,629.29",
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
