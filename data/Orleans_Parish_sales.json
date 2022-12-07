@@ -78,19 +78,6 @@
         "Longitude": -90.09532410204082
     },
     {
-        "Case #": "2015-12025",
-        "Sales Date": "12/8/2022",
-        "Property Status": "Scheduled",
-        "Case Title": "SELENE FINANCE LP vs N'KEIDRE RAYMON AND RYAN JONES AND TRENTEZ MIXON",
-        "Address/Description": "3506 DERBY PLACE  New Orleans LA ",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\20891.jpg",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$80,610.99",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.98687845,
-        "Longitude": -90.08305924999999
-    },
-    {
         "Case #": "2018-12101",
         "Sales Date": "12/8/2022",
         "Property Status": "Scheduled",
@@ -1140,8 +1127,8 @@
         "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
         "Writ Amount": "$132,565.08",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.899946149999998,
-        "Longitude": -89.99836592463859
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-5329",
@@ -1690,19 +1677,6 @@
         "Longitude": -89.95597537576765
     },
     {
-        "Case #": "2022-8473",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "THE MONEY SOURCE, INC. vs HESTER CLARK ANDERSON",
-        "Address/Description": "2010 COLUMBUS ST  NEW ORLEANS LA 70116",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$189,469.64",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.973619181818183,
-        "Longitude": -90.070986
-    },
-    {
         "Case #": "2022-8540",
         "Sales Date": "2/23/2023",
         "Property Status": "Scheduled",
@@ -1729,19 +1703,6 @@
         "Longitude": -90.0368254
     },
     {
-        "Case #": "2019-10830",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "STANDARD MORTGAGE CORPORATION vs LARRY A. BROYARD AND GAIL VEALS",
-        "Address/Description": "2054 CARNOT ST  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
-        "Writ Amount": "$142,251.62",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.00567425,
-        "Longitude": -90.06288195634467
-    },
-    {
         "Case #": "2022-1268",
         "Sales Date": "2/23/2023",
         "Property Status": "Scheduled",
@@ -1766,6 +1727,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.024665249999998,
         "Longitude": -90.0551603532198
+    },
+    {
+        "Case #": "2019-10830",
+        "Sales Date": "2/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "STANDARD MORTGAGE CORPORATION vs LARRY A. BROYARD AND GAIL VEALS",
+        "Address/Description": "2054 CARNOT ST  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
+        "Writ Amount": "$142,251.62",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.00567425,
+        "Longitude": -90.06288195634467
     },
     {
         "Case #": "2019-13044",
@@ -2015,19 +1989,6 @@
         "Longitude": -90.10682824489797
     },
     {
-        "Case #": "2022-5153",
-        "Sales Date": "3/2/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "NATIONSTAR MORTGAGE LLC D/B/A MR. COOPER vs FERDINAND TONEY",
-        "Address/Description": "2115-17 PLEASURE ST  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$34,492.72",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.992847954545454,
-        "Longitude": -90.060799
-    },
-    {
         "Case #": "2022-9052",
         "Sales Date": "3/2/2023",
         "Property Status": "Scheduled",
@@ -2117,19 +2078,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
-    },
-    {
-        "Case #": "2022-4448",
-        "Sales Date": "3/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "WELLS FARGO BANK, N.A. vs ASHANTI DAVIS A/K/A ASHANTI R. DAVIS",
-        "Address/Description": "3618 RIVER OAKS DR  NEW ORLEANS LA 70131",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\251614.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$134,409.54",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.916887833717773,
-        "Longitude": -90.00575275917271
     },
     {
         "Case #": "2022-1828",
@@ -2275,19 +2223,6 @@
         "Longitude": -90.07379267822665
     },
     {
-        "Case #": "2022-9127",
-        "Sales Date": "3/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "MORTGAGE ASSETS MANAGEMENT, LLC vs THE SUCCESSION OF GUSSIE DAVIDSON JONES A/K/A GUSSIE DAVIDSON JONES A/K/A GUSSIE D. JONES A/K/A GUSSIE JONES A/K/A GUSSIE M. JONES, DENISE JONES BRYANT A/K/A DENISE J. BRYANT A/K/A DENISE BRYANT, GARY ANTHONY JONES A/K/A GARY A. JONES A/K/A GARY JONES, DEANNA JONES PAUL A/K/A DEANNA J. PAUL A/K/A DEANNA PAUL AND CHARLES EDWARD JONES A/K/A CHARLES E. JONES A/K/A CHARLES JONES",
-        "Address/Description": "3611 MANSFIELD AV  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$153,913.07",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.916185771180256,
-        "Longitude": -89.98182262476591
-    },
-    {
         "Case #": "2021-6829",
         "Sales Date": "3/9/2023",
         "Property Status": "Scheduled",
@@ -2327,19 +2262,6 @@
         "Longitude": -89.92479484553834
     },
     {
-        "Case #": "2022-6672",
-        "Sales Date": "3/16/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs AVION TURNER",
-        "Address/Description": "5918-20 N ROBERTSON ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$1,710.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.964307285714284,
-        "Longitude": -90.01122938775511
-    },
-    {
         "Case #": "2019-12396",
         "Sales Date": "3/16/2023",
         "Property Status": "Scheduled",
@@ -2377,6 +2299,58 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.99218535,
         "Longitude": -90.0569226401661
+    },
+    {
+        "Case #": "2022-5294",
+        "Sales Date": "3/16/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "PS FUNDING, INC. vs MIG MANAGEMENT, LLC",
+        "Address/Description": "1825 DUELS ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "ADAMS AND REESE LLP",
+        "Writ Amount": "$458,000.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9853635,
+        "Longitude": -90.0669286
+    },
+    {
+        "Case #": "2022-6672",
+        "Sales Date": "3/16/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs AVION TURNER",
+        "Address/Description": "5918-20 N ROBERTSON ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$1,710.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.964307285714284,
+        "Longitude": -90.01122938775511
+    },
+    {
+        "Case #": "2021-2270",
+        "Sales Date": "3/16/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "SUNSET HARBOUR, LLC vs THE SUCCESSION OF MARY ROSS BUSH ET AL",
+        "Address/Description": "6433 BRUNSWICK CT  NEW ORLEANS LA 70131",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\251610.JPG",
+        "Attorney": "TAXTITLE.COM",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.91441245,
+        "Longitude": -89.98533208741824
+    },
+    {
+        "Case #": "2019-10078",
+        "Sales Date": "3/16/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "AMERICAN ADVISORS GROUP vs KATHRYN STEWART AKA KATHRYN WHITMORE STEWART",
+        "Address/Description": "1731 SECOND ST  NEW ORLEANS LA 70113",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\236633.JPG",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$381,101.71",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9337698,
+        "Longitude": -90.08444085000001
     },
     {
         "Case #": "2022-7015",
