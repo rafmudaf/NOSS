@@ -1729,19 +1729,6 @@
         "Longitude": -90.12674031885365
     },
     {
-        "Case #": "2022-3416",
-        "Sales Date": "3/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FREEDOM MORTGAGE CORPORATION vs ROBERT A. DUBOIS",
-        "Address/Description": "2622-24 MARTIN LUTHER KING, JR. BD  NEW ORLEANS LA 70113",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$241,359.42",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-6789",
         "Sales Date": "3/9/2023",
         "Property Status": "Scheduled",
@@ -2132,6 +2119,19 @@
         "Longitude": -90.03713850657894
     },
     {
+        "Case #": "2022-9937",
+        "Sales Date": "3/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "REVERSE MORTGAGE FUNDING LLC vs ESTATE OF PERCIE DEMPS MCDONALD",
+        "Address/Description": "5915 PAULINE DR  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$136,653.43",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.0221186,
+        "Longitude": -90.0351173145337
+    },
+    {
         "Case #": "2017-5499",
         "Sales Date": "3/23/2023",
         "Property Status": "Scheduled",
@@ -2145,6 +2145,19 @@
         "Longitude": -90.08494885308053
     },
     {
+        "Case #": "2017-12372",
+        "Sales Date": "3/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "ALVIN ABBOTT vs GREG P. FOSTER, JR., HOMEVEST CAPITAL, LLC, AND THE CITY OF NEW ORLEANS",
+        "Address/Description": "1929-29A-31 GOV. NICHOLLS ST  NEW ORLEANS LA 70116",
+        "Picture": "",
+        "Attorney": "LAW OFFICE OF SCOTT J. SONNIER",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2022-9550",
         "Sales Date": "3/23/2023",
         "Property Status": "Scheduled",
@@ -2156,6 +2169,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2022-8997",
+        "Sales Date": "3/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION vs WALTER R. OCAMPO A/K/A WALTER OCAMPO AND EMILY V. OCAMPO A/K/A EMILY OCAMPO",
+        "Address/Description": "8520-22 BELFAST ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$352,155.35",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9611856,
+        "Longitude": -90.12221007271353
     },
     {
         "Case #": "2022-5229",
@@ -2234,6 +2260,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.935977489795917,
         "Longitude": -90.04742063265306
+    },
+    {
+        "Case #": "2022-2056",
+        "Sales Date": "3/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "COMMUNITY LOAN SERVICING, LLC vs MASHANDRA HALL JACKSON",
+        "Address/Description": "215 CAMBRIDGE CT  NEW ORLEANS LA 70131",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\236638.JPG",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$156,764.56",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9185624,
+        "Longitude": -89.98918384268465
     },
     {
         "Case #": "2022-618",
