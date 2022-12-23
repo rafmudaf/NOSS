@@ -858,19 +858,6 @@
         "Longitude": -90.02341735041614
     },
     {
-        "Case #": "2022-7600",
-        "Sales Date": "2/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs ANTHONY DUREL AND UTRICIA D. DUREL",
-        "Address/Description": "1809 LOUISA ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "",
-        "Writ Amount": "$1,705.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.974563918367345,
-        "Longitude": -90.04015397959184
-    },
-    {
         "Case #": "2022-8098",
         "Sales Date": "2/9/2023",
         "Property Status": "Scheduled",
@@ -936,19 +923,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2022-6473",
-        "Sales Date": "2/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "RYAN MARCOMB, LLC vs ABHG, LLC",
-        "Address/Description": "3334 WASHINGTON AV  NEW ORLEANS LA 70125",
-        "Picture": "",
-        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
-        "Writ Amount": "$55,000.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9455705,
-        "Longitude": -90.0970236
-    },
-    {
         "Case #": "2019-10143",
         "Sales Date": "2/9/2023",
         "Property Status": "Scheduled",
@@ -960,19 +934,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.055158,
         "Longitude": -89.9531695047263
-    },
-    {
-        "Case #": "2022-7387",
-        "Sales Date": "2/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "WELLS FARGO BANK, N.A. vs WENDELL R. BOYD, JR. A/K/A WENDELL BOYD, JR. AND WENDELL R. BOYD, III A/K/A WENDELL BOYD, III",
-        "Address/Description": "542-44 LOWERLINE ST  NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$537,764.13",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9376903,
-        "Longitude": -90.129047
     },
     {
         "Case #": "2021-7270",
@@ -1326,19 +1287,6 @@
         "Longitude": -90.0368254
     },
     {
-        "Case #": "2019-13044",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "QUICKEN LOANS INC. vs DONNA WHITE",
-        "Address/Description": "8711 LOMOND RD  NEW ORLEANS LA 70127",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$151,695.60",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.040147150000003,
-        "Longitude": -89.99414580150363
-    },
-    {
         "Case #": "2019-10830",
         "Sales Date": "2/23/2023",
         "Property Status": "Scheduled",
@@ -1376,6 +1324,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.024665249999998,
         "Longitude": -90.0551603532198
+    },
+    {
+        "Case #": "2019-13044",
+        "Sales Date": "2/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "QUICKEN LOANS INC. vs DONNA WHITE",
+        "Address/Description": "8711 LOMOND RD  NEW ORLEANS LA 70127",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$151,695.60",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.040147150000003,
+        "Longitude": -89.99414580150363
     },
     {
         "Case #": "2020-10733",
