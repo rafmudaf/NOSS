@@ -689,19 +689,6 @@
         "Longitude": -90.0210519
     },
     {
-        "Case #": "2022-4446",
-        "Sales Date": "2/2/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs NORMAN A. MARTIN",
-        "Address/Description": "4941 VIOLA ST  NEW ORLEANS LA 70126",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$95,604.11",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.02249375,
-        "Longitude": -89.99632605
-    },
-    {
         "Case #": "2022-3224",
         "Sales Date": "2/2/2023",
         "Property Status": "Scheduled",
@@ -1170,6 +1157,32 @@
         "Longitude": null
     },
     {
+        "Case #": "2022-8540",
+        "Sales Date": "2/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "NATIONSTAR MORTGAGE LLC vs CHRISTOPHER R. MARK A/K/A CHRISTOPHER RENARD MARK",
+        "Address/Description": "6970 CONNAUGHT CT  NEW ORLEANS LA 70128",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$233,000.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.042751600000003,
+        "Longitude": -89.96841429576568
+    },
+    {
+        "Case #": "2022-8802",
+        "Sales Date": "2/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "HSBC BANK USA, N.A., AS TRUSTEE ON BEHALF OF ACE SECURITIES CORP. HOME EQUITY LOAN TRUST AND FOR THE REGISTERED HOLDERS OF ACE SECURITIES CORP. HOME EQUITY LOAN TRUST, SERIES 2007-ASAP1, ASSET BACKED PASS-THROUGH CERTIFICATES vs DAVID H. DOTSON A/K/A DAVID DOTSON",
+        "Address/Description": "601-03 BARTHOLOMEW ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$157,362.25",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9605736,
+        "Longitude": -90.0368254
+    },
+    {
         "Case #": "2022-6149",
         "Sales Date": "2/23/2023",
         "Property Status": "Scheduled",
@@ -1261,45 +1274,6 @@
         "Longitude": -89.95597537576765
     },
     {
-        "Case #": "2022-8540",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "NATIONSTAR MORTGAGE LLC vs CHRISTOPHER R. MARK A/K/A CHRISTOPHER RENARD MARK",
-        "Address/Description": "6970 CONNAUGHT CT  NEW ORLEANS LA 70128",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$233,000.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.042751600000003,
-        "Longitude": -89.96841429576568
-    },
-    {
-        "Case #": "2022-8802",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "HSBC BANK USA, N.A., AS TRUSTEE ON BEHALF OF ACE SECURITIES CORP. HOME EQUITY LOAN TRUST AND FOR THE REGISTERED HOLDERS OF ACE SECURITIES CORP. HOME EQUITY LOAN TRUST, SERIES 2007-ASAP1, ASSET BACKED PASS-THROUGH CERTIFICATES vs DAVID H. DOTSON A/K/A DAVID DOTSON",
-        "Address/Description": "601-03 BARTHOLOMEW ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$157,362.25",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9605736,
-        "Longitude": -90.0368254
-    },
-    {
-        "Case #": "2019-10830",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "STANDARD MORTGAGE CORPORATION vs LARRY A. BROYARD AND GAIL VEALS",
-        "Address/Description": "2054 CARNOT ST  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
-        "Writ Amount": "$142,251.62",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.00567425,
-        "Longitude": -90.06288195634467
-    },
-    {
         "Case #": "2022-1268",
         "Sales Date": "2/23/2023",
         "Property Status": "Scheduled",
@@ -1324,6 +1298,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.024665249999998,
         "Longitude": -90.0551603532198
+    },
+    {
+        "Case #": "2019-10830",
+        "Sales Date": "2/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "STANDARD MORTGAGE CORPORATION vs LARRY A. BROYARD AND GAIL VEALS",
+        "Address/Description": "2054 CARNOT ST  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
+        "Writ Amount": "$142,251.62",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.00567425,
+        "Longitude": -90.06288195634467
     },
     {
         "Case #": "2019-13044",
@@ -1428,19 +1415,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.91576635526289,
         "Longitude": -90.01275133093348
-    },
-    {
-        "Case #": "2022-6979",
-        "Sales Date": "3/2/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "LAKEVIEW LOAN SERVICING, LLC vs SHAWN BLACKWELL AND PAMELA WRIGHT BLACKWELL",
-        "Address/Description": "24 LAKEWOOD ESTATES DR  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$325,231.98",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.904576,
-        "Longitude": -90.00680181001322
     },
     {
         "Case #": "2018-3581",
@@ -2208,19 +2182,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.97441,
         "Longitude": -90.05003624453008
-    },
-    {
-        "Case #": "2016-4727",
-        "Sales Date": "3/30/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "PACIFIC UNION FINANCIAL, LLC vs LEJEUNE D. HARRIS",
-        "Address/Description": "7057 WEST TAMARON BOULEVARD  New Orleans LA ",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\23014.jpg",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$235,864.54",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0557977,
-        "Longitude": -89.94922859075145
     },
     {
         "Case #": "2022-8563",
