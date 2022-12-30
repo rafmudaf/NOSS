@@ -1014,19 +1014,6 @@
         "Longitude": -90.0856145
     },
     {
-        "Case #": "2022-7409",
-        "Sales Date": "2/16/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2019-3 vs MARKO L. MARKOVICH AND GWENDOLYN EBERTS MARKOVICH A/K/A GWENDOLYN EBERTS ROULET MARKOVICH",
-        "Address/Description": "6216 PATTON ST  NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$306,884.01",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9214876,
-        "Longitude": -90.12589518140298
-    },
-    {
         "Case #": "2022-7584",
         "Sales Date": "2/16/2023",
         "Property Status": "Scheduled",
@@ -1157,32 +1144,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2022-8540",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "NATIONSTAR MORTGAGE LLC vs CHRISTOPHER R. MARK A/K/A CHRISTOPHER RENARD MARK",
-        "Address/Description": "6970 CONNAUGHT CT  NEW ORLEANS LA 70128",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$233,000.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.042751600000003,
-        "Longitude": -89.96841429576568
-    },
-    {
-        "Case #": "2022-8802",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "HSBC BANK USA, N.A., AS TRUSTEE ON BEHALF OF ACE SECURITIES CORP. HOME EQUITY LOAN TRUST AND FOR THE REGISTERED HOLDERS OF ACE SECURITIES CORP. HOME EQUITY LOAN TRUST, SERIES 2007-ASAP1, ASSET BACKED PASS-THROUGH CERTIFICATES vs DAVID H. DOTSON A/K/A DAVID DOTSON",
-        "Address/Description": "601-03 BARTHOLOMEW ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$157,362.25",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9605736,
-        "Longitude": -90.0368254
-    },
-    {
         "Case #": "2022-6149",
         "Sales Date": "2/23/2023",
         "Property Status": "Scheduled",
@@ -1274,6 +1235,45 @@
         "Longitude": -89.95597537576765
     },
     {
+        "Case #": "2022-8540",
+        "Sales Date": "2/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "NATIONSTAR MORTGAGE LLC vs CHRISTOPHER R. MARK A/K/A CHRISTOPHER RENARD MARK",
+        "Address/Description": "6970 CONNAUGHT CT  NEW ORLEANS LA 70128",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$233,000.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.042751600000003,
+        "Longitude": -89.96841429576568
+    },
+    {
+        "Case #": "2022-8802",
+        "Sales Date": "2/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "HSBC BANK USA, N.A., AS TRUSTEE ON BEHALF OF ACE SECURITIES CORP. HOME EQUITY LOAN TRUST AND FOR THE REGISTERED HOLDERS OF ACE SECURITIES CORP. HOME EQUITY LOAN TRUST, SERIES 2007-ASAP1, ASSET BACKED PASS-THROUGH CERTIFICATES vs DAVID H. DOTSON A/K/A DAVID DOTSON",
+        "Address/Description": "601-03 BARTHOLOMEW ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$157,362.25",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9605736,
+        "Longitude": -90.0368254
+    },
+    {
+        "Case #": "2019-10830",
+        "Sales Date": "2/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "STANDARD MORTGAGE CORPORATION vs LARRY A. BROYARD AND GAIL VEALS",
+        "Address/Description": "2054 CARNOT ST  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
+        "Writ Amount": "$142,251.62",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.00567425,
+        "Longitude": -90.06288195634467
+    },
+    {
         "Case #": "2022-1268",
         "Sales Date": "2/23/2023",
         "Property Status": "Scheduled",
@@ -1298,19 +1298,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.024665249999998,
         "Longitude": -90.0551603532198
-    },
-    {
-        "Case #": "2019-10830",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "STANDARD MORTGAGE CORPORATION vs LARRY A. BROYARD AND GAIL VEALS",
-        "Address/Description": "2054 CARNOT ST  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
-        "Writ Amount": "$142,251.62",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.00567425,
-        "Longitude": -90.06288195634467
     },
     {
         "Case #": "2019-13044",
@@ -1989,19 +1976,6 @@
         "Longitude": -90.08494885308053
     },
     {
-        "Case #": "2022-9550",
-        "Sales Date": "3/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "SMOOT INVESTMENTS, INC. vs TODD M. VILLARRUBIA, A PROFESSIONAL LAW CORPORATION AND TODD M. VILLARRUBIA",
-        "Address/Description": "8654 PONTCHARTRAIN BD  UNIT 8 NEW ORLEANS LA 70124",
-        "Picture": "",
-        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
-        "Writ Amount": "$343,732.01",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2017-12372",
         "Sales Date": "3/23/2023",
         "Property Status": "Scheduled",
@@ -2010,6 +1984,19 @@
         "Picture": "",
         "Attorney": "LAW OFFICE OF SCOTT J. SONNIER",
         "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-9550",
+        "Sales Date": "3/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "SMOOT INVESTMENTS, INC. vs TODD M. VILLARRUBIA, A PROFESSIONAL LAW CORPORATION AND TODD M. VILLARRUBIA",
+        "Address/Description": "8654 PONTCHARTRAIN BD  UNIT 8 NEW ORLEANS LA 70124",
+        "Picture": "",
+        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
+        "Writ Amount": "$343,732.01",
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
@@ -2041,19 +2028,6 @@
         "Longitude": -90.0368312
     },
     {
-        "Case #": "2022-7666",
-        "Sales Date": "3/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "LOAN FUNDER LLC, SERIES 27078 vs THE GENIE REALTY GROUP, LLC, GEORGE JAVON ALLOCHUKU AND DEREK LOUIS ROSS",
-        "Address/Description": "2117-19 SPAIN ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "LAW OFFICE OF KYLE S. SCALAFANI",
-        "Writ Amount": "$158,924.55",
-        "Terms and Conditions": "With appraisal; 100% cash at the moment of adjudication.",
-        "Latitude": 29.97936095,
-        "Longitude": -90.05391019999999
-    },
-    {
         "Case #": "2022-7215",
         "Sales Date": "3/23/2023",
         "Property Status": "Scheduled",
@@ -2065,6 +2039,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.02427145,
         "Longitude": -89.97055039502067
+    },
+    {
+        "Case #": "2022-7666",
+        "Sales Date": "3/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "LOAN FUNDER LLC, SERIES 27078 vs THE GENIE REALTY GROUP, LLC, GEORGE JAVON ALLOCHUKU AND DEREK LOUIS ROSS",
+        "Address/Description": "2117-19 SPAIN ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "LAW OFFICE OF KYLE S. SCALAFANI",
+        "Writ Amount": "$158,924.55",
+        "Terms and Conditions": "With appraisal; 100% cash at the moment of adjudication.",
+        "Latitude": 29.97936095,
+        "Longitude": -90.05391019999999
     },
     {
         "Case #": "2022-6975",
@@ -2106,19 +2093,6 @@
         "Longitude": -90.04742063265306
     },
     {
-        "Case #": "2022-2056",
-        "Sales Date": "3/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "COMMUNITY LOAN SERVICING, LLC vs MASHANDRA HALL JACKSON",
-        "Address/Description": "215 CAMBRIDGE CT  NEW ORLEANS LA 70131",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\236638.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$156,764.56",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9185624,
-        "Longitude": -89.98918384268465
-    },
-    {
         "Case #": "2022-618",
         "Sales Date": "3/23/2023",
         "Property Status": "Scheduled",
@@ -2130,6 +2104,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.952730250000002,
         "Longitude": -90.13218245
+    },
+    {
+        "Case #": "2022-2056",
+        "Sales Date": "3/23/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "COMMUNITY LOAN SERVICING, LLC vs MASHANDRA HALL JACKSON",
+        "Address/Description": "215 CAMBRIDGE CT  NEW ORLEANS LA 70131",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\236638.JPG",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$156,764.56",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9185624,
+        "Longitude": -89.98918384268465
     },
     {
         "Case #": "2019-6506",
@@ -2184,6 +2171,32 @@
         "Longitude": -90.05003624453008
     },
     {
+        "Case #": "2020-1921",
+        "Sales Date": "3/30/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "WELLS FARGO BANK, N.A. vs LEROHJANIECE LEE",
+        "Address/Description": "1327 SHIRLEY DR  NEW ORLEANS LA 70114",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$117,671.43",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.94098105,
+        "Longitude": -90.03197252092451
+    },
+    {
+        "Case #": "2022-563",
+        "Sales Date": "3/30/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2019-2 vs FRED MICHAEL LANE A/K/A FRED M. LANE A/K/A FRED LANE AND ALISON HOFFMAN LANE A/K/A ALISON H. LANE A/K/A ALISON LANE",
+        "Address/Description": "30 SEAWARD CT  NEW ORLEANS LA 70131",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\234104.JPG",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$244,648.02",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2022-8563",
         "Sales Date": "3/30/2023",
         "Property Status": "Scheduled",
@@ -2221,5 +2234,31 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.06116845,
         "Longitude": -89.92479484553834
+    },
+    {
+        "Case #": "2022-6396",
+        "Sales Date": "3/30/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "LNV CORPORATION vs FAY ANN PRICE, (A/K/A FAY ANN MAGEE, FAY ANN VELTRI)",
+        "Address/Description": "7517 WOODBINE DR  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$119,539.59",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.0361404,
+        "Longitude": -90.00175188311864
+    },
+    {
+        "Case #": "2022-9608",
+        "Sales Date": "3/30/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "FREEDOM MORTGAGE CORPORATION vs RYAN ANDREW MAI",
+        "Address/Description": "2809-11 PALMER AV  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$72,890.69",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.94320325,
+        "Longitude": -90.11419852317597
     }
 ]
