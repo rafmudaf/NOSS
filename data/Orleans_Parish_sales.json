@@ -26,19 +26,6 @@
         "Longitude": -90.09766559183673
     },
     {
-        "Case #": "2022-2530",
-        "Sales Date": "1/19/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs ARTHUR BOOKER, JR., OR HIS SUCCESSORS, HEIRS, & ASSIGNS",
-        "Address/Description": "1735 FIRST ST  NEW ORLEANS LA 70126",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\243360.JPG",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$5,205.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.93406064649247,
-        "Longitude": -90.08347179500511
-    },
-    {
         "Case #": "2022-4300",
         "Sales Date": "1/19/2023",
         "Property Status": "Scheduled",
@@ -89,19 +76,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.92749175,
         "Longitude": -90.00399466869885
-    },
-    {
-        "Case #": "2021-9249",
-        "Sales Date": "1/19/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "PLANET HOME LENDING, LLC vs COLLIN RYAN KELLY AND LESLIE RIVAS KELLY",
-        "Address/Description": "1334-36 MUSIC ST  NEW ORLEANS LA 70117",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\219934.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$122,549.75",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.971708149999998,
-        "Longitude": -90.05142795
     },
     {
         "Case #": "2022-4760",
@@ -425,8 +399,8 @@
         "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
         "Writ Amount": "$132,565.08",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.899946149999998,
+        "Longitude": -89.99836592463859
     },
     {
         "Case #": "2022-5329",
@@ -1586,19 +1560,6 @@
         "Longitude": -90.0569226401661
     },
     {
-        "Case #": "2022-7114",
-        "Sales Date": "3/16/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK NATIONAL ASSOCIATION vs MELISSA ANN EUGENE A/K/A MELISSA A. EUGENE A/K/A MELISSA EUGENE",
-        "Address/Description": "1238 N GALVEZ ST  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$118,399.47",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.97160605,
-        "Longitude": -90.07353508035376
-    },
-    {
         "Case #": "2021-5151",
         "Sales Date": "3/23/2023",
         "Property Status": "Scheduled",
@@ -2093,19 +2054,6 @@
         "Longitude": -89.98214172825
     },
     {
-        "Case #": "2020-1923",
-        "Sales Date": "4/6/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "LAKEVIEW LOAN SERVICING, LLC vs LATEEF JAMEEL SHAHEER A/K/A LATEEF J. SHAHEER A/K/A LATEEF SHAHEER",
-        "Address/Description": "1119-21 LEBOEUF ST  NEW ORLEANS LA 70114",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\225746.JPG",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$129,449.81",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9435216,
-        "Longitude": -90.0424322
-    },
-    {
         "Case #": "2015-4580",
         "Sales Date": "4/6/2023",
         "Property Status": "Scheduled",
@@ -2117,19 +2065,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.98182945,
         "Longitude": -90.06515997595235
-    },
-    {
-        "Case #": "2022-1303",
-        "Sales Date": "4/6/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "LAKEVIEW LOAN SERVICING LLC vs NICHELL ROBINSON",
-        "Address/Description": "3451 CATALINA DR  NEW ORLEANS LA 70114",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON LLC",
-        "Writ Amount": "$92,157.49",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9351827,
-        "Longitude": -90.01974430599739
     },
     {
         "Case #": "2022-3230",
@@ -2145,30 +2080,17 @@
         "Longitude": -90.0573236
     },
     {
-        "Case #": "2022-8242",
+        "Case #": "2022-1303",
         "Sales Date": "4/6/2023",
         "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs CHUNG-CHA O. MESSINA",
-        "Address/Description": "431-33 NEWTON ST  NEW ORLEANS LA 70114",
+        "Case Title": "LAKEVIEW LOAN SERVICING LLC vs NICHELL ROBINSON",
+        "Address/Description": "3451 CATALINA DR  NEW ORLEANS LA 70114",
         "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$3,710.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.94524615,
-        "Longitude": -90.05131324999999
-    },
-    {
-        "Case #": "2022-7101",
-        "Sales Date": "4/6/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT INDIVIDUALLY BUT SOLELY AS TRUSTEE FOR FINANCE OF AMERICA STRUCTURED SECURITIES ACQUISITION TRUST 2019-HB1 vs KYLE RAMON BANKS AND CHERYL TIEG BANKS in THEIR CAPACITY AS THE INDEPENDENT CO-EXECUTORS OF THE ESTATE OF CYNTHIA GULLETTE BANKS",
-        "Address/Description": "7220 W RENAISSANCE CT  NEW ORLEANS LA 70128",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$188,313.54",
+        "Attorney": "JACKSON & MCPHERSON LLC",
+        "Writ Amount": "$92,157.49",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.0542148,
-        "Longitude": -89.95643874475147
+        "Latitude": 29.9351827,
+        "Longitude": -90.01974430599739
     },
     {
         "Case #": "2022-6473",
@@ -2184,6 +2106,19 @@
         "Longitude": -90.0970236
     },
     {
+        "Case #": "2022-8242",
+        "Sales Date": "4/6/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs CHUNG-CHA O. MESSINA",
+        "Address/Description": "431-33 NEWTON ST  NEW ORLEANS LA 70114",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$3,710.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.94524615,
+        "Longitude": -90.05131324999999
+    },
+    {
         "Case #": "2022-6736",
         "Sales Date": "4/6/2023",
         "Property Status": "Scheduled",
@@ -2195,5 +2130,18 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.9384545,
         "Longitude": -90.01336736081123
+    },
+    {
+        "Case #": "2022-7101",
+        "Sales Date": "4/6/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT INDIVIDUALLY BUT SOLELY AS TRUSTEE FOR FINANCE OF AMERICA STRUCTURED SECURITIES ACQUISITION TRUST 2019-HB1 vs KYLE RAMON BANKS AND CHERYL TIEG BANKS in THEIR CAPACITY AS THE INDEPENDENT CO-EXECUTORS OF THE ESTATE OF CYNTHIA GULLETTE BANKS",
+        "Address/Description": "7220 W RENAISSANCE CT  NEW ORLEANS LA 70128",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$188,313.54",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.0542148,
+        "Longitude": -89.95643874475147
     }
 ]
