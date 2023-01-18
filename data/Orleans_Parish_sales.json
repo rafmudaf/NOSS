@@ -104,19 +104,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2017-5215",
-        "Sales Date": "1/19/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs REBECCA A. BARNETT, ASIA P. DUWELL, IAN N. DUWELL, AND DONALD G. JONES",
-        "Address/Description": "2800 SULLEN PL AND 6401-6403 GENERAL MEYER STREET  NEW ORLEANS LA ",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\165459.JPG",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$29,360.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2019-10644",
         "Sales Date": "1/19/2023",
         "Property Status": "Scheduled",
@@ -245,19 +232,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.95269215,
         "Longitude": -90.04610073013461
-    },
-    {
-        "Case #": "2022-1370",
-        "Sales Date": "1/26/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "NATIONSTAR MORTGAGE LLC D/B/A MR. COOPER vs MARY A. WHITE (A/K/A MARY THORN, MARY ANTONIO MARIE WHITE, MARY WHITE, MARY MARIE THORNE, MARY M. KELLY, MARY A. WHITE, MARY ANTONIO WHITE)",
-        "Address/Description": "6761 COVENTRY ST  NEW ORLEANS LA 70126",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\234107.JPG",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$144,636.11",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.032418049999997,
-        "Longitude": -90.01386802609474
     },
     {
         "Case #": "2022-2875",
@@ -399,8 +373,8 @@
         "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
         "Writ Amount": "$132,565.08",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.899946149999998,
-        "Longitude": -89.99836592463859
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-5329",
@@ -583,19 +557,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.957979,
         "Longitude": -90.0130296
-    },
-    {
-        "Case #": "2022-4349",
-        "Sales Date": "2/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY BUT SOLELY IN ITS CAPACITY AS INDENTURE TRUSTEE OF CIM TRUST 2021-NR2 vs ESTATE OF DENNIS G. PERKINS AND ESTATE OF LOUISE MORRIS PERKINS",
-        "Address/Description": "4432 COPERNICUS ST  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$35,581.51",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.93148905,
-        "Longitude": -90.00952220509335
     },
     {
         "Case #": "2022-6977",
@@ -908,32 +869,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.061879349999998,
         "Longitude": -89.95597537576765
-    },
-    {
-        "Case #": "2022-7230",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VII-B vs JAMES BROOKS, (A/K/A JAMES MICHAEL BROOKS)",
-        "Address/Description": "1031 ST CLAUDE ST  UNIT 8 NEW ORLEANS LA 70116",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$105,176.58",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2019-13044",
-        "Sales Date": "2/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "QUICKEN LOANS INC. vs DONNA WHITE",
-        "Address/Description": "8711 LOMOND RD  NEW ORLEANS LA 70127",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$151,695.60",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.040147150000003,
-        "Longitude": -89.99414580150363
     },
     {
         "Case #": "2022-8171",
@@ -1560,6 +1495,19 @@
         "Longitude": -90.0569226401661
     },
     {
+        "Case #": "2022-7230",
+        "Sales Date": "3/16/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VII-B vs JAMES BROOKS, (A/K/A JAMES MICHAEL BROOKS)",
+        "Address/Description": "1031 ST CLAUDE ST  UNIT 8 NEW ORLEANS LA 70116",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$105,176.58",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2021-5151",
         "Sales Date": "3/23/2023",
         "Property Status": "Scheduled",
@@ -2093,6 +2041,19 @@
         "Longitude": -90.01974430599739
     },
     {
+        "Case #": "2022-7689",
+        "Sales Date": "4/6/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF CSMC 2018-SP2 TRUST vs QUYET D. TRAN A/K/A QUYET TRAN AND DUYEN N. PHAN A/K/A DUYEN PHAN",
+        "Address/Description": "27 AT EASTOVER  PHASE II NEW ORLEANS LA 70128",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$149,000.00",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2022-6473",
         "Sales Date": "4/6/2023",
         "Property Status": "Scheduled",
@@ -2143,5 +2104,18 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.0542148,
         "Longitude": -89.95643874475147
+    },
+    {
+        "Case #": "2019-4250",
+        "Sales Date": "4/6/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "DIRECT CAPITAL CORPORATION, A DIVISION OF CIT BANK, N.A. vs ALL-COAST LOGISTICS LLC AND FREDRICK W. POWELL",
+        "Address/Description": "3400 INDIANA ST  NEW ORLEANS LA 70114",
+        "Picture": "",
+        "Attorney": "THE OAKES LAW FIRM, LLC",
+        "Writ Amount": "$26,029.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.925849602409638,
+        "Longitude": -90.02914124096385
     }
 ]
