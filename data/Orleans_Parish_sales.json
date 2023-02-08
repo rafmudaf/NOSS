@@ -13,19 +13,6 @@
         "Longitude": -89.9897799
     },
     {
-        "Case #": "2022-8098",
-        "Sales Date": "2/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs GERARD MICHAEL JULIEN AND MICHELLE WHITE JULIEN",
-        "Address/Description": "933 VERRET ST  NEW ORLEANS LA 70114",
-        "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$1,510.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9457792,
-        "Longitude": -90.05034845575821
-    },
-    {
         "Case #": "2022-4230",
         "Sales Date": "2/9/2023",
         "Property Status": "Scheduled",
@@ -819,19 +806,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2022-6025",
-        "Sales Date": "3/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FREEDOM MORTGAGE CORPORATION vs MALLORY K. JULUKE",
-        "Address/Description": "1214-16 BEHRMAN AV  NEW ORLEANS LA 70114",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$89,723.96",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9423427,
-        "Longitude": -90.0368312
-    },
-    {
         "Case #": "2022-4543",
         "Sales Date": "3/23/2023",
         "Property Status": "Scheduled",
@@ -1001,19 +975,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2022-9608",
-        "Sales Date": "3/30/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FREEDOM MORTGAGE CORPORATION vs RYAN ANDREW MAI",
-        "Address/Description": "2809-11 PALMER AV  NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$72,890.69",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.94320325,
-        "Longitude": -90.11419852317597
-    },
-    {
         "Case #": "2022-9617",
         "Sales Date": "3/30/2023",
         "Property Status": "Scheduled",
@@ -1025,32 +986,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.897804700000002,
         "Longitude": -90.00036119101694
-    },
-    {
-        "Case #": "2022-8563",
-        "Sales Date": "3/30/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs AARON ADAM JACKSON, JR. AND TOMEKA BENNETT JACKSON A/K/A TOMEKA BENNETT MATTHEWS JACKSOON",
-        "Address/Description": "73 PINEHURST DR  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$241,687.78",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.911244500000002,
-        "Longitude": -89.9643867491202
-    },
-    {
-        "Case #": "2022-7015",
-        "Sales Date": "3/30/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "SIYAN PARTNERS LLC vs CRESCENT CITY REALITY LLC",
-        "Address/Description": "3538 MIMOSA CT  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "IRL SILVERSTEIN",
-        "Writ Amount": "$183,807.31",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.904116000000002,
-        "Longitude": -89.99917542097609
     },
     {
         "Case #": "2020-1118",
@@ -1103,19 +1038,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.0414326,
         "Longitude": -89.99724236938664
-    },
-    {
-        "Case #": "2022-4891",
-        "Sales Date": "3/30/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs ANTHONY J. BONAL, JR., A/K/A ANTHONY BONAL, JR., AND THE UNOPENED SUCCESSION OF PAWEL ANTOSIK A/K/A PAWEL ANTOSIK",
-        "Address/Description": "2220 N PRIEUR ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$212,235.33",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9766185,
-        "Longitude": -90.05671699999999
     },
     {
         "Case #": "2022-563",
@@ -1469,6 +1391,19 @@
         "Longitude": -90.05441671428572
     },
     {
+        "Case #": "2022-10349",
+        "Sales Date": "4/13/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC F/K/A QUICKEN LOANS INC. vs EDGAR A. LUMINAIS, III A/K/A EDGAR LUMINAIS, III",
+        "Address/Description": "24092 CHEF MENTEUR HW  NEW ORLEANS LA 70129",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$154,664.05",
+        "Terms and Conditions": "Without appraisal; 100% cash at the moment of adjudication.",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2022-9620",
         "Sales Date": "4/13/2023",
         "Property Status": "Scheduled",
@@ -1532,32 +1467,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.019157200000002,
         "Longitude": -90.0812005
-    },
-    {
-        "Case #": "2022-10220",
-        "Sales Date": "4/13/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FREEDOM MORTGAGE CORPORATION vs RYAN ANDREW MAI",
-        "Address/Description": "2812-14 PALMER AV  NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$61,231.70",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9434301,
-        "Longitude": -90.11456624860665
-    },
-    {
-        "Case #": "2022-10349",
-        "Sales Date": "4/13/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC F/K/A QUICKEN LOANS INC. vs EDGAR A. LUMINAIS, III A/K/A EDGAR LUMINAIS, III",
-        "Address/Description": "24092 CHEF MENTEUR HW  NEW ORLEANS LA 70129",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$154,664.05",
-        "Terms and Conditions": "Without appraisal; 100% cash at the moment of adjudication.",
-        "Latitude": null,
-        "Longitude": null
     },
     {
         "Case #": "2018-12443",
@@ -1677,45 +1586,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2022-10127",
-        "Sales Date": "4/20/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR SPECIALTY UNDERWRITING AND RESIDENTIAL FINANCE TRUST MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2006-BC5 vs MICHELLE MYERS, (A/K/A MICHELLE SANDFORD MYERS, MICHELLE SANFORD, MICHELLE BRADDY, MICHELLE JACKSON)",
-        "Address/Description": "2426-28 CLARA ST  NEW ORLEANS LA 70113",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$76,572.01",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9421949,
-        "Longitude": -90.0905267
-    },
-    {
-        "Case #": "2022-10249",
-        "Sales Date": "4/20/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "NATIONSTAR MORTGAGE LLC vs ISADORE GREENBERG AND INITA COOPER GREENBERG, (A/K/A INITA COOPER, INITA PENN, INITA GREENBERG)",
-        "Address/Description": "7534 VANDERKLOOT AV  NEW ORLEANS LA 70127",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$116,494.28",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.04121035,
-        "Longitude": -89.98981442993741
-    },
-    {
-        "Case #": "2022-10732",
-        "Sales Date": "4/20/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION vs DEVIN BUTLER",
-        "Address/Description": "3008-10 MONROE ST  NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$137,870.35",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9646672,
-        "Longitude": -90.1207985
-    },
-    {
         "Case #": "2022-9537",
         "Sales Date": "4/20/2023",
         "Property Status": "Scheduled",
@@ -1740,6 +1610,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2022-10732",
+        "Sales Date": "4/20/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION vs DEVIN BUTLER",
+        "Address/Description": "3008-10 MONROE ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$137,870.35",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9646672,
+        "Longitude": -90.1207985
     },
     {
         "Case #": "2022-865",
@@ -1768,6 +1651,32 @@
         "Longitude": -90.0865211
     },
     {
+        "Case #": "2022-10127",
+        "Sales Date": "4/20/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR SPECIALTY UNDERWRITING AND RESIDENTIAL FINANCE TRUST MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2006-BC5 vs MICHELLE MYERS, (A/K/A MICHELLE SANDFORD MYERS, MICHELLE SANFORD, MICHELLE BRADDY, MICHELLE JACKSON)",
+        "Address/Description": "2426-28 CLARA ST  NEW ORLEANS LA 70113",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$76,572.01",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9421949,
+        "Longitude": -90.0905267
+    },
+    {
+        "Case #": "2022-10249",
+        "Sales Date": "4/20/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "NATIONSTAR MORTGAGE LLC vs ISADORE GREENBERG AND INITA COOPER GREENBERG, (A/K/A INITA COOPER, INITA PENN, INITA GREENBERG)",
+        "Address/Description": "7534 VANDERKLOOT AV  NEW ORLEANS LA 70127",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$116,494.28",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.04121035,
+        "Longitude": -89.98981442993741
+    },
+    {
         "Case #": "2019-13044",
         "Sales Date": "4/20/2023",
         "Property Status": "Scheduled",
@@ -1779,6 +1688,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.040147150000003,
         "Longitude": -89.99414580150363
+    },
+    {
+        "Case #": "2022-9428",
+        "Sales Date": "4/20/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "FREEDOM MORTGAGE CORPORATION vs RYAN L. LABAUVE AND NICOLE CODY LABAUVE",
+        "Address/Description": "20159 OLD SPANISH TR  NEW ORLEANS LA 70129",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$250,056.28",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-3664",
