@@ -65,19 +65,6 @@
         "Longitude": -90.0991809572495
     },
     {
-        "Case #": "2019-6685",
-        "Sales Date": "2/16/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK NATIONAL ASSOCIATION vs CORNELIUS MANEAUX AND INENA HANDY",
-        "Address/Description": "2504 MARTIN LUTHER KING BD  NEW ORLEANS LA 70113",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\55182.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$106,575.71",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-8328",
         "Sales Date": "2/16/2023",
         "Property Status": "Scheduled",
@@ -115,19 +102,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.0248326,
         "Longitude": -89.96733245157412
-    },
-    {
-        "Case #": "2022-7587",
-        "Sales Date": "2/16/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE UNTED THE INDENTURE RELATING TO COLT 2021-RPL 1 TRUST vs ROBERTA DREWRY HAYES A/K/A ROBERTA D. HAYES A/K/A ROBERTA HAYES AND MELVIN GLENN HAYES A/K/A MELVIN G. HAYES A/K/A MELVIN HAYES",
-        "Address/Description": "4701 FRIAR TUCK DR  NEW ORLEANS LA 70128",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$68,625.12",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0235512,
-        "Longitude": -89.95234568292186
     },
     {
         "Case #": "2022-3440",
@@ -1469,6 +1443,32 @@
         "Longitude": -90.10308049965793
     },
     {
+        "Case #": "2021-1985",
+        "Sales Date": "4/20/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "SUNSET HARBOUR, LLC vs THE SUCCESSION OF LUCIIUS LEE AND THE HEIRS AND UNOPENED SUCCESSION OF SHIRLEY FERDINAND LEE",
+        "Address/Description": "2941 KENT DR  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "TAXTITLE.COM",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.91997535,
+        "Longitude": -89.98226245282362
+    },
+    {
+        "Case #": "2022-5373",
+        "Sales Date": "4/20/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST vs FREDRICK LYLES, II A/K/A FREDRICK LYLES",
+        "Address/Description": "1732 FLANDERS ST  NEW ORLEANS LA 70114",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$58,014.63",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.93669575,
+        "Longitude": -90.02023083196899
+    },
+    {
         "Case #": "2022-9537",
         "Sales Date": "4/20/2023",
         "Property Status": "Scheduled",
@@ -1493,19 +1493,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
-    },
-    {
-        "Case #": "2021-1985",
-        "Sales Date": "4/20/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "SUNSET HARBOUR, LLC vs THE SUCCESSION OF LUCIIUS LEE AND THE HEIRS AND UNOPENED SUCCESSION OF SHIRLEY FERDINAND LEE",
-        "Address/Description": "2941 KENT DR  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "TAXTITLE.COM",
-        "Writ Amount": "",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.91997535,
-        "Longitude": -89.98226245282362
     },
     {
         "Case #": "2022-10127",
@@ -1534,6 +1521,19 @@
         "Longitude": -89.98981442993741
     },
     {
+        "Case #": "2022-10315",
+        "Sales Date": "4/20/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "REVERSE MORTGAGE FUNDING LLC vs ESTATE OF FROZINE L. THOMAS",
+        "Address/Description": "2503 PAUGER ST  (FORMERLY KNOWN AS 2501-03 PAUGER STREET) NEW ORLEANS LA 70116",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$96,527.80",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2022-9457",
         "Sales Date": "4/20/2023",
         "Property Status": "Scheduled",
@@ -1547,6 +1547,19 @@
         "Longitude": -90.1136875510204
     },
     {
+        "Case #": "2022-7944",
+        "Sales Date": "4/20/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "LAKEVIEW LOAN SERVICING, LLC vs AVA HOWARD",
+        "Address/Description": "2338 TENNESSEE ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$96,213.39",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.975556387755102,
+        "Longitude": -90.0190213877551
+    },
+    {
         "Case #": "2022-9582",
         "Sales Date": "4/20/2023",
         "Property Status": "Scheduled",
@@ -1558,6 +1571,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.9724372,
         "Longitude": -90.0865211
+    },
+    {
+        "Case #": "2022-9550",
+        "Sales Date": "4/20/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "SMOOT INVESTMENTS, INC. vs TODD M. VILLARRUBIA, A PROFESSIONAL LAW CORPORATION AND TODD M. VILLARRUBIA",
+        "Address/Description": "8654 PONTCHARTRAIN BD  UNIT 8 NEW ORLEANS LA 70124",
+        "Picture": "",
+        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
+        "Writ Amount": "$343,732.01",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2019-13044",
