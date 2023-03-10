@@ -169,19 +169,6 @@
         "Longitude": -90.0569226401661
     },
     {
-        "Case #": "2021-5151",
-        "Sales Date": "3/23/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs SUCCESSION OF MITCHELL C. SMITH, WILLIE MAE ALLEN SMITH AND DAISY BONIOR BYNOG",
-        "Address/Description": "1615 ARTS ST  NEW ORLEANS LA ",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\193338.JPG",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$3,155.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.97441,
-        "Longitude": -90.05003624453008
-    },
-    {
         "Case #": "2022-3874",
         "Sales Date": "3/23/2023",
         "Property Status": "Scheduled",
@@ -867,8 +854,8 @@
         "Attorney": "LAW OFFICE OF SCOTT J. SONNIER",
         "Writ Amount": "$22,700.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.999518407407407,
+        "Longitude": -90.08303503703704
     },
     {
         "Case #": "2022-6888",
@@ -1040,19 +1027,6 @@
         "Longitude": -90.0865211
     },
     {
-        "Case #": "2022-9550",
-        "Sales Date": "4/20/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "SMOOT INVESTMENTS, INC. vs TODD M. VILLARRUBIA, A PROFESSIONAL LAW CORPORATION AND TODD M. VILLARRUBIA",
-        "Address/Description": "8654 PONTCHARTRAIN BD  UNIT 8 NEW ORLEANS LA 70124",
-        "Picture": "",
-        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
-        "Writ Amount": "$343,732.01",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-10315",
         "Sales Date": "4/20/2023",
         "Property Status": "Scheduled",
@@ -1113,6 +1087,19 @@
         "Picture": "",
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$250,056.28",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2022-9550",
+        "Sales Date": "4/20/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "SMOOT INVESTMENTS, INC. vs TODD M. VILLARRUBIA, A PROFESSIONAL LAW CORPORATION AND TODD M. VILLARRUBIA",
+        "Address/Description": "8654 PONTCHARTRAIN BD  UNIT 8 NEW ORLEANS LA 70124",
+        "Picture": "",
+        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
+        "Writ Amount": "$343,732.01",
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
