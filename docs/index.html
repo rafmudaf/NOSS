@@ -51,6 +51,9 @@
             <button class="btn btn-success" data-bs-toggle="modal" data-bs-target="#settings-modal">
               Settings
             </button>
+            <button class="btn btn-danger me-2" data-bs-toggle="modal" data-bs-target="#unmapped-modal">
+              Unmapped
+            </button>
           </div>
         </div>
       </div>
@@ -144,6 +147,25 @@
     </div>
   </div>
 
+  <div class="modal fade" id="unmapped-modal">
+    <div class="modal-dialog modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="propertyModel">Unmapped Listings</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p>
+            These property listings are corrupt or unmappable for some reason.
+            Typically, the address in the OPSO listing is unusual or incorrect.
+          </p>
+          <hr/>
+          <span id="unmapped-modal-list" style="white-space: pre-line"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <script src="./assets/vendors/jquery/jquery-3.6.0.min.js"></script>
   <script src="./assets/vendors/bootstrap/bootstrap.bundle.min.js"></script>
   <script src="./assets/vendors/daterangepicker/moment.min.js"></script>
@@ -168,14 +190,18 @@
         url: "https://raw.githubusercontent.com/rafmudaf/NOSS/db/data/Orleans_Parish_sales.json",
         dataType: "json",
         success: function(res) {
+
           App.init(res, config);
           $("#result-total").html(App.data.length);
+
+          $("#unmapped-modal-list").html(
+            App.corruptData.map((item) => {return item["Address/Description"]}).join("\n")
+          );
+
         },
       });
     });
   </script>
-
-  <!-- <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="thedecc" data-color="#5F7FFF" data-emoji=""  data-font="Bree" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script> -->
 
 </body>
 

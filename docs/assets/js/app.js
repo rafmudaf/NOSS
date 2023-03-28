@@ -19,6 +19,7 @@ var App = {
 
     this.configs = $.extend(true, defaults, configs);
     this.data = thiz.initData(data);
+    this.corruptData = thiz.initCorruptData(data);
     thiz.initLeaflet();
     thiz.initEvents();
   },
@@ -69,6 +70,21 @@ var App = {
       }
 
       result = thiz.helpers.calcSpectrumRange(result);
+    }
+    return result;
+  },
+
+  initCorruptData: function (data) {
+    var result = [];
+    if (typeof data == "object") {
+      for (var item of data) {
+        var Lat = item.Latitude;
+        var Lng = item.Longitude;
+
+        if (!Lat || !Lng) {
+          result.push(item);
+        }
+      }
     }
     return result;
   },
