@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sheriff Sale Database</title>
+  <title>Sheriff's Sale Database</title>
   <link rel="stylesheet" href="./assets/vendors/leaflet/leaflet.css" />
   <link rel="stylesheet" href="./assets/vendors/daterangepicker/daterangepicker.css" />
   <link rel="stylesheet" href="./assets/vendors/bootstrap/bootstrap.min.css" />
@@ -39,20 +39,23 @@
     <!-- Fixed navbar -->
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
       <div class="container">
-        <a class="navbar-brand" href="#">Orleans Parish Sheriff's Sales</a>
+        <a class="navbar-brand" href="#">Orleans Parish Sheriff's Sale Map</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <div class="ms-auto d-flex">
-            <button class="btn btn-primary me-2" data-bs-toggle="modal" data-bs-target="#filters-modal">
+            <button class="btn btn-info me-2" data-bs-toggle="modal" data-bs-target="#filters-modal">
               Filters
             </button>
-            <button class="btn btn-success" data-bs-toggle="modal" data-bs-target="#settings-modal">
+            <button class="btn btn-warning me-2" data-bs-toggle="modal" data-bs-target="#settings-modal">
               Settings
             </button>
             <button class="btn btn-danger me-2" data-bs-toggle="modal" data-bs-target="#unmapped-modal">
               Unmapped
+            </button>
+            <button class="btn btn-light" data-bs-toggle="modal" data-bs-target="#about-modal">
+              About
             </button>
           </div>
         </div>
@@ -161,6 +164,45 @@
           </p>
           <hr/>
           <span id="unmapped-modal-list" style="white-space: pre-line"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="about-modal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">About</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p>
+            This map gets data from the Orleans Parish Sheriff's Office listing of real estate
+            foreclosures in New Orleans.
+            If any information seems out of date or inaccurate, please verify the record on the
+            Sheriff's Office site directly.
+          </p>
+          <p>
+            The database is updated on Monday, Wednesday, and Friday.
+            The color of the marks indicate a sooner (bright pink) to later (dark pink) auction
+            date.
+            Due to inaccurate or corrupted data in the OPSO listing, some properties may not be
+            mapped.
+            These are available by clicking "Unmapped".
+          </p>
+          <p>
+            Feature ideas:
+            <ul>
+              <li>Alert for a selected area - this currently works for a single user, but the general solution requires a login feature</li>
+              <li>Account / login support</li>
+              <li>Link to NOLA Assessor listing</li>
+            </ul>
+          </p>
+          <p>
+            For any feedback or feature requests, get in touch through the "Buy me a coffee"
+            form at the bottom and include your contact info if you'd like to receive a response.
+          </p>
         </div>
       </div>
     </div>
