@@ -507,19 +507,6 @@
         "Longitude": -90.10706904081633
     },
     {
-        "Case #": "2022-7015",
-        "Sales Date": "5/18/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "SIYAN PARTNERS LLC vs CRESCENT CITY REALITY LLC",
-        "Address/Description": "3538 MIMOSA CT  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "IRL SILVERSTEIN",
-        "Writ Amount": "$183,807.31",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.904116000000002,
-        "Longitude": -89.99917542097609
-    },
-    {
         "Case #": "2022-10315",
         "Sales Date": "5/18/2023",
         "Property Status": "Scheduled",
@@ -843,19 +830,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.9376903,
         "Longitude": -90.129047
-    },
-    {
-        "Case #": "2022-9052",
-        "Sales Date": "5/25/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "WELLS FARGO BANK, N.A. vs DANIEL J. COULTHARD A/K/A DANIEL COULTHARD",
-        "Address/Description": "1334 GARDENA DR  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$81,931.44",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0101401,
-        "Longitude": -90.08014918239755
     },
     {
         "Case #": "2021-3069",
@@ -2522,6 +2496,32 @@
         "Longitude": null
     },
     {
+        "Case #": "2022-7094",
+        "Sales Date": "7/20/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs AMINTA (AKA AMINDA) ISABEL ESCOBAR BUSTAMANTE, ZACHARY WYNN PADILLA, AND EVAN WYATT PADILLA",
+        "Address/Description": "2705-07 N ROMAN ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$3,180.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.975939,
+        "Longitude": -90.0467766
+    },
+    {
+        "Case #": "2022-1303",
+        "Sales Date": "7/20/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "LAKEVIEW LOAN SERVICING LLC vs NICHELL ROBINSON",
+        "Address/Description": "3451 CATALINA DR  NEW ORLEANS LA 70114",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON LLC",
+        "Writ Amount": "$92,157.49",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9351827,
+        "Longitude": -90.01974430599739
+    },
+    {
         "Case #": "2019-11847",
         "Sales Date": "7/20/2023",
         "Property Status": "Scheduled",
@@ -2585,5 +2585,18 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.0210602,
         "Longitude": -90.06800718305263
+    },
+    {
+        "Case #": "2023-1447",
+        "Sales Date": "7/20/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "JPMORGAN  CHASE BANK, NATIONAL ASSOCIATION vs MARGIE MATIRNE GILLARD WIFE OF/AND ALVIN GILLARD",
+        "Address/Description": "2165 HOLIDAY DR  NEW ORLEANS LA 70114",
+        "Picture": "",
+        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
+        "Writ Amount": "$17,581.89",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9317001,
+        "Longitude": -90.01379149919333
     }
 ]
