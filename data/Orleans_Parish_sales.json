@@ -91,19 +91,6 @@
         "Longitude": -90.03351779800641
     },
     {
-        "Case #": "2022-5242",
-        "Sales Date": "5/25/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FIRST HORIZON BANK vs STEVEN DONYEA FLUKER AND THE UNOPENED SUCCESSION OF MYRNA ARMANT EVANS FLUKER, (A/K/A MYRNA ARMANT,  MYRNA EVANS, MYRNA FLUKER)",
-        "Address/Description": "1715 SAINT ANN ST  NEW ORLEANS LA 70116",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLP",
-        "Writ Amount": "$52,311.13",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.965060714285716,
-        "Longitude": -90.07295914285714
-    },
-    {
         "Case #": "2022-6977",
         "Sales Date": "5/25/2023",
         "Property Status": "Scheduled",
@@ -1066,19 +1053,6 @@
         "Longitude": -90.1163857
     },
     {
-        "Case #": "2022-10602",
-        "Sales Date": "7/6/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR RMTP TRUST, SERIES 2021 COTTAGE-TT-V vs LORRAINE H. ELLIOTT",
-        "Address/Description": "1831-33 MAZANT ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.973136349999997,
-        "Longitude": -90.03186575371518
-    },
-    {
         "Case #": "2022-9582",
         "Sales Date": "7/6/2023",
         "Property Status": "Scheduled",
@@ -1131,19 +1105,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2023-1684",
-        "Sales Date": "7/6/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "NATIONSTAR MORTGAGE LLC vs EDDIE LOGAN,JR., (A/K/A) EDDIE LOGAN AND BRITTANY INEZ BRIDGES",
-        "Address/Description": "7040 E TAMARON BL  NEW ORLEANS LA 70128",
-        "Picture": "",
-        "Attorney": "PENNY M. DAIGREPONT",
-        "Writ Amount": "$169,564.63",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2023-2491",
         "Sales Date": "7/6/2023",
         "Property Status": "Scheduled",
@@ -1168,19 +1129,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.91919415,
         "Longitude": -90.09402472708196
-    },
-    {
-        "Case #": "2022-10779",
-        "Sales Date": "7/6/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC F/K/A QUICKEN LOANS INC. vs THE SUCCESSION OF WARREN G. WOODFORK, SR. A/K/A WARREN GENE WOODFORK, SR. A/K/A WARREN G. WOODFORK, SR. A/K/A WARREN WOODFORK, SR. A/K/A WARREN GENE WOODFORK A/K/A WARREN G. WOODFORK A/K/A WARREN WOODFORK AND THE UNOPENEND SUCCESSION OF MARIE WOODFORK A/K/A MARIE WOODFORK A/K/A MARIE WALKER",
-        "Address/Description": "11401 PRENTISS AV  NEW ORLEANS LA 70128",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$199,426.51",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.023736300000003,
-        "Longitude": -89.95302736552412
     },
     {
         "Case #": "2022-2253",
@@ -1961,6 +1909,45 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.0201976,
         "Longitude": -89.9913653
+    },
+    {
+        "Case #": "2021-1245",
+        "Sales Date": "8/3/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "SUNSETH HARBOUR vs STEVEN C. PAYTON, SR., DIONNE S. PAYTON, AND TALL TIMBERS OWNER'S ASSOCIATION",
+        "Address/Description": "3501 RED OAK CT  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "TAXTITLE.COM",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9057927,
+        "Longitude": -89.9990027848435
+    },
+    {
+        "Case #": "2021-2154",
+        "Sales Date": "8/3/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "SUNSET HARBOUR, LLC vs THE HEIRS AND UNOPENED SUCCESSION OF RICHMOND R. CARTER JR., BEVERLY MCGEE CARTER, AND ISAM MANN",
+        "Address/Description": "4901 CARDENAS ST  NEW ORLEANS LA 70127",
+        "Picture": "",
+        "Attorney": "TAXTITLE.COM",
+        "Writ Amount": "",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2021-2198",
+        "Sales Date": "8/3/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "SUNSET HARBOUR, LLC vs THE HEIRS AND UNOPENED SUCCESSION OF LUSETTI RATLIFF LOVE, TIFFANY NICOLE VANN, DAVID HOLMES, NATHAN HOLMES, EDWARD LESLIE HOLMES, THE HEIRS AND UNOPENED SUCESSION OF WILLIAM MONROE HOLMES, PATRICIA HOLMES, MARHA HOLMES, MIDLAND FUNDING, L.L.C., THE STATE OF LOUISIANA, PIONEER CREDIT COMPANY",
+        "Address/Description": "2610-12 S JOHNSON ST  NEW ORLEANS LA 70125",
+        "Picture": "",
+        "Attorney": "TAXTITLE.COM",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9463879,
+        "Longitude": -90.0955517
     },
     {
         "Case #": "2023-804",
