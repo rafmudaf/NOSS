@@ -344,7 +344,7 @@
         "Case Title": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE ON BEHALF OF AND FOR THE BENEFIT OF MEB LOAN TRUST VII vs ROSE MARY CUMMINGS LANDRY WIFE OF/ AND WAYNE JOSEPH LANDRY",
         "Address/Description": "2919-21 AUDUBON ST  NEW ORLEANS LA 70118",
         "Picture": "",
-        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
+        "Attorney": "US BANK TRUST NATIONAL ASS. ET AL",
         "Writ Amount": "$78,583.91",
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.955696408163266,
@@ -1040,19 +1040,6 @@
         "Longitude": -90.08305924999999
     },
     {
-        "Case #": "2022-3425",
-        "Sales Date": "7/20/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK N.A., IN ITS CAPACITY AS TRUSTEE FOR THE REGISTERED HOLDERS OF HOME EQUITY ASSET TRUST 2004-1, HOME EQUITY PASS-THROUGH CERTIFICATES, SERIES 2004-1 vs MICHAEL L. FARLEY, (A/K/A MICHAEL LEE FARLEY)",
-        "Address/Description": "3401 AND 3403 BURGUNDY ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLP",
-        "Writ Amount": "$70,794.47",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-865",
         "Sales Date": "7/20/2023",
         "Property Status": "Scheduled",
@@ -1602,7 +1589,7 @@
         "Case #": "2021-1245",
         "Sales Date": "8/3/2023",
         "Property Status": "Scheduled",
-        "Case Title": "SUNSETH HARBOUR vs STEVEN C. PAYTON, SR., DIONNE S. PAYTON, AND TALL TIMBERS OWNER'S ASSOCIATION",
+        "Case Title": "SUNSET HARBOUR vs STEVEN C. PAYTON, SR., DIONNE S. PAYTON, AND TALL TIMBERS OWNER'S ASSOCIATION",
         "Address/Description": "3501 RED OAK CT  NEW ORLEANS LA 70131",
         "Picture": "",
         "Attorney": "TAXTITLE.COM",
@@ -1636,19 +1623,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.02345175,
         "Longitude": -89.96776902263822
-    },
-    {
-        "Case #": "2023-3880",
-        "Sales Date": "8/3/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U. S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2022-RP3 vs CAROLYN SUE BRYANT A/K/A CAROLYN S. BRYANT A/K/A CAROLYN BRYANT",
-        "Address/Description": "3210 DELACHAISE ST  NEW ORLEANS LA 70125",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$63,039.85",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.943000650000002,
-        "Longitude": -90.09957156424912
     },
     {
         "Case #": "2019-11847",
@@ -1701,32 +1675,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.952681285714288,
         "Longitude": -90.01127153061225
-    },
-    {
-        "Case #": "2022-7890",
-        "Sales Date": "8/10/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FIRST HORIZON BANK, SUCCESSOR BY MERGER TO IBERIABANK vs BRANDON C. MOORE",
-        "Address/Description": "7071 E RENAISSANCE  NEW ORLEANS LA 70128",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$32,738.17",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2023-3202",
-        "Sales Date": "8/10/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "BANK OF AMERICA, N.A vs LANCE J. BORDES, (A/K/A LANCE JOSEPH BORDES, LANCE BORDES)",
-        "Address/Description": "1463 NASHVILLE AV  NEW ORLEANS LA 70115",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLP",
-        "Writ Amount": "$963,631.95",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.92826795,
-        "Longitude": -90.11680904626722
     },
     {
         "Case #": "2023-3389",
@@ -1794,17 +1742,30 @@
         "Longitude": -90.01728307594936
     },
     {
-        "Case #": "2022-7115",
+        "Case #": "2022-7890",
         "Sales Date": "8/10/2023",
         "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE NATIONAL BANK, AS TRUSTEE FOR C-BASS 2006-CB7 TRUST, MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2006-CB7 vs CAROLYN THOMAS JOHNSON A/K/A CAROLYN T. JOHNSON A/K/A CAROLYN JOHNSON AND THE UNOPENED SUCCESSION OF ARTHUR R. JOHNSON A/K/A ARTHUR R. JOHNSON A/K/A ARTHUR JOHNSON",
-        "Address/Description": "3700-3702 S SARATOGA ST  NEW ORLEANS LA 70115",
+        "Case Title": "FIRST HORIZON BANK, SUCCESSOR BY MERGER TO IBERIABANK vs BRANDON C. MOORE",
+        "Address/Description": "7071 E RENAISSANCE  NEW ORLEANS LA 70128",
         "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$40,638.95",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$32,738.17",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9318768,
-        "Longitude": -90.09622706004805
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2023-3202",
+        "Sales Date": "8/10/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "BANK OF AMERICA, N.A vs LANCE J. BORDES, (A/K/A LANCE JOSEPH BORDES, LANCE BORDES)",
+        "Address/Description": "1463 NASHVILLE AV  NEW ORLEANS LA 70115",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLP",
+        "Writ Amount": "$963,631.95",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.92826795,
+        "Longitude": -90.11680904626722
     },
     {
         "Case #": "2022-10639",
@@ -1818,6 +1779,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.92117325,
         "Longitude": -89.98980133526767
+    },
+    {
+        "Case #": "2022-7115",
+        "Sales Date": "8/10/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA, NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE NATIONAL BANK, AS TRUSTEE FOR C-BASS 2006-CB7 TRUST, MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2006-CB7 vs CAROLYN THOMAS JOHNSON A/K/A CAROLYN T. JOHNSON A/K/A CAROLYN JOHNSON AND THE UNOPENED SUCCESSION OF ARTHUR R. JOHNSON A/K/A ARTHUR R. JOHNSON A/K/A ARTHUR JOHNSON",
+        "Address/Description": "3700-3702 S SARATOGA ST  NEW ORLEANS LA 70115",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$40,638.95",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9318768,
+        "Longitude": -90.09622706004805
     },
     {
         "Case #": "2023-2453",
@@ -1844,6 +1818,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.028015500000002,
         "Longitude": -89.9556637477601
+    },
+    {
+        "Case #": "2022-9370",
+        "Sales Date": "8/10/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "HOPE FEDERAL CREDIT UNION vs PATTI C. JONES A/K/A PATTI M. CADE JONES, ALFRED M. JONES A/K/A ALFRED MARVIN JONES AND RAHIM A. JONES A/K/A RAHIM A. ALEM",
+        "Address/Description": "2041-2045 S CHIPPEWA ST  NEW ORLEANS LA 70130",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$463,949.68",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.931446,
+        "Longitude": -90.0696596
     },
     {
         "Case #": "2022-10232",
@@ -1948,6 +1935,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.9510239,
         "Longitude": -90.1320079
+    },
+    {
+        "Case #": "2022-11217",
+        "Sales Date": "8/17/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "SPECIALIZED LOAN SERVICING LLC vs VICTOR J. WIECHERS AND JOELL ESCOBEDO WIECHERS",
+        "Address/Description": "600 AURORA DR  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$55,157.02",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.92112195,
+        "Longitude": -89.98846623809187
     },
     {
         "Case #": "2023-3676",
