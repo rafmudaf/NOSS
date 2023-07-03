@@ -1079,19 +1079,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2023-3383",
-        "Sales Date": "8/17/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST C/O U. S. BANK TRUST NATIONAL ASSOCIATION vs NATASHA G. SCOTT",
-        "Address/Description": "5521 BENTLEY DR  NEW ORLEANS LA 70126",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$70,068.88",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.023538950000003,
-        "Longitude": -89.99582965365846
-    },
-    {
         "Case #": "2023-3991",
         "Sales Date": "8/17/2023",
         "Property Status": "Scheduled",
@@ -1439,21 +1426,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$273,636.50",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2023-4707",
-        "Sales Date": "8/24/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U. S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, ON BEHALF OF THE COLT 2021-2 MORTGAGE LOAN TRUST, A NEW YORK COMMON LAW TRUST vs ATEP ENTERPRISES, LLC AND ALLEN LOTTINGER, JR.",
-        "Address/Description": "1727-29 TOURO ST  NEW ORLEANS LA 70116",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$245,580.61",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.918287399999997,
+        "Longitude": -90.11533094896711
     },
     {
         "Case #": "2019-13352",
@@ -1465,8 +1439,8 @@
         "Attorney": "JONAH FREEDMAN LAW, LLC",
         "Writ Amount": "",
         "Terms and Conditions": "Without appraisal; 100% cash at the moment of adjudication.",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.96870945,
+        "Longitude": -90.04372299940009
     },
     {
         "Case #": "2021-7948",
@@ -1495,19 +1469,6 @@
         "Longitude": -90.0064408397845
     },
     {
-        "Case #": "2023-3027",
-        "Sales Date": "8/24/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "ASSURANCE FINANCIAL GROUP LLC vs FIONA HELENE PEDEN",
-        "Address/Description": "920 S CARROLLTON AV  UNIT T NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLP",
-        "Writ Amount": "$275,998.24",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2023-2967",
         "Sales Date": "8/24/2023",
         "Property Status": "Scheduled",
@@ -1517,8 +1478,8 @@
         "Attorney": "LOGS LEGAL GROUP LLP",
         "Writ Amount": "$205,721.38",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9299171,
+        "Longitude": -90.0230862
     },
     {
         "Case #": "2022-11588",
@@ -1569,8 +1530,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$111,784.45",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.948846897959186,
+        "Longitude": -90.09562130612244
     },
     {
         "Case #": "2023-3623",
@@ -1582,8 +1543,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$121,241.38",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.960473019225073,
+        "Longitude": -90.10525730075466
     },
     {
         "Case #": "2023-4001",
@@ -1597,19 +1558,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.92713781818182,
         "Longitude": -90.0016589090909
-    },
-    {
-        "Case #": "2012-5754",
-        "Sales Date": "8/31/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CAROLYN SANTINAC vs EARIN BRIDGES , INDIVIDUALLY AND D/B/A BRIDGES CONSTRUCTION AND SHORING, LLC AND CANAL INDEMNITY INSURANCE COMPANY",
-        "Address/Description": "1306-08 TELEMACHUS ST  NEW ORLEANS LA 70125",
-        "Picture": "",
-        "Attorney": "FAVRET CARRIERE CRONVICH, LLC",
-        "Writ Amount": "$80,456.00",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
     },
     {
         "Case #": "2023-4515",
@@ -1638,6 +1586,19 @@
         "Longitude": -90.08073059390048
     },
     {
+        "Case #": "2023-4836",
+        "Sales Date": "8/31/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs DUNG PHAM LIANG, SIDNEY LIANG AND MY PHAM",
+        "Address/Description": "1907 ESPLANADE AV  NEW ORLEANS LA 70116",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$5,910.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.971565650000002,
+        "Longitude": -90.0712606555584
+    },
+    {
         "Case #": "2023-4623",
         "Sales Date": "8/31/2023",
         "Property Status": "Scheduled",
@@ -1649,6 +1610,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.925134533333335,
         "Longitude": -90.01205631111111
+    },
+    {
+        "Case #": "2023-3239",
+        "Sales Date": "8/31/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "MORTGAGE ASSETS MANAGEMENT, LLC vs THE UNOPENED SUCCESSION OF ICEOLA BERNARD JACKSON A/K/A ICEOLA BERNARD JACKSON A/K/A ICEOLA B. JACKSON A/K/A ICEOLA JACKSON",
+        "Address/Description": "7831 MASEFIELD ST  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$318,922.70",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.03375855,
+        "Longitude": -90.01713376572675
     },
     {
         "Case #": "2023-4800",
@@ -1664,6 +1638,19 @@
         "Longitude": -90.01129685224056
     },
     {
+        "Case #": "2012-5754",
+        "Sales Date": "8/31/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "CAROLYN SANTINAC vs EARIN BRIDGES , INDIVIDUALLY AND D/B/A BRIDGES CONSTRUCTION AND SHORING, LLC AND CANAL INDEMNITY INSURANCE COMPANY",
+        "Address/Description": "1306-08 TELEMACHUS ST  NEW ORLEANS LA 70125",
+        "Picture": "",
+        "Attorney": "FAVRET CARRIERE CRONVICH, LLC",
+        "Writ Amount": "$80,456.00",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9584671,
+        "Longitude": -90.10701430566121
+    },
+    {
         "Case #": "2023-2491",
         "Sales Date": "8/31/2023",
         "Property Status": "Scheduled",
@@ -1673,8 +1660,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$63,963.58",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 30.0518183,
+        "Longitude": -89.97551469067847
     },
     {
         "Case #": "2023-2594",
@@ -1712,34 +1699,8 @@
         "Attorney": "DAVID S. MOYER, LLC",
         "Writ Amount": "$223,071.47",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2023-729",
-        "Sales Date": "8/31/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "COMMUNITY LOAN SERVICING, LLC F/K/A BAYVIEW LOAN SERVICING, LLC A DELAWARE LIMITED LIABILITY COMPANY vs TERRY R. JAMES A/K/A/ TERRENCE R JAMES",
-        "Address/Description": "1201-1207 CASA CALVO ST  NEW ORLEANS LA 70114",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$218,342.60",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.942486199999998,
-        "Longitude": -90.0350075
-    },
-    {
-        "Case #": "2023-00454",
-        "Sales Date": "8/31/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U. S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST vs JOYCE MAE THOMAS-GUIENT",
-        "Address/Description": "1687 PRATT  DRIVE  NEW ORLEANS LA 70115",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$22,209.51",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.96166897959184,
+        "Longitude": -90.12582797959185
     },
     {
         "Case #": "2022-5190",
@@ -1766,5 +1727,44 @@
         "Terms and Conditions": "With appraisal; 100% cash at the moment of adjudication.",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2023-729",
+        "Sales Date": "8/31/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "COMMUNITY LOAN SERVICING, LLC F/K/A BAYVIEW LOAN SERVICING, LLC A DELAWARE LIMITED LIABILITY COMPANY vs TERRY R. JAMES A/K/A/ TERRENCE R JAMES",
+        "Address/Description": "1201-1207 CASA CALVO ST  NEW ORLEANS LA 70114",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$218,342.60",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.942486199999998,
+        "Longitude": -90.0350075
+    },
+    {
+        "Case #": "2023-00454",
+        "Sales Date": "8/31/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "U. S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE BUNGALOW SERIES IV TRUST vs JOYCE MAE THOMAS-GUIENT",
+        "Address/Description": "1687 PRATT  DRIVE  NEW ORLEANS LA 70115",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$22,209.51",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.00280811077659,
+        "Longitude": -90.07281797453356
+    },
+    {
+        "Case #": "2015-5482",
+        "Sales Date": "8/31/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "COMMUNITY ASSOCIATES, INC. vs ANTHONY R. THOMAS, SR. AND CAROLYN L. TAYLOR",
+        "Address/Description": "11100 N. IDLEWOOD COURT  New Orleans LA ",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\209823.JPG",
+        "Attorney": "EVAN PARK HOWELL III ATTORNEY AT LAW",
+        "Writ Amount": "$62,809.98",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.0326784,
+        "Longitude": -89.95838589164016
     }
 ]
