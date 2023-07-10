@@ -234,19 +234,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2023-2153",
-        "Sales Date": "7/20/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "UMB BANK, NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLEY AS LEGAL TITLE TRUSTEE OF PRL TITLE TRUST II vs ROBERT M. LARRY, JR. A/K/A ROBERT LARRY, JR.",
-        "Address/Description": "7600 ROCHON AV  NEW ORLEANS LA 70128",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$56,803.53",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2020-10733",
         "Sales Date": "7/27/2023",
         "Property Status": "Scheduled",
@@ -1404,19 +1391,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2022-11039",
-        "Sales Date": "8/31/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "MIDFIRST BANK vs JASMANE ANDREA PATTON",
-        "Address/Description": "8600-02 BILL ST  NEW ORLEANS LA 70127",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$128,343.78",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0417387,
-        "Longitude": -89.9965741
-    },
-    {
         "Case #": "2023-2206",
         "Sales Date": "8/31/2023",
         "Property Status": "Scheduled",
@@ -1662,6 +1636,19 @@
         "Terms and Conditions": "With appraisal; 100% cash at the moment of adjudication.",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2022-7973",
+        "Sales Date": "9/7/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE ON BEHALF OF AND FOR THE BENEFIT OF MEB LOAN TRUST VII vs ROSE MARY CUMMINGS LANDRY WIFE OF/ AND WAYNE JOSEPH LANDRY",
+        "Address/Description": "2919-21 AUDUBON ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON LLC",
+        "Writ Amount": "$78,583.91",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.955696408163266,
+        "Longitude": -90.1113322857143
     },
     {
         "Case #": "2022-3605",
