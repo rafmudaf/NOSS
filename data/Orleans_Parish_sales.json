@@ -52,19 +52,6 @@
         "Longitude": -90.1223268
     },
     {
-        "Case #": "2022-2303",
-        "Sales Date": "7/27/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CHASE MORTGAGE HOLDINGS, INC vs KELVIN ROBEY",
-        "Address/Description": "2517-19 N MIRO ST  NEW ORLEANS LA 70117",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\239538.JPG",
-        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
-        "Writ Amount": "$133,663.10",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.98033455,
-        "Longitude": -90.05025957553266
-    },
-    {
         "Case #": "2023-3113",
         "Sales Date": "7/27/2023",
         "Property Status": "Scheduled",
@@ -1794,32 +1781,6 @@
         "Longitude": -90.01061585
     },
     {
-        "Case #": "2023 3759",
-        "Sales Date": "9/21/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "GMFS LLC vs STEVEN T. MERCER AND EVANGELINE DE LA VARA MERCER",
-        "Address/Description": "3120 DELACHAISE ST  NEW ORLEANS LA 70125",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$96,849.44",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.942239549999996,
-        "Longitude": -90.09934964982918
-    },
-    {
-        "Case #": " 2023-4571",
-        "Sales Date": "9/21/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST vs GRANT MICHAEL CAPONE AND MEGAN B. CAPONE A/K/A MEGAN BRADEN- PERRY A/K/A MEGAN B. PERRY CAPONE",
-        "Address/Description": "2701 PARIS AV  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$92,298.95",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.98506535,
-        "Longitude": -90.07228496895652
-    },
-    {
         "Case #": "2021-2344",
         "Sales Date": "9/21/2023",
         "Property Status": "Scheduled",
@@ -1846,19 +1807,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2023-4707",
-        "Sales Date": "9/21/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U. S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, ON BEHALF OF THE COLT 2021-2 MORTGAGE LOAN TRUST, A NEW YORK COMMON LAW TRUST vs ATEP ENTERPRISES, LLC AND ALLEN LOTTINGER, JR.",
-        "Address/Description": "1727-29 TOURO ST  NEW ORLEANS LA 70116",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$245,580.61",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.97482236734694,
-        "Longitude": -90.05967371428571
-    },
-    {
         "Case #": "2023-4824",
         "Sales Date": "9/21/2023",
         "Property Status": "Scheduled",
@@ -1872,17 +1820,56 @@
         "Longitude": -90.04098717885475
     },
     {
-        "Case #": "2023-1593",
+        "Case #": " 2023-4571",
         "Sales Date": "9/21/2023",
         "Property Status": "Scheduled",
-        "Case Title": "MIDFIRST BANK vs ALSTON A. JOHNSON, JR.",
-        "Address/Description": "11229 WILL STUTLEY DR  NEW ORLEANS LA 70128",
+        "Case Title": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST vs GRANT MICHAEL CAPONE AND MEGAN B. CAPONE A/K/A MEGAN BRADEN- PERRY A/K/A MEGAN B. PERRY CAPONE",
+        "Address/Description": "2701 PARIS AV  NEW ORLEANS LA 70119",
         "Picture": "",
         "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$114,372.94",
+        "Writ Amount": "$92,298.95",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.028015500000002,
-        "Longitude": -89.9556637477601
+        "Latitude": 29.98506535,
+        "Longitude": -90.07228496895652
+    },
+    {
+        "Case #": "2023 3759",
+        "Sales Date": "9/21/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "GMFS LLC vs STEVEN T. MERCER AND EVANGELINE DE LA VARA MERCER",
+        "Address/Description": "3120 DELACHAISE ST  NEW ORLEANS LA 70125",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$96,849.44",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.942239549999996,
+        "Longitude": -90.09934964982918
+    },
+    {
+        "Case #": "2023-3666",
+        "Sales Date": "9/21/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "LIBERTY BANK AND TRUST COMPANY vs THOMAS B. WATSON AND PATRICA ANN GARRISON WATSON",
+        "Address/Description": "4543 OWENS BD  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "WAYNE A MAIORANA JR.",
+        "Writ Amount": "$275,048.12",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2023-4707",
+        "Sales Date": "9/21/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "U. S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, ON BEHALF OF THE COLT 2021-2 MORTGAGE LOAN TRUST, A NEW YORK COMMON LAW TRUST vs ATEP ENTERPRISES, LLC AND ALLEN LOTTINGER, JR.",
+        "Address/Description": "1727-29 TOURO ST  NEW ORLEANS LA 70116",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$245,580.61",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.97482236734694,
+        "Longitude": -90.05967371428571
     },
     {
         "Case #": "2023-1684",
@@ -1898,17 +1885,43 @@
         "Longitude": null
     },
     {
-        "Case #": "2023-3666",
+        "Case #": "2023-2619",
         "Sales Date": "9/21/2023",
         "Property Status": "Scheduled",
-        "Case Title": "LIBERTY BANK AND TRUST COMPANY vs THOMAS B. WATSON AND PATRICA ANN GARRISON WATSON",
-        "Address/Description": "4543 OWENS BD  NEW ORLEANS LA 70122",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF STANWICH MORTGAGE LOAN TRUST F vs REYNARD ANTHONY NOBLES A/K/A REYNARD A. NOBLES A/K/A REYNARD NOBLES",
+        "Address/Description": "8530-32 GERVAIS ST  NEW ORLEANS LA 70127",
         "Picture": "",
-        "Attorney": "WAYNE A MAIORANA JR.",
-        "Writ Amount": "$275,048.12",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$88,047.96",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 30.0402659,
+        "Longitude": -89.9964273
+    },
+    {
+        "Case #": "2023-1593",
+        "Sales Date": "9/21/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "MIDFIRST BANK vs ALSTON A. JOHNSON, JR.",
+        "Address/Description": "11229 WILL STUTLEY DR  NEW ORLEANS LA 70128",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$114,372.94",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.028015500000002,
+        "Longitude": -89.9556637477601
+    },
+    {
+        "Case #": "2022-11200",
+        "Sales Date": "9/21/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING vs MALCOLM SMITH JR.",
+        "Address/Description": "4843 CHARMES CT  NEW ORLEANS LA 70129",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$81,992.45",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.03644225,
+        "Longitude": -89.92509925904068
     },
     {
         "Case #": "2022-7115",
