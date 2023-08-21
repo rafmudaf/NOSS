@@ -61,8 +61,8 @@
         "Attorney": "LOUIS GRAHAM ARCENEAUX",
         "Writ Amount": "$80,475.06",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.020526150000002,
-        "Longitude": -90.00317189809815
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-1307",
@@ -321,8 +321,8 @@
         "Attorney": "LOGS LEGAL GROUP LLP",
         "Writ Amount": "$90,536.80",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0375922,
-        "Longitude": -89.93410911036116
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-2953",
@@ -438,8 +438,8 @@
         "Attorney": "TREVATHAN LAW FIRM, APLC",
         "Writ Amount": "$79,423.33",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9709331,
-        "Longitude": -90.07395207569988
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2019-6685",
@@ -490,8 +490,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$70,068.88",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.023538950000003,
-        "Longitude": -89.99582965365846
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2017-12372",
@@ -1027,19 +1027,6 @@
         "Longitude": -90.04015397959184
     },
     {
-        "Case #": "2022-4341",
-        "Sales Date": "10/5/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "GIROD TITLING TRUST vs TORRANCE SMALL, DENISE SMALL, TYRONE LEGETTE, GORDON J. DIAZ, AND UNOPENED SUCCESSION OF ELAINE MARIE SCOTT DIAZ",
-        "Address/Description": "2217 GEORGE NICK CONNOR DR  F/K/A HAVANA STREET NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "ADAMS AND REESE LLP",
-        "Writ Amount": "$549,440.82",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2023-1802",
         "Sales Date": "10/5/2023",
         "Property Status": "Scheduled",
@@ -1452,8 +1439,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$149,456.04",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 30.042571000000002,
+        "Longitude": -89.97629501576972
     },
     {
         "Case #": "2022-5185",
@@ -1467,6 +1454,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.03455125,
         "Longitude": -90.00705478084677
+    },
+    {
+        "Case #": "2022-4341",
+        "Sales Date": "10/19/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "GIROD TITLING TRUST vs TORRANCE SMALL, DENISE SMALL, TYRONE LEGETTE, GORDON J. DIAZ, AND UNOPENED SUCCESSION OF ELAINE MARIE SCOTT DIAZ",
+        "Address/Description": "2217 GEORGE NICK CONNOR DR  F/K/A HAVANA STREET NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "ADAMS AND REESE LLP",
+        "Writ Amount": "$549,440.82",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2020-1136",
@@ -1599,6 +1599,19 @@
         "Longitude": null
     },
     {
+        "Case #": "2023 6224",
+        "Sales Date": "10/19/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION vs KANDISE LEIGH WOODS, IN HER CAPACITY AS INDEPENDENT ADMINISTRATRIX OF THE SUCCEESION OF MEHMET TUGRUL ERGELEN A/K/A MEHMET TUGRUL ERGELEN A/K/A MEHMET T. ERGELEN A/K/A MEHMET ERGELEN",
+        "Address/Description": "732-734 DELACHAISE ST  NEW ORLEANS LA 70115",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$316,527.72",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.918878749999998,
+        "Longitude": -90.08852153818336
+    },
+    {
         "Case #": "2023-5583",
         "Sales Date": "10/19/2023",
         "Property Status": "Scheduled",
@@ -1690,17 +1703,17 @@
         "Longitude": -90.00508390171251
     },
     {
-        "Case #": "2023-2635",
-        "Sales Date": "11/9/2023",
+        "Case #": "2023 6476",
+        "Sales Date": "10/26/2023",
         "Property Status": "Scheduled",
-        "Case Title": "LAELIA LLC vs JASON A. RUGGLES AND AMY BOASBERG RUGGLES A/K/A AMY L. RUGGLES",
-        "Address/Description": "778 AMETHYST ST  NEW ORLEANS LA 70124",
+        "Case Title": "J.P. MORGAN MORTGAGE ACQUISITION CORP. vs DARRYL S. BRISTER A/K/A DARRYL SYLVESTER BRISTER",
+        "Address/Description": "6026-28 N VILLERE ST  NEW ORLEANS LA 70117",
         "Picture": "",
         "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$353,776.95",
+        "Writ Amount": "$32,852.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0248465,
-        "Longitude": -90.10321081460906
+        "Latitude": 29.9627012,
+        "Longitude": -90.0103706
     },
     {
         "Case #": "2023-6764",
@@ -1714,5 +1727,18 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.011338199999997,
         "Longitude": -90.02042395447094
+    },
+    {
+        "Case #": "2023-2635",
+        "Sales Date": "11/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "LAELIA LLC vs JASON A. RUGGLES AND AMY BOASBERG RUGGLES A/K/A AMY L. RUGGLES",
+        "Address/Description": "778 AMETHYST ST  NEW ORLEANS LA 70124",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$353,776.95",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.0248465,
+        "Longitude": -90.10321081460906
     }
 ]
