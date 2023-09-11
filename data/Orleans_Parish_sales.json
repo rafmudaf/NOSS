@@ -542,8 +542,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$83,498.61",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 30.0203257,
+        "Longitude": -90.01537110652583
     },
     {
         "Case #": "2019-2689",
@@ -1023,8 +1023,8 @@
         "Attorney": "ALKER & RATHER, LLC",
         "Writ Amount": "$30,439.67",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.02347135,
-        "Longitude": -90.02391191598228
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-3991",
@@ -1274,17 +1274,17 @@
         "Longitude": -89.9585943288455
     },
     {
-        "Case #": "2022-10779",
+        "Case #": "2023 4774",
         "Sales Date": "11/9/2023",
         "Property Status": "Scheduled",
-        "Case Title": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC F/K/A QUICKEN LOANS INC. vs THE SUCCESSION OF WARREN G. WOODFORK, SR. A/K/A WARREN GENE WOODFORK, SR. A/K/A WARREN G. WOODFORK, SR. A/K/A WARREN WOODFORK, SR. A/K/A WARREN GENE WOODFORK A/K/A WARREN G. WOODFORK A/K/A WARREN WOODFORK AND THE UNOPENEND SUCCESSION OF MARIE WOODFORK A/K/A MARIE WOODFORK A/K/A MARIE WALKER",
-        "Address/Description": "11401 PRENTISS AV  NEW ORLEANS LA 70128",
+        "Case Title": "FREEDOM MORTGAGE CORPORATION vs ROBERT PACKNETT",
+        "Address/Description": "7442 SPRINGLAKE DR  NEW ORLEANS LA 70126",
         "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$199,426.51",
+        "Attorney": "JACKSON & MCPHERSON",
+        "Writ Amount": "$213,262.24",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.023736300000003,
-        "Longitude": -89.95302736552412
+        "Latitude": 30.03069664147217,
+        "Longitude": -90.0059595178979
     },
     {
         "Case #": "2022-9253",
@@ -1389,6 +1389,32 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2023-6223",
+        "Sales Date": "11/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "CITIBANK, N.A., NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE OF THE NEW RESIDENTIAL MORTGAGE LOAN TRUST 2019-2 vs THE UNOPENED SUCCESSION OF WILLIAM GRAY A/K/A WILLIAM GRAY AND CAROLYN ADAMS GRAY A/K/A CAROLYN A. GRAY A/K/A CAROLYN GRAY A/K/A CAROLINE ADAMS GRAY A/K/A CAROLINE A. GRAY A/K/A CAROLINE GRAY",
+        "Address/Description": "5849 TULLIS DR  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$27,974.13",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9038156,
+        "Longitude": -89.99244
+    },
+    {
+        "Case #": "2022-10865",
+        "Sales Date": "11/9/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "STANDARD MORTGAGE CORPORATION vs THE UNOPENED SUCCESSION OF DEBORAH ANN MARTIN, DECEASED AND QIANA MARIE MARTIN",
+        "Address/Description": "1738 BARTHOLOMEW ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "LOUIS GRAHAM ARCENEAUX",
+        "Writ Amount": "$15,720.23",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.97262615,
+        "Longitude": -90.03351779800641
     },
     {
         "Case #": "2023-7193",
