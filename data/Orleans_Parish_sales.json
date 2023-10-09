@@ -152,8 +152,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$3,210.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.01590635,
-        "Longitude": -89.9837794465743
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-4341",
@@ -438,8 +438,8 @@
         "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
         "Writ Amount": "$369,225.37",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.99098965,
+        "Longitude": -90.12210477517596
     },
     {
         "Case #": "2022-2348",
@@ -520,19 +520,6 @@
         "Longitude": -90.02674802812939
     },
     {
-        "Case #": "2023-6982",
-        "Sales Date": "11/2/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FINANCE OF AMERICA REVERSE LLC vs ARTHUR DEVORE SR. A/K/A ARTHUR DEVORE AND HELEN MOORE DEVORE A/K/A HELEN M. DEVORE A/K/A HELEN DEVORE",
-        "Address/Description": "325 HOMER ST  NEW ORLEANS LA 70114",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$163,045.29",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9463353,
-        "Longitude": -90.0527849
-    },
-    {
         "Case #": "2015-2703",
         "Sales Date": "11/2/2023",
         "Property Status": "Scheduled",
@@ -594,8 +581,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$659,203.63",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.97361325,
-        "Longitude": -90.07402493123797
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-6828",
@@ -685,8 +672,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$92,298.95",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.98506535,
-        "Longitude": -90.07228496895652
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-11217",
@@ -854,8 +841,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$195,153.37",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0136358,
-        "Longitude": -90.07221604741758
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-4407",
@@ -971,8 +958,8 @@
         "Attorney": "",
         "Writ Amount": "$",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.966834900000002,
+        "Longitude": -90.07490340062932
     },
     {
         "Case #": "2021-5336",
@@ -984,8 +971,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$7,705.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.964177550000002,
-        "Longitude": -90.01397205807709
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-1802",
@@ -1088,8 +1075,8 @@
         "Attorney": "JACKSON & MCPHERSON",
         "Writ Amount": "$132,780.44",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.0094576,
-        "Longitude": -90.0546946
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-6997",
@@ -1248,6 +1235,19 @@
         "Longitude": -90.0440188
     },
     {
+        "Case #": "2023-2634",
+        "Sales Date": "12/14/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "MORTGAGE ASSETS MANAGEMENT, LLC vs DEBORAH LOCKLEY WILKES, ADMINISTRATRIX FOR THE SUCCESSION OF CELESTINE SLACK LOCKLEY",
+        "Address/Description": "1344 TENNESSEE ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$99,380.21",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.96577675,
+        "Longitude": -90.02246264780182
+    },
+    {
         "Case #": "2022-6396",
         "Sales Date": "12/14/2023",
         "Property Status": "Scheduled",
@@ -1259,19 +1259,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.035301099999998,
         "Longitude": -90.00137596774611
-    },
-    {
-        "Case #": "2023-5216",
-        "Sales Date": "12/14/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF CSMC 2018-SP3 TRUST vs TOBY WHITE, III",
-        "Address/Description": "3229 WASHINGTON AV  NEW ORLEANS LA 70125",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$77,725.66",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.944872,
-        "Longitude": -90.09610585426924
     },
     {
         "Case #": "2022-1310",
@@ -1313,19 +1300,6 @@
         "Longitude": -90.1043978
     },
     {
-        "Case #": "2023-2634",
-        "Sales Date": "12/14/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "MORTGAGE ASSETS MANAGEMENT, LLC vs DEBORAH LOCKLEY WILKES, ADMINISTRATRIX FOR THE SUCCESSION OF CELESTINE SLACK LOCKLEY",
-        "Address/Description": "1344 TENNESSEE ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$99,380.21",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.96577675,
-        "Longitude": -90.02246264780182
-    },
-    {
         "Case #": "2022-11292",
         "Sales Date": "12/14/2023",
         "Property Status": "Scheduled",
@@ -1337,5 +1311,31 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.93564335,
         "Longitude": -90.08314135335385
+    },
+    {
+        "Case #": "2023-8923",
+        "Sales Date": "12/14/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "PARK TREE INVESTMENTS 24, LLC vs GREGORY WILLIAMS AND TRINA WILLIAMS A/K/A TRINA DEROUEN WILLIAMS",
+        "Address/Description": "14736 EMORY  NEW ORLEANS LA 70128",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$16,377.95",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.07001315,
+        "Longitude": -89.94332106667272
+    },
+    {
+        "Case #": "2023-8904",
+        "Sales Date": "12/14/2023",
+        "Property Status": "Scheduled",
+        "Case Title": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC vs TREAT DESPENZA AND DOOMINIQUE HOWSE, INDIVIDUALLY, AND IN HER CAPACITY AS TESTAMENTARY EXECUTOR OF THE SUCCESSION OF RONALD JOSEPH DESPENZA",
+        "Address/Description": "8100 CURRAN BD  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$166,902.53",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     }
 ]
