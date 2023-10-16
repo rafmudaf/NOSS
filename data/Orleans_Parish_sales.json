@@ -9,8 +9,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$3,210.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 30.01590635,
+        "Longitude": -89.9837794465743
     },
     {
         "Case #": "2022-4341",
@@ -152,8 +152,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$112,152.48",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 30.009432099999998,
+        "Longitude": -90.05581889469697
     },
     {
         "Case #": "2023-5679",
@@ -438,8 +438,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$121,444.19",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.013030200000003,
-        "Longitude": -90.07353216844332
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-9869",
@@ -828,8 +828,8 @@
         "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
         "Writ Amount": "$71,812.10",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9366599,
+        "Longitude": -90.08494885308053
     },
     {
         "Case #": "2023-727",
@@ -1079,19 +1079,6 @@
         "Longitude": -90.04707544084195
     },
     {
-        "Case #": "2023-8904",
-        "Sales Date": "12/14/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC vs TREAT DESPENZA AND DOOMINIQUE HOWSE, INDIVIDUALLY, AND IN HER CAPACITY AS TESTAMENTARY EXECUTOR OF THE SUCCESSION OF RONALD JOSEPH DESPENZA",
-        "Address/Description": "8100 CURRAN BD  NEW ORLEANS LA 70126",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$166,902.53",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2020-4347",
         "Sales Date": "12/14/2023",
         "Property Status": "Scheduled",
@@ -1261,19 +1248,6 @@
         "Longitude": -89.99527576034731
     },
     {
-        "Case #": "2023-33",
-        "Sales Date": "12/21/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CARRINGTON MORTGAGE SERVICES, LLC vs THE UNOPENED SUCCESSION OF LLOYD LEWIS HARRIS, JR. A/K/A LLOYD LEWIS HARRIS, JR., LLOYD L. LEWIS, JR., LLOYD HARRIS, JR. AND THE UNOPNENED SUCCESSION OF REGINA ANN BLUE HARRIS A/K/A REGINA ANN BLUE HARRIS A/K/A REGINA ANN BLUE A/K/A REGINA A. BLUE A/K/A REGINA BLUE A/K/A REGINA ANN HARRIS A/K/A REGINA A. HARRIS A/K/A REGINA HARRIS A/K/A REGINA BLUE HARRIS A/K/A REGINA B. HARRIS",
-        "Address/Description": "9780 W ROCKTON CR  NEW ORLEANS LA 70127",
-        "Picture": "",
-        "Attorney": "",
-        "Writ Amount": "$74,375.30",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2023-10238",
         "Sales Date": "12/21/2023",
         "Property Status": "Scheduled",
@@ -1322,8 +1296,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$63,873.46",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 30.0270807,
+        "Longitude": -89.95593165387703
     },
     {
         "Case #": "2023-8257",
@@ -1348,8 +1322,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$308,715.37",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9777118,
+        "Longitude": -90.0935451
     },
     {
         "Case #": "2023-10377",
@@ -1387,8 +1361,8 @@
         "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
         "Writ Amount": "$87,492.09",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 30.017422500000002,
+        "Longitude": -90.01412987085105
     },
     {
         "Case #": "2023-7058",
