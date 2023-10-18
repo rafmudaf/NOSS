@@ -130,19 +130,6 @@
         "Longitude": -90.07126364999999
     },
     {
-        "Case #": "2022-1000",
-        "Sales Date": "10/26/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLEY AS OWNER TRUST FOR RCF 2 ACQUISITION TRUST C/O U.S. BANK TRUST NATIONAL ASSOCIATION vs ROBERT L. PACKNETT",
-        "Address/Description": "5525-27 SPAIN ST  NEW ORLEANS LA 70122",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\235350.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$137,039.93",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.01539645,
-        "Longitude": -90.05675102100234
-    },
-    {
         "Case #": "2022-5253",
         "Sales Date": "10/26/2023",
         "Property Status": "Scheduled",
@@ -425,8 +412,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$659,203.63",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.97361325,
-        "Longitude": -90.07402493123797
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-6828",
@@ -438,8 +425,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$121,444.19",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 30.013030200000003,
+        "Longitude": -90.07353216844332
     },
     {
         "Case #": "2022-9869",
@@ -672,8 +659,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$195,153.37",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0136358,
-        "Longitude": -90.07221604741758
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-4407",
@@ -789,8 +776,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$7,705.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.964177550000002,
-        "Longitude": -90.01397205807709
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-1802",
@@ -815,8 +802,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$45,939.73",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.0344816,
-        "Longitude": -90.00236373858644
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2017-5499",
@@ -828,8 +815,8 @@
         "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
         "Writ Amount": "$71,812.10",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9366599,
-        "Longitude": -90.08494885308053
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-727",
@@ -880,8 +867,8 @@
         "Attorney": "LOGS LEGAL GROUP LLC",
         "Writ Amount": "$269,271.07",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.0510826,
-        "Longitude": -89.95882598089469
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-1090",
@@ -971,8 +958,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$99,380.21",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.96577675,
-        "Longitude": -90.02246264780182
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-3253",
@@ -1049,21 +1036,8 @@
         "Attorney": "LOGS LEGAL GROUP LLP",
         "Writ Amount": "$119,539.59",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.035301099999998,
-        "Longitude": -90.00137596774611
-    },
-    {
-        "Case #": "2022-11292",
-        "Sales Date": "12/14/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "REVERSE MORTGAGE FUNDING LLC vs THE SUCCESSION OF EVELYN WEBSTER GREEN A/K/A EVELYN WEBSTER GREEN A/K/A EVELYN W. GREEN A/K/A EVELYN GREEN, DERRENCE LLOYD GREEN A/K/A DERRENCE L. GREEN A/K/A DERRENCE GREEN, PHYLLIS M. ROACH, PHYLLIS ROACH, MARCHELLA A. HALL A/K/A MARCHELLA HALL, JAMES THOMAS GREEN A/K/A JAMES T. GREEN A/K/A JAMES GREEN, AND TROYMAINE GREEN SANDERS A/K/A TROYMAINE G. SANDERS A/K/A TROYMAINE SANDERS A/K/A TROYMAINE MALCOLM",
-        "Address/Description": "2236 BARONNE ST  NEW ORLEANS LA 70113",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$306,325.49",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.93564335,
-        "Longitude": -90.08314135335385
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2021-6585",
@@ -1287,19 +1261,6 @@
         "Longitude": -89.97124185389089
     },
     {
-        "Case #": "2023-10453",
-        "Sales Date": "12/21/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF CSMC 2018-SP1 TRUST vs IRVIN CARTER AND MARTHA CARTER A/K/A MARTHA PETIT JONES NEAL CARTER",
-        "Address/Description": "4951 WRIGHT RD  NEW ORLEANS LA 70128",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$63,873.46",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0270807,
-        "Longitude": -89.95593165387703
-    },
-    {
         "Case #": "2023-8257",
         "Sales Date": "12/21/2023",
         "Property Status": "Scheduled",
@@ -1348,8 +1309,8 @@
         "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
         "Writ Amount": "$40,638.95",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9318768,
-        "Longitude": -90.09622706004805
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-8746",
@@ -1361,8 +1322,8 @@
         "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
         "Writ Amount": "$87,492.09",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.017422500000002,
-        "Longitude": -90.01412987085105
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-7058",
@@ -1389,19 +1350,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
-    },
-    {
-        "Case #": "2023-9910",
-        "Sales Date": "1/11/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "CTP FUNDING, LLC vs SILK ENTERPRISES, LLC AND ANTHONY HYDE",
-        "Address/Description": "716 & 718 MAJESTIC PL  NEW ORLEANS LA 70114",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$104,000.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.940802,
-        "Longitude": -90.047568
     },
     {
         "Case #": "2022-9537",
