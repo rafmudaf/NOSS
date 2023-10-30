@@ -581,8 +581,8 @@
         "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
         "Writ Amount": "$71,812.10",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9366599,
-        "Longitude": -90.08494885308053
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-727",
@@ -685,8 +685,8 @@
         "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
         "Writ Amount": "$359,321.57",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.95040435,
-        "Longitude": -90.1022860821696
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-2893",
@@ -737,8 +737,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$233,281.49",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.919331550000003,
-        "Longitude": -90.09339232210121
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-4947",
@@ -1092,6 +1092,19 @@
         "Longitude": -90.07484089475248
     },
     {
+        "Case #": "2023-10240",
+        "Sales Date": "1/11/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "THE CADLE COMPANY vs THE ESTATE OF QUANG THANH NGUYEN AND TRUNG THI NGUYEN",
+        "Address/Description": "13374 LOURDES ST  NEW ORLEANS LA 70129",
+        "Picture": "",
+        "Attorney": "NEWMAN MATHIS BRADY & SPEDALE A PROFESSIONAL LAW CORPORATION",
+        "Writ Amount": "$52,291.34",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.0345841,
+        "Longitude": -89.92715931826923
+    },
+    {
         "Case #": "2023-10584",
         "Sales Date": "1/11/2024",
         "Property Status": "Scheduled",
@@ -1103,6 +1116,58 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2023-10563",
+        "Sales Date": "1/11/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "GMFS LLC vs KEELAN RESEAN ANDERSON AND ALONDA CONCHATA ANDERSON A/K/A ALONDA CONCHATA SCOTT ANDERSON",
+        "Address/Description": "5425 WIMBLEDON CT  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$242,858.61",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9207166,
+        "Longitude": -89.99711354537243
+    },
+    {
+        "Case #": "2023-10602",
+        "Sales Date": "1/11/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF STANWICH MORTGAGE LOAN TRUST M vs TASHEL MARTIN",
+        "Address/Description": "5631 CHRISTIAN LN  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
+        "Writ Amount": "$52,999.98",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.0248127,
+        "Longitude": -89.99496550067025
+    },
+    {
+        "Case #": "2023-10596",
+        "Sales Date": "1/11/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "CITIZENS BANK, N.A vs KIMBERLY LYNN WOODARD A/K/A KIMBERLY L. WOODARD A/K/A KIMBERLY WOODARD",
+        "Address/Description": "3719-21 LOUISIANA AVENUE PWY  NEW ORLEANS LA 70125",
+        "Picture": "",
+        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
+        "Writ Amount": "$338,770.45",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.947894849999997,
+        "Longitude": -90.09998930030125
+    },
+    {
+        "Case #": "2023-9703",
+        "Sales Date": "1/11/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "METAIRIE BANK &TRUST COMPANY vs GEORGE J. ACKEL, III, ACKEL CONSTRUCTION COMPANY, LLC, EXTREME MOTORS SPORTS OF NEW ORLEANS, LLC, AND A AND C HOLDINGS LLC OF MISSISSIPPI D/B/A/ A AND C HOLDINGS LLC",
+        "Address/Description": "1735 LAKESHORE DR  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
+        "Writ Amount": "$1,822,579.61",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.030290700000002,
+        "Longitude": -90.07714470098963
     },
     {
         "Case #": "2023-11100",
