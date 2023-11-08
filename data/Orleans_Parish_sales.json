@@ -360,8 +360,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$192,500.00",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9550799,
-        "Longitude": -90.1310071
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-4649",
@@ -672,8 +672,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$251,769.70",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9469022,
-        "Longitude": -90.12674031885365
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-10377",
@@ -962,19 +962,6 @@
         "Longitude": -90.07714470098963
     },
     {
-        "Case #": "2023-10584",
-        "Sales Date": "1/11/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "U. S. BANK NATIONAL ASSOCIATION AS TRUSTEE FOR ANGEL OAK MORTGAGE TRUST 2020-4, MORTGAGE-BACKED CERTIFICATES, SERIES 2020-4 vs MICHAEL TERRANCE MCKENZIE A/K/A MICHAEL T. MCKENZIE A/K/A MICHAEL MCKENZIE",
-        "Address/Description": "900 S PETERS ST  PH3 NEW ORLEANS LA 70130",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$369,084.39",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2023-5580",
         "Sales Date": "1/11/2024",
         "Property Status": "Scheduled",
@@ -986,32 +973,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
-    },
-    {
-        "Case #": "2023-10631",
-        "Sales Date": "1/18/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs CLEMENT BAILEY",
-        "Address/Description": "7626 FOUNDER CT  NEW ORLEANS LA 70129",
-        "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$1,205.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2023-10828",
-        "Sales Date": "1/18/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "UNITED WHOLESALE MORTGAGE, LLC vs ANDRAS JANOS TOTH",
-        "Address/Description": "2622-24 PALMYRA ST  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$383,625.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9631169,
-        "Longitude": -90.0881005
     },
     {
         "Case #": "2023-8256",
@@ -1051,6 +1012,32 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.0479476,
         "Longitude": -89.97697245
+    },
+    {
+        "Case #": "2023-10631",
+        "Sales Date": "1/18/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs CLEMENT BAILEY",
+        "Address/Description": "7626 FOUNDER CT  NEW ORLEANS LA 70129",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$1,205.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2023-10828",
+        "Sales Date": "1/18/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "UNITED WHOLESALE MORTGAGE, LLC vs ANDRAS JANOS TOTH",
+        "Address/Description": "2622-24 PALMYRA ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$383,625.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9631169,
+        "Longitude": -90.0881005
     },
     {
         "Case #": "2023-11336",
