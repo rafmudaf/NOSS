@@ -1,83 +1,5 @@
 [
     {
-        "Case #": "2018-10929",
-        "Sales Date": "11/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "PRYTANIA SQUARE CONDOMINIUM ASSOCIATION, A LOUISIANA NON PROFIT CORPORATION vs CEDRIC RICHARD",
-        "Address/Description": "1901 PRYTANIA ST  UNIT 17 New Orleans LA ",
-        "Picture": "",
-        "Attorney": "BOWMAN & HOWLEY",
-        "Writ Amount": "$31,978.80",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2022-6828",
-        "Sales Date": "11/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FIRST HORIZON BANK vs RHONDA ANN JEAN A/K/A RHONDA ANN JEAN LEE DUCRE",
-        "Address/Description": "5419 CHAMBERLAIN DR  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$121,444.19",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.013030200000003,
-        "Longitude": -90.07353216844332
-    },
-    {
-        "Case #": "2022-9869",
-        "Sales Date": "11/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CALIBER HOME LOANS, INC. vs RENESHA SCOTT",
-        "Address/Description": "5457 GRAND BAYOU DR  NEW ORLEANS LA 70129",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$94,846.05",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.04269525,
-        "Longitude": -89.92694889459582
-    },
-    {
-        "Case #": "2022-3121",
-        "Sales Date": "11/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "GREATER NEW ORLEANS HISTORICAL NEIGHBORHOODS REVITALIZATION PROGRAM, LLC vs VIEWPOINT DEVELOPMENT AND CONSTRUCTION OF NEW ORLEANS, LLC AND DELISA PAUL",
-        "Address/Description": "1919 DUMAINE ST  NEW ORLEANS LA 70116",
-        "Picture": "",
-        "Attorney": "JAMES E. USCHOLD, PLC",
-        "Writ Amount": "",
-        "Terms and Conditions": "Without appraisal; 100% cash at the moment of adjudication.",
-        "Latitude": 29.96706436734694,
-        "Longitude": -90.0739547755102
-    },
-    {
-        "Case #": "2022-5720",
-        "Sales Date": "11/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "ALSCO PROERTIES, LLC vs LESLIE A. CLARK",
-        "Address/Description": "5712 WICKFIELD DR  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "LAW OFFICE OF SCOTT J. SONNIER",
-        "Writ Amount": "",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.01685825,
-        "Longitude": -90.06892625
-    },
-    {
-        "Case #": "2023-6223",
-        "Sales Date": "11/9/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CITIBANK, N.A., NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE OF THE NEW RESIDENTIAL MORTGAGE LOAN TRUST 2019-2 vs THE UNOPENED SUCCESSION OF WILLIAM GRAY A/K/A WILLIAM GRAY AND CAROLYN ADAMS GRAY A/K/A CAROLYN A. GRAY A/K/A CAROLYN GRAY A/K/A CAROLINE ADAMS GRAY A/K/A CAROLINE A. GRAY A/K/A CAROLINE GRAY",
-        "Address/Description": "5849 TULLIS DR  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$27,974.13",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9038156,
-        "Longitude": -89.99244
-    },
-    {
         "Case #": "2022-11217",
         "Sales Date": "11/16/2023",
         "Property Status": "Scheduled",
@@ -89,19 +11,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
-    },
-    {
-        "Case #": "2023-8143",
-        "Sales Date": "11/16/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FREEDOM MORTGAGE CORPORATION vs MARY STERLING A/K/A MARY KANEHAILUA STERLING JR. AND ANDRE STERLING",
-        "Address/Description": "7725 LEHIGH ST  NEW ORLEANS LA 70127",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$288,252.65",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.05018265,
-        "Longitude": -89.97587206703419
     },
     {
         "Case #": "2023-6489",
@@ -143,19 +52,6 @@
         "Longitude": -90.1113322857143
     },
     {
-        "Case #": "2023-9534",
-        "Sales Date": "11/16/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "FIDELITY BANK vs SUSAN KLIEBERT PAUL WIFE OF/AND MICHEAL G. PAULI  A/K/A MICHEAL GRENNON PAULI HEIR OF WILLIAM GRENNON PAULI DECEASED",
-        "Address/Description": "7005 MEMPHIS ST  NEW ORLEANS LA 70124",
-        "Picture": "",
-        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
-        "Writ Amount": "$213,940.29",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.01759545,
-        "Longitude": -90.10397039416651
-    },
-    {
         "Case #": "2023-7386",
         "Sales Date": "11/16/2023",
         "Property Status": "Scheduled",
@@ -165,19 +61,6 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$3,303.98",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2023-4799",
-        "Sales Date": "11/16/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "CROSSCOUNTRY MORTGAGE, LLC vs AHMAD B. ORDU",
-        "Address/Description": "2523-23 1/2 & 2525 ST. ANN  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLC",
-        "Writ Amount": "$241,276.79",
-        "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
     },
@@ -260,19 +143,6 @@
         "Longitude": -90.07379267822665
     },
     {
-        "Case #": "2022-10865",
-        "Sales Date": "11/30/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "STANDARD MORTGAGE CORPORATION vs JESSIE WILLIAMS HEIR OF DEBORAH ANN MARTIN, DECEASED AND QIANA MARIE MARTIN",
-        "Address/Description": "1738 BARTHOLOMEW ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "LOUIS GRAHAM ARCENEAUX",
-        "Writ Amount": "$15,720.23",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.97262615,
-        "Longitude": -90.03351779800641
-    },
-    {
         "Case #": "2017-9494",
         "Sales Date": "12/7/2023",
         "Property Status": "Scheduled",
@@ -312,19 +182,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2020-242",
-        "Sales Date": "12/7/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "WELLS FARGO BANK, N.A. vs LATACHA BENJAMIN BANKS",
-        "Address/Description": "7340 PRIMROSE DR  NEW ORLEANS LA 70126",
-        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\80713.JPG",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$45,939.73",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.0344816,
-        "Longitude": -90.00236373858644
-    },
-    {
         "Case #": "2017-5499",
         "Sales Date": "12/7/2023",
         "Property Status": "Scheduled",
@@ -360,8 +217,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$192,500.00",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9550799,
+        "Longitude": -90.1310071
     },
     {
         "Case #": "2023-4649",
@@ -416,19 +273,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2023-3666",
-        "Sales Date": "12/7/2023",
-        "Property Status": "Scheduled",
-        "Case Title": "LIBERTY BANK AND TRUST COMPANY vs THOMAS B. WATSON AND PATRICA ANN GARRISON WATSON",
-        "Address/Description": "4543 OWENS BD  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "NEWMAN MATHIS BRADY & SPEDALE A PROFESSIONAL LAW CORPORATION",
-        "Writ Amount": "$275,048.12",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2023-4907",
         "Sales Date": "12/7/2023",
         "Property Status": "Scheduled",
@@ -438,8 +282,8 @@
         "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
         "Writ Amount": "$359,321.57",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.95040435,
+        "Longitude": -90.1022860821696
     },
     {
         "Case #": "2023-2893",
@@ -672,8 +516,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$251,769.70",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9469022,
+        "Longitude": -90.12674031885365
     },
     {
         "Case #": "2023-10377",
@@ -854,8 +698,8 @@
         "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
         "Writ Amount": "$276,486.65",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.055152900000003,
-        "Longitude": -89.95767201541298
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-5239",
@@ -880,8 +724,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$201,017.66",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.90335855,
+        "Longitude": -89.99911216864619
     },
     {
         "Case #": "2023-10596",
@@ -932,8 +776,8 @@
         "Attorney": "LOGS LEGAL GROUP LLP",
         "Writ Amount": "$67,519.30",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.921184850000003,
+        "Longitude": -90.1065264050286
     },
     {
         "Case #": "2023-11295",
@@ -975,6 +819,45 @@
         "Longitude": null
     },
     {
+        "Case #": "2022-8802",
+        "Sales Date": "1/18/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "HSBC BANK USA, N.A., AS TRUSTEE ON BEHALF OF ACE SECURITIES CORP. HOME EQUITY LOAN TRUST AND FOR THE REGISTERED HOLDERS OF ACE SECURITIES CORP. HOME EQUITY LOAN TRUST, SERIES 2007-ASAP1, ASSET BACKED PASS-THROUGH CERTIFICATES vs DAVID H. DOTSON A/K/A DAVID DOTSON",
+        "Address/Description": "601-03 BARTHOLOMEW ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$157,362.25",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9605736,
+        "Longitude": -90.0368254
+    },
+    {
+        "Case #": "2022-1462",
+        "Sales Date": "1/18/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "TOWD POINT MORTGAGE TRUST 2018-5, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE vs YVONNE THOMPSON NARCISSE A/K/A YVONNE T. NARCISSE A/K/A YVONNE NARCISSE",
+        "Address/Description": "710-12 FOURTH ST  NEW ORLEANS LA 70130",
+        "Picture": "https://salesweb.civilview.com\\images\\Content\\County\\02600\\Images\\Thumbnail\\237607.JPG",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$66,743.58",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9234061,
+        "Longitude": -90.0794446
+    },
+    {
+        "Case #": "2023-10828",
+        "Sales Date": "1/18/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "UNITED WHOLESALE MORTGAGE, LLC vs ANDRAS JANOS TOTH",
+        "Address/Description": "2622-24 PALMYRA ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$383,625.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9631169,
+        "Longitude": -90.0881005
+    },
+    {
         "Case #": "2023-8256",
         "Sales Date": "1/18/2024",
         "Property Status": "Scheduled",
@@ -997,8 +880,8 @@
         "Attorney": "LOGS LEGAL GROUP LLC",
         "Writ Amount": "$131,479.16",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 30.020720750000002,
+        "Longitude": -89.99443538574438
     },
     {
         "Case #": "2023-11057",
@@ -1027,19 +910,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2023-10828",
-        "Sales Date": "1/18/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "UNITED WHOLESALE MORTGAGE, LLC vs ANDRAS JANOS TOTH",
-        "Address/Description": "2622-24 PALMYRA ST  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$383,625.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9631169,
-        "Longitude": -90.0881005
-    },
-    {
         "Case #": "2023-11336",
         "Sales Date": "1/18/2024",
         "Property Status": "Scheduled",
@@ -1051,45 +921,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.97390255,
         "Longitude": -90.05991690173832
-    },
-    {
-        "Case #": "2023-10865",
-        "Sales Date": "1/25/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "CITIZENS BANK NA F/K/A RBS CITIZENS NA vs TERRI-STACY GREENUP, INDIVIDUALLY, AND IN HER CAPACITY AS TRUSTEE OF THE TSG ENTERPRISE INTER VIVOS TRUST AND FAITH MUMBUA KAVOI, IN HER CAPACITY AS TRUSTEE OF THE JOANN DYLAN EXPRESS TRUST D/B/A JOANN DYLAN",
-        "Address/Description": "8032 HAYNE BD  NEW ORLEANS LA 70126",
-        "Picture": "",
-        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
-        "Writ Amount": "$295,768.42",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": " 2023-10812",
-        "Sales Date": "1/25/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "GREENSPRING CAPITAL MANAGEMENT, LLC,NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS ADMINISTRATOR OF RMH 2023-1 TRUST vs SALLY LYNN SCHUR A/K/A SALLY LYNN SCHUR SELMAN",
-        "Address/Description": "500-502 S GAYOSO ST  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$189,993.09",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9843828,
-        "Longitude": -90.0752012
-    },
-    {
-        "Case #": "2023-11524",
-        "Sales Date": "1/25/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "NEWREZ LLC D/B/A/ SHELLPOINT MORTGAGE SERVICING vs MICHEAL D. SNIDER",
-        "Address/Description": "14 SPINNAKER LN  NEW ORLEANS LA 70124",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$337,602.63",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
     },
     {
         "Case #": "2023-11532",
@@ -1118,6 +949,19 @@
         "Longitude": null
     },
     {
+        "Case #": " 2023-10812",
+        "Sales Date": "1/25/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "GREENSPRING CAPITAL MANAGEMENT, LLC,NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS ADMINISTRATOR OF RMH 2023-1 TRUST vs SALLY LYNN SCHUR A/K/A SALLY LYNN SCHUR SELMAN",
+        "Address/Description": "500-502 S GAYOSO ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$189,993.09",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9843828,
+        "Longitude": -90.0752012
+    },
+    {
         "Case #": "2023-10428",
         "Sales Date": "2/1/2024",
         "Property Status": "Scheduled",
@@ -1131,6 +975,19 @@
         "Longitude": -89.99363631137975
     },
     {
+        "Case #": "2023-11490",
+        "Sales Date": "2/1/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs WILLIAM LOUIS",
+        "Address/Description": "2767 EDNA ST  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$1,810.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.993344450000002,
+        "Longitude": -90.04086928289723
+    },
+    {
         "Case #": "2023-11223",
         "Sales Date": "2/1/2024",
         "Property Status": "Scheduled",
@@ -1142,5 +999,18 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.0318179,
         "Longitude": -89.95533894306705
+    },
+    {
+        "Case #": "2023-10921",
+        "Sales Date": "2/1/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "WELLS FARGO BANK, N.A. vs ROBERT JEAN-BAPTISTE",
+        "Address/Description": "730 LANG ST  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$45,377.79",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     }
 ]
