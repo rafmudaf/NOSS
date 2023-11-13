@@ -217,8 +217,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$192,500.00",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9550799,
-        "Longitude": -90.1310071
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-4649",
@@ -516,8 +516,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$251,769.70",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9469022,
-        "Longitude": -90.12674031885365
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-10377",
@@ -650,19 +650,6 @@
         "Longitude": -90.0935451
     },
     {
-        "Case #": "2023-10563",
-        "Sales Date": "1/11/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "GMFS LLC vs KEELAN RESEAN ANDERSON AND ALONDA CONCHATA ANDERSON A/K/A ALONDA CONCHATA SCOTT ANDERSON",
-        "Address/Description": "5425 WIMBLEDON CT  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$242,858.61",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9207166,
-        "Longitude": -89.99711354537243
-    },
-    {
         "Case #": "2016-3487",
         "Sales Date": "1/11/2024",
         "Property Status": "Scheduled",
@@ -793,19 +780,6 @@
         "Longitude": -90.01983839299801
     },
     {
-        "Case #": "2023-9703",
-        "Sales Date": "1/11/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "METAIRIE BANK &TRUST COMPANY vs GEORGE J. ACKEL, III, ACKEL CONSTRUCTION COMPANY, LLC, EXTREME MOTORS SPORTS OF NEW ORLEANS, LLC, AND A AND C HOLDINGS LLC OF MISSISSIPPI D/B/A/ A AND C HOLDINGS LLC",
-        "Address/Description": "1735 LAKESHORE DR  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
-        "Writ Amount": "$1,822,579.61",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.030290700000002,
-        "Longitude": -90.07714470098963
-    },
-    {
         "Case #": "2023-5580",
         "Sales Date": "1/11/2024",
         "Property Status": "Scheduled",
@@ -843,19 +817,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.9234061,
         "Longitude": -90.0794446
-    },
-    {
-        "Case #": "2023-10828",
-        "Sales Date": "1/18/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "UNITED WHOLESALE MORTGAGE, LLC vs ANDRAS JANOS TOTH",
-        "Address/Description": "2622-24 PALMYRA ST  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$383,625.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9631169,
-        "Longitude": -90.0881005
     },
     {
         "Case #": "2023-8256",
@@ -897,6 +858,19 @@
         "Longitude": -89.97697245
     },
     {
+        "Case #": "2023-10828",
+        "Sales Date": "1/18/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "UNITED WHOLESALE MORTGAGE, LLC vs ANDRAS JANOS TOTH",
+        "Address/Description": "2622-24 PALMYRA ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$383,625.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9631169,
+        "Longitude": -90.0881005
+    },
+    {
         "Case #": "2023-10631",
         "Sales Date": "1/18/2024",
         "Property Status": "Scheduled",
@@ -910,6 +884,19 @@
         "Longitude": null
     },
     {
+        "Case #": "2023-10276",
+        "Sales Date": "1/18/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERSUS SECURITIZATION TRUST 2023-INV1 vs GREEN STREET VENTURES, LLC",
+        "Address/Description": "1708-10 MONROE ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$192,500.00",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9551315,
+        "Longitude": -90.1309466
+    },
+    {
         "Case #": "2023-11336",
         "Sales Date": "1/18/2024",
         "Property Status": "Scheduled",
@@ -921,6 +908,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.97390255,
         "Longitude": -90.05991690173832
+    },
+    {
+        "Case #": " 2023-10812",
+        "Sales Date": "1/25/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "GREENSPRING CAPITAL MANAGEMENT, LLC,NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS ADMINISTRATOR OF RMH 2023-1 TRUST vs SALLY LYNN SCHUR A/K/A SALLY LYNN SCHUR SELMAN",
+        "Address/Description": "500-502 S GAYOSO ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$189,993.09",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9843828,
+        "Longitude": -90.0752012
     },
     {
         "Case #": "2023-11532",
@@ -947,19 +947,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
-    },
-    {
-        "Case #": " 2023-10812",
-        "Sales Date": "1/25/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "GREENSPRING CAPITAL MANAGEMENT, LLC,NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS ADMINISTRATOR OF RMH 2023-1 TRUST vs SALLY LYNN SCHUR A/K/A SALLY LYNN SCHUR SELMAN",
-        "Address/Description": "500-502 S GAYOSO ST  NEW ORLEANS LA 70119",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$189,993.09",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9843828,
-        "Longitude": -90.0752012
     },
     {
         "Case #": "2023-10428",
@@ -999,18 +986,5 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.0318179,
         "Longitude": -89.95533894306705
-    },
-    {
-        "Case #": "2023-10921",
-        "Sales Date": "2/1/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "WELLS FARGO BANK, N.A. vs ROBERT JEAN-BAPTISTE",
-        "Address/Description": "730 LANG ST  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$45,377.79",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
     }
 ]
