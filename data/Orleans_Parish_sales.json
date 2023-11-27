@@ -191,8 +191,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$233,281.49",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.919331550000003,
+        "Longitude": -90.09339232210121
     },
     {
         "Case #": "2023-4947",
@@ -832,19 +832,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2023-11532",
-        "Sales Date": "1/25/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "GMFS LLC vs JASMINE G. JACKSON",
-        "Address/Description": "5525 GRAND BAYOU DR  NEW ORLEANS LA 70129",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$140,633.72",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.0432578,
-        "Longitude": -89.92885251666885
-    },
-    {
         "Case #": "2023-3991",
         "Sales Date": "1/25/2024",
         "Property Status": "Scheduled",
@@ -1118,6 +1105,32 @@
         "Longitude": -90.10332420076054
     },
     {
+        "Case #": "2023-4516",
+        "Sales Date": "2/1/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "AMERIHOME MORTGAGE COMPANY, LLC vs TORRI TREMAINE ZENO A/K/A TORRI T. ZENO A/K/A TORRI ZENO AND EQUASIA MINDRUCIO ZENO A/K/A EQUASIA M. ZENO A/K/A EQUASIA ZENO",
+        "Address/Description": "2025-2027 MARIGNY ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$250,925.44",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9783944,
+        "Longitude": -90.05605508095772
+    },
+    {
+        "Case #": "2022-11439",
+        "Sales Date": "2/1/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "MORTGAGE ASSETS MANAGEMENT, LLC vs THE UNOPENEND SUCCESSION OF PEARL BOURGEOIS STEWART A/K/A PEARL BOURGEOIS STEWART A/K/A PEARL B. STEWART A/K/A PEARL STEWART",
+        "Address/Description": "1600 LASALLE ST  NEW ORLEANS LA 70113",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$138,269.30",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9514799,
+        "Longitude": -90.0784505
+    },
+    {
         "Case #": "2022-4661",
         "Sales Date": "2/1/2024",
         "Property Status": "Scheduled",
@@ -1166,8 +1179,8 @@
         "Attorney": "SUTTON LAW FIRM, LLC",
         "Writ Amount": "$7,784.94",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.910046404298107,
-        "Longitude": -89.96549573875198
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-4791",
@@ -1261,19 +1274,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2023-10865",
-        "Sales Date": "2/8/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "CITIZENS BANK NA F/K/A RBS CITIZENS NA vs TERRI-STACY GREENUP, INDIVIDUALLY, AND IN HER CAPACITY AS TRUSTEE OF THE TSG ENTERPRISE INTER VIVOS TRUST AND FAITH MUMBUA KAVOI, IN HER CAPACITY AS TRUSTEE OF THE JOANN DYLAN EXPRESS TRUST D/B/A JOANN DYLAN",
-        "Address/Description": "8032 HAYNE BD  NEW ORLEANS LA 70126",
-        "Picture": "",
-        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
-        "Writ Amount": "$295,768.42",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2023-11804",
         "Sales Date": "2/8/2024",
         "Property Status": "Scheduled",
@@ -1309,6 +1309,19 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$17,215.00",
         "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2023-10865",
+        "Sales Date": "2/8/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "CITIZENS BANK NA F/K/A RBS CITIZENS NA vs TERRI-STACY GREENUP, INDIVIDUALLY, AND IN HER CAPACITY AS TRUSTEE OF THE TSG ENTERPRISE INTER VIVOS TRUST AND FAITH MUMBUA KAVOI, IN HER CAPACITY AS TRUSTEE OF THE JOANN DYLAN EXPRESS TRUST D/B/A JOANN DYLAN",
+        "Address/Description": "8032 HAYNE BD  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
+        "Writ Amount": "$295,768.42",
+        "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
     },
