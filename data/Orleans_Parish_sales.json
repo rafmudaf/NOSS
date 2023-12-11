@@ -22,8 +22,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$233,281.49",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.919331550000003,
+        "Longitude": -90.09339232210121
     },
     {
         "Case #": "2022-1303",
@@ -490,8 +490,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$162,254.55",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.92845675,
-        "Longitude": -90.00339047333489
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-7193",
@@ -555,8 +555,8 @@
         "Attorney": "LOGS LEGAL GROUP LLC",
         "Writ Amount": "$273,074.84",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.019876500000002,
-        "Longitude": -90.05128514112081
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2021-9147",
@@ -897,19 +897,6 @@
         "Longitude": -90.0416505727071
     },
     {
-        "Case #": "2023-11491",
-        "Sales Date": "2/8/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs LASHIELD BROWN AND PALAIRE BROWN",
-        "Address/Description": "1841-43 MARIGNY ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$15,980.68",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.976153632653062,
-        "Longitude": -90.05601697959183
-    },
-    {
         "Case #": "2023-11758",
         "Sales Date": "2/8/2024",
         "Property Status": "Scheduled",
@@ -997,8 +984,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$151,617.41",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.98582115,
+        "Longitude": -90.07233323163655
     },
     {
         "Case #": "2023-11804",
@@ -1062,8 +1049,8 @@
         "Attorney": "NEWMAN MATHIS BRADY & SPEDALE A PROFESSIONAL LAW CORPORATION",
         "Writ Amount": "$339,500.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.94446,
+        "Longitude": -90.079692
     },
     {
         "Case #": "2023-474",
@@ -1127,8 +1114,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$192,500.00",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9552274,
+        "Longitude": -90.1308492
     },
     {
         "Case #": "2023-11784",
@@ -1261,6 +1248,19 @@
         "Longitude": -90.03662128571429
     },
     {
+        "Case #": "2023-11757",
+        "Sales Date": "2/15/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs KHANH DINH VU, MY LE THI CAO VU A/K/A PHUONG-ANH VU, AND AMY NGUYEN THUHONG",
+        "Address/Description": "7400 ADVENTURE AV  NEW ORLEANS LA ",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$1,105.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.060039,
+        "Longitude": -89.925854
+    },
+    {
         "Case #": "2023-10805",
         "Sales Date": "2/15/2024",
         "Property Status": "Scheduled",
@@ -1274,6 +1274,32 @@
         "Longitude": null
     },
     {
+        "Case #": "2023-1684",
+        "Sales Date": "2/15/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "NATIONSTAR MORTGAGE LLC vs EDDIE LOGAN,JR., (A/K/A) EDDIE LOGAN AND BRITTANY INEZ BRIDGES",
+        "Address/Description": "7040 E TAMARON BD  NEW ORLEANS LA 70128",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$169,564.63",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2023-11023",
+        "Sales Date": "2/15/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF PALASIDES MORTGAGE LOAN TRUST 2021-RTL1 vs BLUE DOOR HOME BUYERS LLC",
+        "Address/Description": "1816 ST PHILIP ST  NEW ORLEANS LA 70116",
+        "Picture": "",
+        "Attorney": "STEWART ROBBINS & BROWN & ALTAZAN LLC",
+        "Writ Amount": "$273,000.00",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.967167699999997,
+        "Longitude": -90.07268878138227
+    },
+    {
         "Case #": "2023-7573",
         "Sales Date": "2/15/2024",
         "Property Status": "Scheduled",
@@ -1285,6 +1311,32 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.97361325,
         "Longitude": -90.07402493123797
+    },
+    {
+        "Case #": "2023-9991",
+        "Sales Date": "2/15/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "FIRST HORIZON BANK vs DOUGLAS PLYMALE AND ALLEN E. PLYMALE",
+        "Address/Description": "1633 DUFOSSAT ST  NEW ORLEANS LA 70115",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLC",
+        "Writ Amount": "$1,567,200.27",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.92846735,
+        "Longitude": -90.11038254973923
+    },
+    {
+        "Case #": "2023 6476",
+        "Sales Date": "2/15/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "J.P. MORGAN MORTGAGE ACQUISITION CORP. vs DARRYL S. BRISTER A/K/A DARRYL SYLVESTER BRISTER",
+        "Address/Description": "6026-28 N VILLERE ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$32,852.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9627012,
+        "Longitude": -90.0103706
     },
     {
         "Case #": "2023-905",
