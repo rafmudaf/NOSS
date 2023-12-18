@@ -81,7 +81,7 @@
         "Case #": "2023-7059",
         "Sales Date": "12/21/2023",
         "Property Status": "Scheduled",
-        "Case Title": "FMM BUSHNELL, LLC vs LAROUGE WB INC.",
+        "Case Title": "FMM BUSHNELL LONG LAKES, LLC vs LAROUGE WB INC.",
         "Address/Description": "745 BARONNE ST  UNIT C-1 NEW ORLEANS LA 70113",
         "Picture": "",
         "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
@@ -100,8 +100,8 @@
         "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
         "Writ Amount": "$87,492.09",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.017422500000002,
-        "Longitude": -90.01412987085105
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2016-3487",
@@ -195,19 +195,6 @@
         "Longitude": -89.9945234
     },
     {
-        "Case #": "2023-5202",
-        "Sales Date": "1/18/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2022-RP3 vs ANH H. LUONG A/K/A ANH HOANG LUONG",
-        "Address/Description": "232 DECATUR ST  #2B NEW ORLEANS LA 70130",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$357,399.72",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2022-1000",
         "Sales Date": "1/18/2024",
         "Property Status": "Scheduled",
@@ -282,8 +269,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$66,743.58",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9234061,
+        "Longitude": -90.0794446
     },
     {
         "Case #": "2022-8802",
@@ -360,8 +347,8 @@
         "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
         "Writ Amount": "$92,120.37",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.00794095,
-        "Longitude": -90.10866590949843
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-4349",
@@ -503,8 +490,8 @@
         "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
         "Writ Amount": "$132,565.08",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.899946149999998,
+        "Longitude": -89.99836592463859
     },
     {
         "Case #": "2023-11523",
@@ -620,8 +607,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$4,705.00",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9625421,
+        "Longitude": -90.01670725
     },
     {
         "Case #": "2023-11758",
@@ -648,19 +635,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.97390255,
         "Longitude": -90.05991690173832
-    },
-    {
-        "Case #": "2023-11838",
-        "Sales Date": "2/8/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "HOME POINT FINANCIAL CORPORATION vs ROSA FLORIMON DELACRUZ",
-        "Address/Description": "4807 & 4809 N CLAIBORNE AV  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$264,677.39",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9739197,
-        "Longitude": -90.0480364
     },
     {
         "Case #": "2023-12008",
@@ -776,8 +750,8 @@
         "Attorney": "NEWMAN MATHIS BRADY & SPEDALE A PROFESSIONAL LAW CORPORATION",
         "Writ Amount": "$339,500.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.94446,
+        "Longitude": -90.079692
     },
     {
         "Case #": "2023-474",
@@ -841,8 +815,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$192,500.00",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9552274,
+        "Longitude": -90.1308492
     },
     {
         "Case #": "2023-11784",
@@ -1209,19 +1183,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2023-12101",
-        "Sales Date": "2/22/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "WILMINGTON SAVINGS FUND INDIVIDUALLY OR PERSONALLY BUT SOLELY AS LEGAL TITLE TRUSTEE OF BUNKER HILL LOAN DEPOSITARY TRUST 2019-3 vs JENNIIFER L. ZIMMERMAN A/K/A  JENNIFER ZIMMERMAN",
-        "Address/Description": "2725 PRENTISS AV  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
-        "Writ Amount": "$140,073.51",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0173205,
-        "Longitude": -90.04832833333333
-    },
-    {
         "Case #": "2023-12515",
         "Sales Date": "2/22/2024",
         "Property Status": "Scheduled",
@@ -1235,17 +1196,17 @@
         "Longitude": -90.0350321126953
     },
     {
-        "Case #": "2023-11055",
+        "Case #": "2023-12101",
         "Sales Date": "2/22/2024",
         "Property Status": "Scheduled",
-        "Case Title": "CITIZENS BANK N.A. FORMERLY KNOWN AS RBS CITIZENS, N.A. SUCCESSOR BY MERGER TO CHARTER ONE BANK, N.A. vs MARKETHY MCCLELLAN AND LATESSIA BROWN MCCLELLAN A/K/A LATESSIA B. MCCLELLAN  A/K/A LATESSIA MCCLELLAN A/K/A LATESSIA BROWN",
-        "Address/Description": "2130 N JOHNSON ST  NEW ORLEANS LA 70116",
+        "Case Title": "WILMINGTON SAVINGS FUND INDIVIDUALLY OR PERSONALLY BUT SOLELY AS LEGAL TITLE TRUSTEE OF BUNKER HILL LOAN DEPOSITARY TRUST 2019-3 vs JENNIIFER L. ZIMMERMAN A/K/A  JENNIFER ZIMMERMAN",
+        "Address/Description": "2725 PRENTISS AV  NEW ORLEANS LA 70122",
         "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$26,250.68",
+        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
+        "Writ Amount": "$140,073.51",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 30.0173205,
+        "Longitude": -90.04832833333333
     },
     {
         "Case #": "2022-3933",
@@ -1259,6 +1220,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.92333275,
         "Longitude": -90.10816865000001
+    },
+    {
+        "Case #": "2023-11055",
+        "Sales Date": "2/22/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "CITIZENS BANK N.A. FORMERLY KNOWN AS RBS CITIZENS, N.A. SUCCESSOR BY MERGER TO CHARTER ONE BANK, N.A. vs MARKETHY MCCLELLAN AND LATESSIA BROWN MCCLELLAN A/K/A LATESSIA B. MCCLELLAN  A/K/A LATESSIA MCCLELLAN A/K/A LATESSIA BROWN",
+        "Address/Description": "2130 N JOHNSON ST  NEW ORLEANS LA 70116",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$26,250.68",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.977530510204083,
+        "Longitude": -90.05859412244898
     },
     {
         "Case #": "2018-901",
@@ -1415,5 +1389,18 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.967391999999997,
         "Longitude": -90.05296966712325
+    },
+    {
+        "Case #": "2023-10017",
+        "Sales Date": "2/22/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "FAIRPORT ASSET MANAGEMENT II REO, LLC vs TRANG VAN PHAM AND NHAN THANH TRUONG",
+        "Address/Description": "6300-08 ST. CLAUDE AV  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "NEWMAN MATHIS BRADY & SPEDALE A PROFESSIONAL LAW CORPORATION",
+        "Writ Amount": "$234,565.34",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9588378,
+        "Longitude": -90.0091915
     }
 ]
