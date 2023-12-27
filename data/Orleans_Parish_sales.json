@@ -48,8 +48,8 @@
         "Attorney": "LOGS LEGAL GROUP LLP",
         "Writ Amount": "$67,519.30",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.921184850000003,
-        "Longitude": -90.1065264050286
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-5580",
@@ -113,8 +113,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$192,500.00",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9551315,
-        "Longitude": -90.1309466
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-5613",
@@ -198,7 +198,7 @@
         "Case #": " 2023-10812",
         "Sales Date": "1/25/2024",
         "Property Status": "Scheduled",
-        "Case Title": "GREENSPRING CAPITAL MANAGEMENT, LLC,NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS ADMINISTRATOR OF RMH 2023-1 TRUST vs SALLY LYNN SCHUR A/K/A SALLY LYNN SCHUR SELMAN",
+        "Case Title": "GREENSPRING CAPITAL MANAGEMENT, LLC, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS ADMINISTRATOR OF RMH 2023-1 TRUST vs SALLY LYNN SCHUR A/K/A SALLY LYNN SCHUR SELMAN",
         "Address/Description": "500-502 S GAYOSO ST  NEW ORLEANS LA 70119",
         "Picture": "",
         "Attorney": "DEAN MORRIS, LLC",
@@ -282,8 +282,8 @@
         "Attorney": "LOGS LEGAL GROUP LLC",
         "Writ Amount": "$273,074.84",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.019876500000002,
-        "Longitude": -90.05128514112081
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2021-9147",
@@ -373,8 +373,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$3,210.00",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.01590635,
-        "Longitude": -89.9837794465743
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-3224",
@@ -568,8 +568,8 @@
         "Attorney": "DWYER, CAMBRE & SUFERN",
         "Writ Amount": "$216,619.33",
         "Terms and Conditions": "With appraisal; 100% cash at the moment of adjudication.",
-        "Latitude": 29.92820081632653,
-        "Longitude": -90.0701837755102
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-7228",
@@ -919,8 +919,8 @@
         "Attorney": "THE SILVERSTEIN LAW FIRM, APLC",
         "Writ Amount": "$194,809.13",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9567223,
-        "Longitude": -90.0153389
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-10805",
@@ -1012,6 +1012,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.96924095,
         "Longitude": -90.12238355361558
+    },
+    {
+        "Case #": "2023-12182",
+        "Sales Date": "2/22/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "HANCOCK WHITNEY BANK vs EDITH SIERRA RODRIGUEZ WIFE OF/ AND WILSON L. RODRIGUEZ",
+        "Address/Description": "3600 N. HOMESTEAD DR  NEW ORLEANS LA 70114",
+        "Picture": "",
+        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
+        "Writ Amount": "$67,286.87",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.938248,
+        "Longitude": -90.01909941892295
     },
     {
         "Case #": "2023-12515",
