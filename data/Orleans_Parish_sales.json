@@ -48,8 +48,8 @@
         "Attorney": "LOGS LEGAL GROUP LLP",
         "Writ Amount": "$67,519.30",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.921184850000003,
+        "Longitude": -90.1065264050286
     },
     {
         "Case #": "2023-5580",
@@ -113,8 +113,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$192,500.00",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9551315,
+        "Longitude": -90.1309466
     },
     {
         "Case #": "2023-5613",
@@ -217,8 +217,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$162,254.55",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.92845675,
+        "Longitude": -90.00339047333489
     },
     {
         "Case #": "2023-7193",
@@ -282,8 +282,8 @@
         "Attorney": "LOGS LEGAL GROUP LLC",
         "Writ Amount": "$273,074.84",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 30.019876500000002,
+        "Longitude": -90.05128514112081
     },
     {
         "Case #": "2021-9147",
@@ -334,8 +334,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$121,241.38",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9617066,
+        "Longitude": -90.105393
     },
     {
         "Case #": "2022-2321",
@@ -737,8 +737,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$1,239.49",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.982511836734695,
+        "Longitude": -90.03662128571429
     },
     {
         "Case #": "2023-12256",
@@ -1361,8 +1361,8 @@
         "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
         "Writ Amount": "$493,538.54",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9870573,
+        "Longitude": -90.12185021767672
     },
     {
         "Case #": "2023-12653",
@@ -1374,8 +1374,8 @@
         "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
         "Writ Amount": "$236,066.59",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.98158505,
+        "Longitude": -90.10862346239543
     },
     {
         "Case #": "2023-2757",
@@ -1404,6 +1404,19 @@
         "Longitude": -89.97684244999999
     },
     {
+        "Case #": "2023-11716",
+        "Sales Date": "2/29/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "CARRINGTON MORTGAGE SERVICES LLC vs THE UNOPENED SUCCESSION OF AND UNKNOWN HEIRS OF ROSEMARY WOODS HARBOR A/K/A ROSEMARY WOODS HARBOR A/K/A ROSEMARY W. HARBOR A/K/A ROSEMARY HARBOR",
+        "Address/Description": "1024 REYNES ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$89,958.29",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.962092050000003,
+        "Longitude": -90.02268784458299
+    },
+    {
         "Case #": "2022-2589",
         "Sales Date": "2/29/2024",
         "Property Status": "Scheduled",
@@ -1415,6 +1428,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.9598005,
         "Longitude": -90.0143604
+    },
+    {
+        "Case #": "2019-4799",
+        "Sales Date": "2/29/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "REGIONS BANK DBA REGIONS MORTGAGE SUCCESSOR BY MERGER TO UNION PLANTERS BANK, N.A. vs HUBERT B. CLARK, JR. NIKKI THOMAS LAURENT A/K/A NIKKI T. LAURENT A/K/A NIKKI LAURENT, AND MARC MORRIS, IN HIS CAPACITY AS NATURAL TUTOR FOR BAILEY LYNN THOMAS",
+        "Address/Description": "4518 CAMELOT DR  NEW ORLEANS LA 70127",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$61,179.05",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.01710835,
+        "Longitude": -89.98214172825
     },
     {
         "Case #": "2023-12630",
@@ -1430,6 +1456,19 @@
         "Longitude": -90.0371314446154
     },
     {
+        "Case #": " 2023-11310",
+        "Sales Date": "2/29/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "WELLS FARGO BANK, N.A. vs ERIC MICHEAL LAMBERT, DANIEL LUKE LAMBERT AND ADAM STEWART LAMBERT",
+        "Address/Description": "4826 COPERNICUS ST  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$76,840.56",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.930979299999997,
+        "Longitude": -90.00376093095447
+    },
+    {
         "Case #": "2023-11983",
         "Sales Date": "2/29/2024",
         "Property Status": "Scheduled",
@@ -1443,6 +1482,19 @@
         "Longitude": -90.00453473546546
     },
     {
+        "Case #": "2023-12546",
+        "Sales Date": "2/29/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "CARRINGTON MORTGAGE SERVICES LLC vs THE UNOPENED SUCCESSION OF AND UNKNOWN HEIRS OF ROBERT J.THOMAS A/K/A ROBERT J. THOMAS A/K/A ROBERT THOMAS",
+        "Address/Description": "1820 JOLIET ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
+        "Writ Amount": "$131,401.64",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.954582408163265,
+        "Longitude": -90.12848840816326
+    },
+    {
         "Case #": "2023-13151",
         "Sales Date": "2/29/2024",
         "Property Status": "Scheduled",
@@ -1454,5 +1506,18 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.003533849999997,
         "Longitude": -90.04950919584326
+    },
+    {
+        "Case #": "2023-13074",
+        "Sales Date": "2/29/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "REGIONS vs NEHEMIAH LUCAS",
+        "Address/Description": "4442 KENNON AV  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLP",
+        "Writ Amount": "$153,557.87",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.0031019,
+        "Longitude": -90.08049086983516
     }
 ]
