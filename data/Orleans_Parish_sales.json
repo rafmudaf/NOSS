@@ -9,8 +9,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$675.00",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.02173226787633,
-        "Longitude": -89.99099002042144
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-7177",
@@ -763,8 +763,8 @@
         "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
         "Writ Amount": "$140,073.51",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0173205,
-        "Longitude": -90.04832833333333
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-10017",
@@ -880,8 +880,8 @@
         "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
         "Writ Amount": "$157,805.10",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0479476,
-        "Longitude": -89.97697245
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2024-903",
@@ -919,8 +919,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$117,671.43",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.94098105,
-        "Longitude": -90.03197252092451
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-6423",
@@ -958,8 +958,8 @@
         "Attorney": "LOGS LEGAL GROUP LLC",
         "Writ Amount": "$131,479.16",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.020720750000002,
-        "Longitude": -89.99443538574438
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-5114",
@@ -1075,8 +1075,8 @@
         "Attorney": "ADAMS AND REESE LLP",
         "Writ Amount": "$130,000.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 30.01221915,
+        "Longitude": -90.05548020155425
     },
     {
         "Case #": "2024-227",
@@ -1192,8 +1192,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$133,901.23",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0262035,
-        "Longitude": -89.9585943288455
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2019-13330",
@@ -1231,8 +1231,8 @@
         "Attorney": "LOGS LEGAL GROUP LLP",
         "Writ Amount": "$133,663.10",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.98033455,
-        "Longitude": -90.05025957553266
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-11801",
@@ -1374,8 +1374,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$1,710.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.967951142857142,
-        "Longitude": -90.07690285714287
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2024-1270",
@@ -1413,8 +1413,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$86,341.60",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.98920795,
-        "Longitude": -90.07096689509194
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2021-6829",
@@ -1426,8 +1426,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$81,358.19",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9825666,
-        "Longitude": -90.04723135223472
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2019-2190",
@@ -1738,7 +1738,7 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$17,390.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9411146,
-        "Longitude": -90.0849858
+        "Latitude": null,
+        "Longitude": null
     }
 ]
