@@ -48,8 +48,8 @@
         "Attorney": "THE STEEG LAW FIRM, L.L.C.",
         "Writ Amount": "",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9682699,
-        "Longitude": -90.0631519
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-7469",
@@ -360,8 +360,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$26,250.68",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.977530510204083,
-        "Longitude": -90.05859412244898
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-10906",
@@ -828,8 +828,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$153,382.50",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.047841249999998,
-        "Longitude": -89.97354425309783
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2019-13330",
@@ -975,6 +975,19 @@
         "Longitude": -89.98368232392215
     },
     {
+        "Case #": "2024-445",
+        "Sales Date": "5/23/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "HOME BANK, N.A. vs KHRISTY LYNN TOUSSAINT",
+        "Address/Description": "1406 CAFFIN ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "NEWMAN MATHIS BRADY & SPEDALE A PROFESSIONAL LAW CORPORATION",
+        "Writ Amount": "$65,173.67",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
         "Case #": "2022-10350",
         "Sales Date": "5/23/2024",
         "Property Status": "Scheduled",
@@ -1049,19 +1062,6 @@
         "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
         "Writ Amount": "$273,946.02",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2024-445",
-        "Sales Date": "5/23/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "HOME BANK, N.A. vs KHRISTY LYNN TOUSSAINT",
-        "Address/Description": "1406 CAFFIN ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "NEWMAN MATHIS BRADY & SPEDALE A PROFESSIONAL LAW CORPORATION",
-        "Writ Amount": "$65,173.67",
-        "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
     },
@@ -1261,30 +1261,43 @@
         "Longitude": null
     },
     {
-        "Case #": "2024-248",
+        "Case #": "2023-12208",
         "Sales Date": "5/30/2024",
         "Property Status": "Scheduled",
-        "Case Title": "FIDELITY BANK vs GUSTAVO PAUL ESCANELLE, JR.",
-        "Address/Description": "3205 CARONDELET ST  UNIT 101 NEW ORLEANS LA 70115",
+        "Case Title": "GULF COAST BANK AND TRUST vs GREENLEE CONSTRUCTION, LLC AND THADDEUS J. GREENLEE",
+        "Address/Description": "2418 PAUGER ST  NEW ORLEANS LA 70116",
         "Picture": "",
-        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
-        "Writ Amount": "$231,465.48",
+        "Attorney": "NEWMAN MATHIS BRADY & SPEDALE A PROFESSIONAL LAW CORPORATION",
+        "Writ Amount": "$137,278.13",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.97467406122449,
+        "Longitude": -90.06098402040817
     },
     {
-        "Case #": "2023-7841",
+        "Case #": "2023-12208",
         "Sales Date": "5/30/2024",
         "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF2 ACQISITION TRUST vs TALAIR MARIE BERNARD A/K/A TALAIR MARIE BERNARD ADAMS",
-        "Address/Description": "4750 REDWOOD ST  NEW ORLEANS LA 70127",
+        "Case Title": "GULF COAST BANK AND TRUST vs GREENLEE CONSTRUCTION, LLC AND THADDEUS J. GREENLEE",
+        "Address/Description": "1833-1835 ST FERDINAND ST  NEW ORLEANS LA 70117",
         "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$26,882.48",
+        "Attorney": "",
+        "Writ Amount": "$137,278.13",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.022487599999998,
-        "Longitude": -89.96952970627174
+        "Latitude": 29.976049795918367,
+        "Longitude": -90.04587202040815
+    },
+    {
+        "Case #": "2024-259",
+        "Sales Date": "5/30/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs CHARLEEN M. MABON OR HER SUCCESSORS, HEIRS, AND ASSIGNS IF DECEASED",
+        "Address/Description": "814 N GALVEZ ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$1,710.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.967951142857142,
+        "Longitude": -90.07690285714287
     },
     {
         "Case #": "2023-13625",
@@ -1313,17 +1326,30 @@
         "Longitude": null
     },
     {
-        "Case #": "2024-259",
+        "Case #": "2024-248",
         "Sales Date": "5/30/2024",
         "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs CHARLEEN M. MABON OR HER SUCCESSORS, HEIRS, AND ASSIGNS IF DECEASED",
-        "Address/Description": "814 N GALVEZ ST  NEW ORLEANS LA 70119",
+        "Case Title": "FIDELITY BANK vs GUSTAVO PAUL ESCANELLE, JR.",
+        "Address/Description": "3205 CARONDELET ST  UNIT 101 NEW ORLEANS LA 70115",
         "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$1,710.00",
+        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
+        "Writ Amount": "$231,465.48",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.967951142857142,
-        "Longitude": -90.07690285714287
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2023-7841",
+        "Sales Date": "5/30/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF2 ACQISITION TRUST vs TALAIR MARIE BERNARD A/K/A TALAIR MARIE BERNARD ADAMS",
+        "Address/Description": "4750 REDWOOD ST  NEW ORLEANS LA 70127",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$26,882.48",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.022487599999998,
+        "Longitude": -89.96952970627174
     },
     {
         "Case #": "2024-334",
@@ -1404,30 +1430,17 @@
         "Longitude": -90.07028951989341
     },
     {
-        "Case #": "2023-13305",
+        "Case #": "2024-444",
         "Sales Date": "6/6/2024",
         "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs UNIVERSAL ADVERTISING INC. AND E. JORDAN MACKIE (A/K/A EARL JORDAN MACKIE)",
-        "Address/Description": "6110 HAYNE BD  NEW ORLEANS LA 70126",
+        "Case Title": "FIRST AMERICAN BANK AND TRUST vs AMAYA CONSTRUCTION CONSULTING, LLC",
+        "Address/Description": "1812 NEW ORLEANS ST  NEW ORLEANS LA 70116",
         "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$5,210.00",
+        "Attorney": "NEWMAN MATHIS BRADY & SPEDALE A PROFESSIONAL LAW CORPORATION",
+        "Writ Amount": "$185,544.35",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
-        "Case #": "2023-8165",
-        "Sales Date": "6/6/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK NATIONAL ASSOCIATION vs RAYMOND CURTIS DANGERFIELD",
-        "Address/Description": "2609 PAUGER ST  NEW ORLEANS LA 70116",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$20,238.13",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.976781799999998,
-        "Longitude": -90.06081126308382
+        "Latitude": 29.9754607,
+        "Longitude": -90.065766
     },
     {
         "Case #": "2023-13306",
@@ -1456,17 +1469,30 @@
         "Longitude": -89.95483861088894
     },
     {
-        "Case #": "2024-444",
+        "Case #": "2023-13305",
         "Sales Date": "6/6/2024",
         "Property Status": "Scheduled",
-        "Case Title": "FIRST AMERICAN BANK AND TRUST vs AMAYA CONSTRUCTION CONSULTING, LLC",
-        "Address/Description": "1812 NEW ORLEANS ST  NEW ORLEANS LA 70116",
+        "Case Title": "CITY OF NEW ORLEANS vs UNIVERSAL ADVERTISING INC. AND E. JORDAN MACKIE (A/K/A EARL JORDAN MACKIE)",
+        "Address/Description": "6110 HAYNE BD  NEW ORLEANS LA 70126",
         "Picture": "",
-        "Attorney": "NEWMAN MATHIS BRADY & SPEDALE A PROFESSIONAL LAW CORPORATION",
-        "Writ Amount": "$185,544.35",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$5,210.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9754607,
-        "Longitude": -90.065766
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2023-8165",
+        "Sales Date": "6/6/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK NATIONAL ASSOCIATION vs RAYMOND CURTIS DANGERFIELD",
+        "Address/Description": "2609 PAUGER ST  NEW ORLEANS LA 70116",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$20,238.13",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.976781799999998,
+        "Longitude": -90.06081126308382
     },
     {
         "Case #": "2022-3081",
