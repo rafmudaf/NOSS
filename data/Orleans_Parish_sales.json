@@ -35,8 +35,8 @@
         "Attorney": "ADAMS AND REESE LLP",
         "Writ Amount": "$547,500.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9391592,
+        "Longitude": -90.07324776460084
     },
     {
         "Case #": "2023-2622",
@@ -659,8 +659,8 @@
         "Attorney": "JACKSON & MCPHERSON, LLC",
         "Writ Amount": "$215,118.24",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.973539163265308,
-        "Longitude": -90.07086967346939
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-5114",
@@ -776,8 +776,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$117,671.43",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.94098105,
-        "Longitude": -90.03197252092451
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-2303",
@@ -789,8 +789,8 @@
         "Attorney": "LOGS LEGAL GROUP LLP",
         "Writ Amount": "$133,663.10",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.98033455,
-        "Longitude": -90.05025957553266
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-6222",
@@ -828,8 +828,8 @@
         "Attorney": "LOGS LEGAL GROUP LLP",
         "Writ Amount": "$244,099.03",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9685912,
-        "Longitude": -90.0761532
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-539",
@@ -867,8 +867,8 @@
         "Attorney": "DEAN MORRIS, LLC",
         "Writ Amount": "$386,550.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.97165425,
+        "Longitude": -90.07826600122024
     },
     {
         "Case #": "2023-2069",
@@ -975,19 +975,6 @@
         "Longitude": -89.96905869520172
     },
     {
-        "Case #": "2024-1884",
-        "Sales Date": "5/23/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "HOPE FEDERAL CREDIT UNION vs TERRY J. ALLEN AKA TERRY ALLEN AND TERRY ALLEN IRREVOCABLE TRUST",
-        "Address/Description": "7600 SYMMES AV  NEW ORLEANS LA 70127",
-        "Picture": "",
-        "Attorney": "WATSON, MCMILLIN & STREET, LLP",
-        "Writ Amount": "$145,000.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.0453402,
-        "Longitude": -89.98368232392215
-    },
-    {
         "Case #": "2022-10350",
         "Sales Date": "5/23/2024",
         "Property Status": "Scheduled",
@@ -999,6 +986,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2024-1884",
+        "Sales Date": "5/23/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "HOPE FEDERAL CREDIT UNION vs TERRY J. ALLEN AKA TERRY ALLEN AND TERRY ALLEN IRREVOCABLE TRUST",
+        "Address/Description": "7600 SYMMES AV  NEW ORLEANS LA 70127",
+        "Picture": "",
+        "Attorney": "WATSON, MCMILLIN & STREET, LLP",
+        "Writ Amount": "$145,000.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.0453402,
+        "Longitude": -89.98368232392215
     },
     {
         "Case #": "2024-941",
@@ -1218,8 +1218,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$81,358.19",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9825666,
-        "Longitude": -90.04723135223472
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2019-2190",
@@ -1270,8 +1270,8 @@
         "Attorney": "",
         "Writ Amount": "$14,518.70",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.93908215,
+        "Longitude": -90.02387476310842
     },
     {
         "Case #": "2023-12515",
@@ -1517,8 +1517,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$17,390.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9411146,
-        "Longitude": -90.0849858
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-4824",
@@ -1727,6 +1727,45 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 30.01566755,
         "Longitude": -89.99526710839895
+    },
+    {
+        "Case #": "2024-1900",
+        "Sales Date": "6/27/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE ON BEHALF OF ANTLER MORTGAGE LOAN TRUST 2021-RTL1 vs MODERN BUILDER OF LOUISIANA LLC AND RODNEY CORDOVA SR.",
+        "Address/Description": "7154 W LAVERNE ST  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$103,050.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.02524884,
+        "Longitude": -90.02154956
+    },
+    {
+        "Case #": "2024-1964",
+        "Sales Date": "6/27/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "REGIONS BANK DBA REGIONS MORTGAGE vs BARBARA M. MATTHEWS A/K/A BARBARA MATTHEWS",
+        "Address/Description": "1425 HENRIETTE DELILLE ST  NEW ORLEANS LA 70116",
+        "Picture": "",
+        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
+        "Writ Amount": "$51,349.12",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9671581,
+        "Longitude": -90.0640988
+    },
+    {
+        "Case #": "2024-1803",
+        "Sales Date": "6/27/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF MFA 2023-NQM2 TRUST vs RENE KEY, JR.",
+        "Address/Description": "5033 WARREN DR  NEW ORLEANS LA 70127",
+        "Picture": "",
+        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
+        "Writ Amount": "$201,569.84",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.02662205,
+        "Longitude": -89.96643235072283
     },
     {
         "Case #": "2024-1852",
