@@ -104,19 +104,6 @@
         "Longitude": -90.02387476310842
     },
     {
-        "Case #": "2023-13305",
-        "Sales Date": "6/6/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs UNIVERSAL ADVERTISING INC. AND E. JORDAN MACKIE (A/K/A EARL JORDAN MACKIE)",
-        "Address/Description": "6110 HAYNE BD  NEW ORLEANS LA 70126",
-        "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$5,210.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2023-13306",
         "Sales Date": "6/6/2024",
         "Property Status": "Scheduled",
@@ -347,8 +334,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$17,390.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9411146,
-        "Longitude": -90.0849858
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2023-12629",
@@ -1287,19 +1274,6 @@
         "Longitude": -90.03174932653062
     },
     {
-        "Case #": "2024-2485",
-        "Sales Date": "7/18/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "EUSTIS MORTGAGE CORPORATION vs WESLEY TYLER ROSSI AND HEATHER MICHELE SANDEL",
-        "Address/Description": "1925 S DUPRE ST  NEW ORLEANS LA 70125",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON",
-        "Writ Amount": "$450,810.97",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9500994,
-        "Longitude": -90.10371689376954
-    },
-    {
         "Case #": "2023-13625",
         "Sales Date": "7/18/2024",
         "Property Status": "Scheduled",
@@ -1714,6 +1688,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.930979299999997,
         "Longitude": -90.00376093095447
+    },
+    {
+        "Case #": "2023-11401",
+        "Sales Date": "8/8/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "JEFFERSON FINANCIAL FEDERAL CREDIT UNION vs KEITH JACKSON",
+        "Address/Description": "931 N ROBERTSON ST  NEW ORLEANS LA 70116",
+        "Picture": "",
+        "Attorney": "D'AQUILA, CONTRERAS AND VEGA, APLC",
+        "Writ Amount": "$221,840.32",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.96529930612245,
+        "Longitude": -90.07087175510205
     },
     {
         "Case #": "2024-3192",
