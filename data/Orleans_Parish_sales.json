@@ -191,8 +191,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$4,855.00",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.92229675,
-        "Longitude": -89.98462023964743
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-1121",
@@ -271,19 +271,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.897804700000002,
         "Longitude": -90.00036119101694
-    },
-    {
-        "Case #": "2024-327",
-        "Sales Date": "6/13/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR HOMES MORTGAGE TRUST vs PELICAN PROS,LLC AND KEITH MCGUIDE",
-        "Address/Description": "2553-2555 N MIRO ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$151,659.55",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.980366500000002,
-        "Longitude": -90.04923803451584
     },
     {
         "Case #": "2023-11172",
@@ -1157,19 +1144,6 @@
         "Longitude": -90.0236216
     },
     {
-        "Case #": "2024-2271",
-        "Sales Date": "7/18/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF THE COLT 2020-RPL1 TRUST vs ALIDA JOHNSON A/K/A ALIDA MOORE JOHNSON A/K/A ALIDA M. JOHNSON AND ROBERT JOHNSON, SR. A/K/A ROBERT R. JOHNSON, SR. A/K/A ROBERT R. JOHNSON A/K/A ROBERT JOHNSON",
-        "Address/Description": "3953 PEACHTREE CT  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
-        "Writ Amount": "$115,994.50",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
-    },
-    {
         "Case #": "2021-7405",
         "Sales Date": "7/18/2024",
         "Property Status": "Scheduled",
@@ -1335,8 +1309,21 @@
         "Attorney": "NEWMAN MATHIS BRADY & SPEDALE A PROFESSIONAL LAW CORPORATION",
         "Writ Amount": "$400,893.63",
         "Terms and Conditions": "With appraisal; 100% cash at the moment of adjudication.",
-        "Latitude": 29.903327708741624,
-        "Longitude": -89.95727789316625
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2023-13275",
+        "Sales Date": "7/25/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2020-1 vs MRS HELEN'S LLC",
+        "Address/Description": "5161 LAKEVIEW CT  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "DWYER, CAMBRE & SUFFERN, APLC",
+        "Writ Amount": "$134,760.07",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.0233614,
+        "Longitude": -90.0119841
     },
     {
         "Case #": " 2023-10307",
@@ -1508,6 +1495,19 @@
         "Longitude": -90.11041565127823
     },
     {
+        "Case #": "2024-1884",
+        "Sales Date": "8/8/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "HOPE FEDERAL CREDIT UNION vs TERRY J. ALLEN AKA TERRY ALLEN AND TERRY ALLEN IRREVOCABLE TRUST",
+        "Address/Description": "7600 SYMMES AV  NEW ORLEANS LA 70127",
+        "Picture": "",
+        "Attorney": "WATSON, MCMILLIN & STREET, LLP",
+        "Writ Amount": "$145,000.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.0453402,
+        "Longitude": -89.98368232392215
+    },
+    {
         "Case #": "2022-11588",
         "Sales Date": "8/8/2024",
         "Property Status": "Scheduled",
@@ -1586,19 +1586,6 @@
         "Longitude": -90.04728393877551
     },
     {
-        "Case #": "2024-223",
-        "Sales Date": "8/15/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "CITIBANK, N.A., NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF NEW RESIDENTAL MORTGAGE LOAN TRUST 2018-3 vs DEWAWN THOMAS HATCHER AND AUCION L. HATCHER",
-        "Address/Description": "2334 N MIRO ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$32,882.32",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.979756950000002,
-        "Longitude": -90.05432616615974
-    },
-    {
         "Case #": "2024-1442",
         "Sales Date": "8/15/2024",
         "Property Status": "Scheduled",
@@ -1610,6 +1597,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2024-223",
+        "Sales Date": "8/15/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "CITIBANK, N.A., NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF NEW RESIDENTAL MORTGAGE LOAN TRUST 2018-3 vs DEWAWN THOMAS HATCHER AND AUCION L. HATCHER",
+        "Address/Description": "2334 N MIRO ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$32,882.32",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.979756950000002,
+        "Longitude": -90.05432616615974
     },
     {
         "Case #": "2017-11454",
@@ -1781,19 +1781,6 @@
         "Longitude": -90.02587830147735
     },
     {
-        "Case #": "2024-1803",
-        "Sales Date": "8/29/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF MFA 2023-NQM2 TRUST vs RENE KEY, JR.",
-        "Address/Description": "5033 WARREN DR  NEW ORLEANS LA 70127",
-        "Picture": "",
-        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
-        "Writ Amount": "$201,569.84",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.02662205,
-        "Longitude": -89.96643235072283
-    },
-    {
         "Case #": "2023-2251",
         "Sales Date": "8/29/2024",
         "Property Status": "Scheduled",
@@ -1818,6 +1805,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2024-1803",
+        "Sales Date": "8/29/2024",
+        "Property Status": "Scheduled",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF MFA 2023-NQM2 TRUST vs RENE KEY, JR.",
+        "Address/Description": "5033 WARREN DR  NEW ORLEANS LA 70127",
+        "Picture": "",
+        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
+        "Writ Amount": "$201,569.84",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.02662205,
+        "Longitude": -89.96643235072283
     },
     {
         "Case #": "2020-9196",
@@ -2000,18 +2000,5 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.91766718367347,
         "Longitude": -90.10682824489797
-    },
-    {
-        "Case #": "2024-3843",
-        "Sales Date": "9/5/2024",
-        "Property Status": "Scheduled",
-        "Case Title": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC vs LYNETTE WILLIAMS BAILEY A/K/A LYNETTE W. BAILEY A/K/A LYNETTE BAILEY, KENNETH WILLIAMS, JR. AND ERIC D. LOUIS A/K/A ERIC LOUIS, HEIRS OF LUCY SULLIVAN LOUIS",
-        "Address/Description": "11201 N IDLEWOOD CT  NEW ORLEANS LA 70128",
-        "Picture": "",
-        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
-        "Writ Amount": "$98,246.35",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.03333645,
-        "Longitude": -89.95812935645658
     }
 ]
