@@ -750,8 +750,8 @@
         "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
         "Writ Amount": "$95,818.60",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.937642382550337,
-        "Longitude": -90.01876748993288
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2022-5140",
@@ -1313,6 +1313,19 @@
         "Longitude": null
     },
     {
+        "Case #": "2024-4235",
+        "Sales Date": "2/20/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF HOMES 2023-NQM1 TRUST vs ELIZABETH L. ROTHOUSE",
+        "Address/Description": "4225-4227 TCHOUPITOULAS ST  NEW ORLEANS LA 70115",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLP",
+        "Writ Amount": "$361,407.66",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9173975,
+        "Longitude": -90.0994252
+    },
+    {
         "Case #": "2024-754",
         "Sales Date": "2/20/2025",
         "Property Status": "Scheduled",
@@ -1337,19 +1350,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.9504448,
         "Longitude": -90.11041565127823
-    },
-    {
-        "Case #": "2024-4235",
-        "Sales Date": "2/20/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF HOMES 2023-NQM1 TRUST vs ELIZABETH L. ROTHOUSE",
-        "Address/Description": "4225-4227 TCHOUPITOULAS ST  NEW ORLEANS LA 70115",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLP",
-        "Writ Amount": "$361,407.66",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9173975,
-        "Longitude": -90.0994252
     },
     {
         "Case #": "2023-11488",
@@ -1573,6 +1573,19 @@
         "Longitude": -90.11799057113896
     },
     {
+        "Case #": "2024-9005",
+        "Sales Date": "2/20/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs BULLARD CENTER INVESTMENTS, LLC",
+        "Address/Description": "6001 BULLARD AV  NEW ORLEANS LA 70128",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$15,970.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.04344062629431,
+        "Longitude": -89.95912552608722
+    },
+    {
         "Case #": "2024-9420",
         "Sales Date": "2/20/2025",
         "Property Status": "Scheduled",
@@ -1584,45 +1597,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.9380148,
         "Longitude": -90.1093215
-    },
-    {
-        "Case #": "2024-8776",
-        "Sales Date": "2/20/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "AMERICAN BANK vs SPLENDIDLY BLENDED WE, LLC",
-        "Address/Description": "2123-2125 LAUREL ST  NEW ORLEANS LA 70130",
-        "Picture": "",
-        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE A PROFESSIONAL LAW CORP",
-        "Writ Amount": "$375,013.04",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.928387,
-        "Longitude": -90.0749179
-    },
-    {
-        "Case #": "2024-8843",
-        "Sales Date": "2/20/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST vs BRIDGET A. HIGGINBOTHAM",
-        "Address/Description": "6441 LOUIS XIV ST  NEW ORLEANS LA 70124",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$308,687.06",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.00794095,
-        "Longitude": -90.10866590949843
-    },
-    {
-        "Case #": "2024-8433",
-        "Sales Date": "2/20/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION vs AMY ELIZABETH MARSHALL",
-        "Address/Description": "5805 ELYSIAN FIELDS AV  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$336,266.93",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.018270657894735,
-        "Longitude": -90.06109996052632
     },
     {
         "Case #": "2023-11746",
@@ -1638,17 +1612,43 @@
         "Longitude": -90.0759118
     },
     {
-        "Case #": "2024-9005",
+        "Case #": "2024-8433",
         "Sales Date": "2/20/2025",
         "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs BULLARD CENTER INVESTMENTS, LLC",
-        "Address/Description": "6001 BULLARD AV  NEW ORLEANS LA 70128",
+        "Case Title": "FEDERAL HOME LOAN MORTGAGE CORPORATION vs AMY ELIZABETH MARSHALL",
+        "Address/Description": "5805 ELYSIAN FIELDS AV  NEW ORLEANS LA 70122",
         "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$15,970.00",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$336,266.93",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.018270657894735,
+        "Longitude": -90.06109996052632
+    },
+    {
+        "Case #": "2024-8843",
+        "Sales Date": "2/20/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST vs BRIDGET A. HIGGINBOTHAM",
+        "Address/Description": "6441 LOUIS XIV ST  NEW ORLEANS LA 70124",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$308,687.06",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.04344062629431,
-        "Longitude": -89.95912552608722
+        "Latitude": 30.00794095,
+        "Longitude": -90.10866590949843
+    },
+    {
+        "Case #": "2024-8776",
+        "Sales Date": "2/20/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "AMERICAN BANK vs SPLENDIDLY BLENDED WE, LLC",
+        "Address/Description": "2123-2125 LAUREL ST  NEW ORLEANS LA 70130",
+        "Picture": "",
+        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE A PROFESSIONAL LAW CORP",
+        "Writ Amount": "$375,013.04",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.928387,
+        "Longitude": -90.0749179
     },
     {
         "Case #": "2024-9284",
@@ -1662,6 +1662,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.97038,
         "Longitude": -90.036731
+    },
+    {
+        "Case #": "2024-9667",
+        "Sales Date": "2/27/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs MICHAEL HEBERT AND CONNIE C. HEBERT (A/K/A CONNIE ANN CORMIER HEBERT) OR HER SUCCESSORS, HEIRS, AND ASSIGNS",
+        "Address/Description": "3417 PINE ST  NEW ORLEANS LA 70125",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$560.50",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.960728,
+        "Longitude": -90.109292
     },
     {
         "Case #": "2024-9440",
@@ -1688,19 +1701,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.96893085,
         "Longitude": -90.1019857203172
-    },
-    {
-        "Case #": "2024-9667",
-        "Sales Date": "2/27/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs MICHAEL HEBERT AND CONNIE C. HEBERT (A/K/A CONNIE ANN CORMIER HEBERT) OR HER SUCCESSORS, HEIRS, AND ASSIGNS",
-        "Address/Description": "3417 PINE ST  NEW ORLEANS LA 70125",
-        "Picture": "",
-        "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$560.50",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.960728,
-        "Longitude": -90.109292
     },
     {
         "Case #": "2024-9606",
@@ -2119,19 +2119,6 @@
         "Longitude": null
     },
     {
-        "Case #": "2024-9203",
-        "Sales Date": "3/13/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "CITIGROUP MORTGAGE LOAN TRUST 2018-B vs MARY WHITAKER FLEMING A/K/A MARY W. FLEMING A/K/A MARY FLEMING, ROSE MARY FREDERICK A/K/A ROSE M. FREDERICK A/K/A ROSE FREDERICK, LYNN M. WHITKER A/K/A LYNN WHITAKER, ERIC J. WHITAKER A/K/A ERIC WHITAKER, KAREN C. WHITAKER A/K/A KAREN WHITAKER, AND GARY BURNS, HEIRS OF GLORIA MAE BURNS A/K/A GLORIA M. BURNS A/K/A GLORIA BURNS AND ARTHUR BURNS A/K/A ARTHUR BURNS, JR.",
-        "Address/Description": "2000-2002 PAINTERS ST  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
-        "Writ Amount": "$48,848.69",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.978219199999998,
-        "Longitude": -90.04967283483057
-    },
-    {
         "Case #": "2024-7592",
         "Sales Date": "3/13/2025",
         "Property Status": "Scheduled",
@@ -2143,6 +2130,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.9623149,
         "Longitude": -90.1121762
+    },
+    {
+        "Case #": "2024-9203",
+        "Sales Date": "3/13/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "CITIGROUP MORTGAGE LOAN TRUST 2018-B vs MARY WHITAKER FLEMING A/K/A MARY W. FLEMING A/K/A MARY FLEMING, ROSE MARY FREDERICK A/K/A ROSE M. FREDERICK A/K/A ROSE FREDERICK, LYNN M. WHITKER A/K/A LYNN WHITAKER, ERIC J. WHITAKER A/K/A ERIC WHITAKER, KAREN C. WHITAKER A/K/A KAREN WHITAKER, AND GARY BURNS, HEIRS OF GLORIA MAE BURNS A/K/A GLORIA M. BURNS A/K/A GLORIA BURNS AND ARTHUR BURNS A/K/A ARTHUR BURNS, JR.",
+        "Address/Description": "2000-2002 PAINTERS ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "LAW OFFICES OF HERSCHEL C. ADCOCK, JR. LLC",
+        "Writ Amount": "$48,848.69",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.978219199999998,
+        "Longitude": -90.04967283483057
     },
     {
         "Case #": "2024-9976",
@@ -2197,6 +2197,19 @@
         "Longitude": null
     },
     {
+        "Case #": "2023-10235",
+        "Sales Date": "3/13/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "CITY OF NEW ORLEANS vs THE LOFT (A/K/A THE LOFT INC.) AND SANDRA P. MARTIN",
+        "Address/Description": "2201 DELERY ST  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$1,710.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.969587,
+        "Longitude": -90.002953
+    },
+    {
         "Case #": "2023-1840",
         "Sales Date": "3/13/2025",
         "Property Status": "Scheduled",
@@ -2223,30 +2236,17 @@
         "Longitude": -90.11533094896711
     },
     {
-        "Case #": "2024-3956",
+        "Case #": "2024-7284",
         "Sales Date": "3/20/2025",
         "Property Status": "Scheduled",
-        "Case Title": "MOVEMENT MORTGAGE, LLC vs RAGENE D. BARRETT A/K/A RA'GENE BARRETT",
-        "Address/Description": "1100 MERRILL ST  NEW ORLEANS LA 70114",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$116,409.56",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.945851750000003,
-        "Longitude": -90.02541935589184
-    },
-    {
-        "Case #": "2024-7559",
-        "Sales Date": "3/20/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs WARREN J. DONALD, JR. (AKA WARREN JOSEPH DONALD JR.) OR HIS SUCCESSOR, HEIRS, AND ASSIGNS",
-        "Address/Description": "2849 LOUISA ST  NEW ORLEANS LA 70126",
+        "Case Title": "CITY OF NEW ORLEANS vs SUCCESSION OF LEON S. MUSACCHIA AND SUCCESSION OF FLORENCE DORN MUSACCHIA",
+        "Address/Description": "5700 VICKSBURG ST  NEW ORLEANS LA 70124",
         "Picture": "",
         "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$2,210.00",
+        "Writ Amount": "$550,420.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.98676,
-        "Longitude": -90.03625545315018
+        "Latitude": 29.99424025,
+        "Longitude": -90.10821854880632
     },
     {
         "Case #": "2024-1041",
@@ -2275,17 +2275,30 @@
         "Longitude": -90.0137743
     },
     {
-        "Case #": "2024-7284",
+        "Case #": "2024-7559",
         "Sales Date": "3/20/2025",
         "Property Status": "Scheduled",
-        "Case Title": "CITY OF NEW ORLEANS vs SUCCESSION OF LEON S. MUSACCHIA AND SUCCESSION OF FLORENCE DORN MUSACCHIA",
-        "Address/Description": "5700 VICKSBURG ST  NEW ORLEANS LA 70124",
+        "Case Title": "CITY OF NEW ORLEANS vs WARREN J. DONALD, JR. (AKA WARREN JOSEPH DONALD JR.) OR HIS SUCCESSOR, HEIRS, AND ASSIGNS",
+        "Address/Description": "2849 LOUISA ST  NEW ORLEANS LA 70126",
         "Picture": "",
         "Attorney": "CITY OF NEW ORLEANS",
-        "Writ Amount": "$550,420.00",
+        "Writ Amount": "$2,210.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.99424025,
-        "Longitude": -90.10821854880632
+        "Latitude": 29.98676,
+        "Longitude": -90.03625545315018
+    },
+    {
+        "Case #": "2024-3956",
+        "Sales Date": "3/20/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "MOVEMENT MORTGAGE, LLC vs RAGENE D. BARRETT A/K/A RA'GENE BARRETT",
+        "Address/Description": "1100 MERRILL ST  NEW ORLEANS LA 70114",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$116,409.56",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.945851750000003,
+        "Longitude": -90.02541935589184
     },
     {
         "Case #": "2024-3249",
@@ -2301,17 +2314,17 @@
         "Longitude": -90.01592559867504
     },
     {
-        "Case #": "2024-10004",
+        "Case #": "2024-9554",
         "Sales Date": "3/20/2025",
         "Property Status": "Scheduled",
-        "Case Title": "LAKEVIEW LOAN SERVICING, LLC vs THE OPENED SUCCESSION OF JOSEPH VINING AND CHERYL ANN MCCOY",
-        "Address/Description": "1609 MARAIS ST  NEW ORLEANS LA 70116",
+        "Case Title": "TOORAK CAPITAL PARTNERS, LLC vs JERNY PROPERTY SOLUTIONS LLC",
+        "Address/Description": "1323 PAULINE ST  NEW ORLEANS LA 70117",
         "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLP",
-        "Writ Amount": "$79,650.70",
+        "Attorney": "STEWART ROBBINS & BROWN & ALTAZAN LLC",
+        "Writ Amount": "$210,375.00",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.969390750000002,
-        "Longitude": -90.06322727438273
+        "Latitude": 29.968488450000002,
+        "Longitude": -90.03626609449037
     },
     {
         "Case #": "2024-9791",
@@ -2327,17 +2340,30 @@
         "Longitude": -89.99676766666667
     },
     {
-        "Case #": "2024-9554",
+        "Case #": "2024-10004",
         "Sales Date": "3/20/2025",
         "Property Status": "Scheduled",
-        "Case Title": "TOORAK CAPITAL PARTNERS, LLC vs JERNY PROPERTY SOLUTIONS LLC",
-        "Address/Description": "1323 PAULINE ST  NEW ORLEANS LA 70117",
+        "Case Title": "LAKEVIEW LOAN SERVICING, LLC vs THE OPENED SUCCESSION OF JOSEPH VINING AND CHERYL ANN MCCOY",
+        "Address/Description": "1609 MARAIS ST  NEW ORLEANS LA 70116",
         "Picture": "",
-        "Attorney": "STEWART ROBBINS & BROWN & ALTAZAN LLC",
-        "Writ Amount": "$210,375.00",
+        "Attorney": "LOGS LEGAL GROUP LLP",
+        "Writ Amount": "$79,650.70",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.968488450000002,
-        "Longitude": -90.03626609449037
+        "Latitude": 29.969390750000002,
+        "Longitude": -90.06322727438273
+    },
+    {
+        "Case #": "2024-8761",
+        "Sales Date": "3/20/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK AS SUCCESSOR INDENTURE TRUSTEE TO JPMORGAN CHASE BANK, N.A., AS INDENTURE TRUSTEE FOR THE CWABS REVOLVING HOME EQUITY LOAN ASSET BACKED NOTES, SERIES 2004-L vs THE UNOPENED SUCCESSION OF CHARLES BARZON, JR. AND MARIE THOMAS BARZON",
+        "Address/Description": "1245 GARDENA DR  NEW ORLEANS LA 70122",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLP",
+        "Writ Amount": "$3,317.85",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.01046045,
+        "Longitude": -90.08116607426203
     },
     {
         "Case #": "2024-9245",
@@ -2364,19 +2390,6 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.967722,
         "Longitude": -90.03907890949046
-    },
-    {
-        "Case #": "2024-8761",
-        "Sales Date": "3/20/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK AS SUCCESSOR INDENTURE TRUSTEE TO JPMORGAN CHASE BANK, N.A., AS INDENTURE TRUSTEE FOR THE CWABS REVOLVING HOME EQUITY LOAN ASSET BACKED NOTES, SERIES 2004-L vs THE UNOPENED SUCCESSION OF CHARLES BARZON, JR. AND MARIE THOMAS BARZON",
-        "Address/Description": "1245 GARDENA DR  NEW ORLEANS LA 70122",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLP",
-        "Writ Amount": "$3,317.85",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.01046045,
-        "Longitude": -90.08116607426203
     },
     {
         "Case #": "2024-8434",
@@ -2418,19 +2431,6 @@
         "Longitude": -90.0602741
     },
     {
-        "Case #": "2024-9570",
-        "Sales Date": "3/27/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "TVC MORTGAGE TRUST 2023-RTL1 BY U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE vs DYNAMIC REAL ESTATE SERVICES AKA DYNAMIC REAL ESTATE SERVICES INC.",
-        "Address/Description": "1929-31 FRANKLIN AV  NEW ORLEANS LA 70117",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$250,250.00",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9779287,
-        "Longitude": -90.0479807
-    },
-    {
         "Case #": "2024-10101",
         "Sales Date": "3/27/2025",
         "Property Status": "Scheduled",
@@ -2444,17 +2444,17 @@
         "Longitude": null
     },
     {
-        "Case #": "2024-7308",
+        "Case #": "2024-9570",
         "Sales Date": "3/27/2025",
         "Property Status": "Scheduled",
-        "Case Title": "NORTHEAST BANK vs 604 ESPLANADE, LLC",
-        "Address/Description": "604 ESPLANADE AV  NEW ORLEANS LA 70116",
+        "Case Title": "TVC MORTGAGE TRUST 2023-RTL1 BY U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE vs DYNAMIC REAL ESTATE SERVICES AKA DYNAMIC REAL ESTATE SERVICES INC.",
+        "Address/Description": "1929-31 FRANKLIN AV  NEW ORLEANS LA 70117",
         "Picture": "",
-        "Attorney": "SESSIONS, FISHMAN & NATHAN, LLC",
-        "Writ Amount": "$848,180.03",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$250,250.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9626328,
-        "Longitude": -90.0593548
+        "Latitude": 29.9779287,
+        "Longitude": -90.0479807
     },
     {
         "Case #": "2024-7737",
@@ -2496,17 +2496,17 @@
         "Longitude": -90.059781
     },
     {
-        "Case #": "2024-3654",
+        "Case #": "2024-7308",
         "Sales Date": "3/27/2025",
         "Property Status": "Scheduled",
-        "Case Title": "TOWD POINT MORTGAGE TRUST 2018-1, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE vs KRISCHELL MONIQUE EVANS",
-        "Address/Description": "7 HERITAGE LN  UNIT 27 NEW ORLEANS LA 70114",
+        "Case Title": "NORTHEAST BANK vs 604 ESPLANADE, LLC",
+        "Address/Description": "604 ESPLANADE AV  NEW ORLEANS LA 70116",
         "Picture": "",
-        "Attorney": "JACKSON & MCPHERSON, LLC",
-        "Writ Amount": "$41,605.89",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Attorney": "SESSIONS, FISHMAN & NATHAN, LLC",
+        "Writ Amount": "$848,180.03",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9626328,
+        "Longitude": -90.0593548
     },
     {
         "Case #": "2020-37",
@@ -2520,6 +2520,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 30.0077516,
         "Longitude": -90.07950196032178
+    },
+    {
+        "Case #": "2024-3654",
+        "Sales Date": "3/27/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "TOWD POINT MORTGAGE TRUST 2018-1, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE vs KRISCHELL MONIQUE EVANS",
+        "Address/Description": "7 HERITAGE LN  UNIT 27 NEW ORLEANS LA 70114",
+        "Picture": "",
+        "Attorney": "JACKSON & MCPHERSON, LLC",
+        "Writ Amount": "$41,605.89",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2024-1992",
