@@ -1625,19 +1625,6 @@
         "Longitude": -90.0212032914194
     },
     {
-        "Case #": "2024-3977",
-        "Sales Date": "4/17/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "U.S. BANK NATIONAL ASSOCIATION vs HAROLD BLOUIN, JR.",
-        "Address/Description": "7320 DALEWOOD RD  NEW ORLEANS LA 70126",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$137,861.70",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.03187645,
-        "Longitude": -90.0080386307344
-    },
-    {
         "Case #": "2024-7387",
         "Sales Date": "4/17/2025",
         "Property Status": "Scheduled",
@@ -1742,17 +1729,56 @@
         "Longitude": -90.1310627
     },
     {
-        "Case #": "2024-10592",
+        "Case #": "2024-10763",
         "Sales Date": "4/17/2025",
         "Property Status": "Scheduled",
-        "Case Title": "MARY HOTARD BECNEL AND BRADLEY D. BECNEL vs JENNIFER SALAS, WIFE OF/AND CAMILO SALAS",
-        "Address/Description": "1206 SECOND ST  NEW ORLEANS LA 70130",
+        "Case Title": "PROJECT RENEW, LLC vs LINCOLN GROVE 1, LLC",
+        "Address/Description": "1609-1611 S LIBERTY ST  NEW ORLEANS LA 70118",
         "Picture": "",
-        "Attorney": "LAW OFFICES OF KEVIN P KLIBERT",
-        "Writ Amount": "$439,030.25",
+        "Attorney": "SIMPLE TITLE LAW OFFICE",
+        "Writ Amount": "$155,180.85",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9285122,
-        "Longitude": -90.0809364
+        "Latitude": 29.94227194949495,
+        "Longitude": -90.08322182828283
+    },
+    {
+        "Case #": "2024-10763",
+        "Sales Date": "4/17/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "PROJECT RENEW, LLC vs LINCOLN GROVE 1, LLC",
+        "Address/Description": "2033-2035 GOVERNOR NICHOLLS ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$155,180.85",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.970394,
+        "Longitude": -90.0731283
+    },
+    {
+        "Case #": "2024-10763",
+        "Sales Date": "4/17/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "PROJECT RENEW, LLC vs LINCOLN GROVE 1, LLC",
+        "Address/Description": "2317 S PRIEUR ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$155,180.85",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.94713388888889,
+        "Longitude": -90.09268971717171
+    },
+    {
+        "Case #": "2024-10763",
+        "Sales Date": "4/17/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "PROJECT RENEW, LLC vs LINCOLN GROVE 1, LLC",
+        "Address/Description": "3920 HAMILTON ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "",
+        "Writ Amount": "$155,180.85",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.97389715,
+        "Longitude": -90.11717137969244
     },
     {
         "Case #": "2024-10764",
@@ -1807,69 +1833,17 @@
         "Longitude": -90.0951297142857
     },
     {
-        "Case #": "2024-10763",
+        "Case #": "2024-10592",
         "Sales Date": "4/17/2025",
         "Property Status": "Scheduled",
-        "Case Title": "PROJECT RENEW, LLC vs LINCOLN GROVE 1, LLC",
-        "Address/Description": "1609-1611 S LIBERTY ST  NEW ORLEANS LA 70118",
+        "Case Title": "MARY HOTARD BECNEL AND BRADLEY D. BECNEL vs JENNIFER SALAS, WIFE OF/AND CAMILO SALAS",
+        "Address/Description": "1206 SECOND ST  NEW ORLEANS LA 70130",
         "Picture": "",
-        "Attorney": "SIMPLE TITLE LAW OFFICE",
-        "Writ Amount": "$155,180.85",
+        "Attorney": "LAW OFFICES OF KEVIN P KLIBERT",
+        "Writ Amount": "$439,030.25",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.94227194949495,
-        "Longitude": -90.08322182828283
-    },
-    {
-        "Case #": "2024-10763",
-        "Sales Date": "4/17/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "PROJECT RENEW, LLC vs LINCOLN GROVE 1, LLC",
-        "Address/Description": "2033-2035 GOVERNOR NICHOLLS ST  NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "",
-        "Writ Amount": "$155,180.85",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.970394,
-        "Longitude": -90.0731283
-    },
-    {
-        "Case #": "2024-10763",
-        "Sales Date": "4/17/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "PROJECT RENEW, LLC vs LINCOLN GROVE 1, LLC",
-        "Address/Description": "2317 S PRIEUR ST  NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "",
-        "Writ Amount": "$155,180.85",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.94713388888889,
-        "Longitude": -90.09268971717171
-    },
-    {
-        "Case #": "2024-10763",
-        "Sales Date": "4/17/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "PROJECT RENEW, LLC vs LINCOLN GROVE 1, LLC",
-        "Address/Description": "3920 HAMILTON ST  NEW ORLEANS LA 70118",
-        "Picture": "",
-        "Attorney": "",
-        "Writ Amount": "$155,180.85",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.97389715,
-        "Longitude": -90.11717137969244
-    },
-    {
-        "Case #": "2022-2350",
-        "Sales Date": "4/24/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "AEGEAN PROPERTY GROUP, LLC vs GENE ANDREWS AND J.P. MORGAN CHASE BANK, N.A.",
-        "Address/Description": "4310-12 HAMILTON ST  NEW ORLEANS LA ",
-        "Picture": "",
-        "Attorney": "SCOTT J. SONNIER, APLC",
-        "Writ Amount": "",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.976520899999997,
-        "Longitude": -90.11430821650663
+        "Latitude": 29.9285122,
+        "Longitude": -90.0809364
     },
     {
         "Case #": "2024-11246",
@@ -1883,6 +1857,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": 29.973857972801923,
         "Longitude": -90.0877125662121
+    },
+    {
+        "Case #": "2022-2350",
+        "Sales Date": "4/24/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "AEGEAN PROPERTY GROUP, LLC vs GENE ANDREWS AND J.P. MORGAN CHASE BANK, N.A.",
+        "Address/Description": "4310-12 HAMILTON ST  NEW ORLEANS LA ",
+        "Picture": "",
+        "Attorney": "SCOTT J. SONNIER, APLC",
+        "Writ Amount": "",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.976520899999997,
+        "Longitude": -90.11430821650663
     },
     {
         "Case #": "2024-10196",
@@ -2288,6 +2275,19 @@
         "Longitude": -90.03328601290647
     },
     {
+        "Case #": "2024-10298",
+        "Sales Date": "5/1/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "ELAINE AND PAUL TALLMAN vs HOLDING RENAISSANCE PROPERTY, LLC AND GREGORY SWAFFORD",
+        "Address/Description": "6726 LAMB RD  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "THE SILVERSTEIN LAW FIRM, APLC",
+        "Writ Amount": "$120,478.88",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 30.02340425,
+        "Longitude": -90.0155667553484
+    },
+    {
         "Case #": "2024-6736",
         "Sales Date": "5/1/2025",
         "Property Status": "Scheduled",
@@ -2312,19 +2312,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.9352243,
         "Longitude": -90.1023056
-    },
-    {
-        "Case #": "2024-10298",
-        "Sales Date": "5/1/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "ELAINE AND PAUL TALLMAN vs HOLDING RENAISSANCE PROPERTY, LLC AND GREGORY SWAFFORD",
-        "Address/Description": "6726 LAMB RD  NEW ORLEANS LA 70126",
-        "Picture": "",
-        "Attorney": "THE SILVERSTEIN LAW FIRM, APLC",
-        "Writ Amount": "$120,478.88",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 30.02340425,
-        "Longitude": -90.0155667553484
     },
     {
         "Case #": "2024-6645",
@@ -2392,6 +2379,19 @@
         "Longitude": -90.12295618352462
     },
     {
+        "Case #": "2024-10689",
+        "Sales Date": "5/8/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE VERUS SECURITIZATION TRUST 2022-6 vs R2H GOLD LLC AND MICHAEL J JOHNSTON AKA MICHAEL JOSEPH JOHNSTON",
+        "Address/Description": "1826-28 ONZAGA ST  NEW ORLEANS LA 70116",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$352,334.49",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.97491548841053,
+        "Longitude": -90.06727029566419
+    },
+    {
         "Case #": "2024-10123",
         "Sales Date": "5/8/2025",
         "Property Status": "Scheduled",
@@ -2416,19 +2416,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.99891125,
         "Longitude": -90.04656960242542
-    },
-    {
-        "Case #": "2024-10689",
-        "Sales Date": "5/8/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE VERUS SECURITIZATION TRUST 2022-6 vs R2H GOLD LLC AND MICHAEL J JOHNSTON AKA MICHAEL JOSEPH JOHNSTON",
-        "Address/Description": "1826-28 ONZAGA ST  NEW ORLEANS LA 70116",
-        "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$352,334.49",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.97491548841053,
-        "Longitude": -90.06727029566419
     },
     {
         "Case #": "2025-164",
@@ -2743,6 +2730,45 @@
         "Longitude": -90.0955734
     },
     {
+        "Case #": "2024-9916",
+        "Sales Date": "5/15/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "NORTHEAST BANK vs SOFAB NEW ORLEANS INVESTMENTS, LLC",
+        "Address/Description": "1830-32 MARTIN LUTHER KING BOULEVARD AND 1504 ORETHA CASTLE HALEY BOULEVARD  NEW ORLEANS LA 70113",
+        "Picture": "",
+        "Attorney": "SESSIONS, FISHMAN & NATHAN, LLC",
+        "Writ Amount": "$2,599,397.84",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Case #": "2025-50",
+        "Sales Date": "5/15/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "PENNYMAC LOAN SERVICES, LLC vs TOREY CLAY",
+        "Address/Description": "4115 AMERICA ST  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$181,001.67",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.01072075,
+        "Longitude": -90.00867142569209
+    },
+    {
+        "Case #": "2024-11640",
+        "Sales Date": "5/15/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "LIBERTY BANK AND TRUST COMPANY vs FRANK J. COOK, JR.",
+        "Address/Description": "1020 S TELEMACHUS ST  NEW ORLEANS LA 70125",
+        "Picture": "",
+        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
+        "Writ Amount": "$31,528.83",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.96185685,
+        "Longitude": -90.10518878041222
+    },
+    {
         "Case #": "2024-7281",
         "Sales Date": "5/15/2025",
         "Property Status": "Scheduled",
@@ -2845,6 +2871,19 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2024-10734",
+        "Sales Date": "5/15/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "BANKPLUS vs MAISON DES LUNES, LLC",
+        "Address/Description": "601 ELYSIAN FIELDS AV  NEW ORLEANS LA 70117",
+        "Picture": "",
+        "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
+        "Writ Amount": "$408,629.17",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.96372075,
+        "Longitude": -90.0561415082152
     },
     {
         "Case #": "2024-11310",
