@@ -1062,8 +1062,8 @@
         "Attorney": "CITY OF NEW ORLEANS",
         "Writ Amount": "$2,610.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.97038,
+        "Longitude": -90.036731
     },
     {
         "Case #": "2024-6824",
@@ -1621,8 +1621,8 @@
         "Attorney": "NEWMAN, MATHIS, BRADY & SPEDALE, APLC",
         "Writ Amount": "$196,698.32",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": null,
-        "Longitude": null
+        "Latitude": 29.9684721,
+        "Longitude": -90.0703087614442
     },
     {
         "Case #": "2024-8395",
@@ -2769,19 +2769,6 @@
         "Longitude": -90.06149077777778
     },
     {
-        "Case #": "2024-8841",
-        "Sales Date": "5/29/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "STANDARD MORTGAGE CORPORATION vs TYRONE JOSEPH BRINSON, II",
-        "Address/Description": "167 PINEWOOD CT  NEW ORLEANS LA 70114",
-        "Picture": "",
-        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
-        "Writ Amount": "$51,294.51",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.93308522222222,
-        "Longitude": -90.02299577777778
-    },
-    {
         "Case #": "2024-11171",
         "Sales Date": "5/29/2025",
         "Property Status": "Scheduled",
@@ -2938,17 +2925,17 @@
         "Longitude": -90.03405701756603
     },
     {
-        "Case #": "2024-8909",
+        "Case #": "2024-5756",
         "Sales Date": "6/5/2025",
         "Property Status": "Scheduled",
-        "Case Title": "LAKEVIEW LOAN SERVICING, LLC vs LATEEF JAMEEL SHAHEER",
-        "Address/Description": "1119-1121 LEBOEUF ST  NEW ORLEANS LA 70114",
+        "Case Title": "CARRINGTON MORTGAGE SERVICES, LLC vs EXTON GARRETT HURT A/K/A EXTON HURT",
+        "Address/Description": "2448 CUMBERLAND CT  NEW ORLEANS LA 70131",
         "Picture": "",
-        "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$117,753.24",
+        "Attorney": "LOGS LEGAL GROUP LLP",
+        "Writ Amount": "$305,647.46",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9435216,
-        "Longitude": -90.0424322
+        "Latitude": 29.928914,
+        "Longitude": -89.99400648807928
     },
     {
         "Case #": "2024-11296",
@@ -2964,17 +2951,17 @@
         "Longitude": -90.08199652611572
     },
     {
-        "Case #": "2024-5756",
+        "Case #": "2024-8909",
         "Sales Date": "6/5/2025",
         "Property Status": "Scheduled",
-        "Case Title": "CARRINGTON MORTGAGE SERVICES, LLC vs EXTON GARRETT HURT A/K/A EXTON HURT",
-        "Address/Description": "2448 CUMBERLAND CT  NEW ORLEANS LA 70131",
+        "Case Title": "LAKEVIEW LOAN SERVICING, LLC vs LATEEF JAMEEL SHAHEER",
+        "Address/Description": "1119-1121 LEBOEUF ST  NEW ORLEANS LA 70114",
         "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLP",
-        "Writ Amount": "$305,647.46",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$117,753.24",
         "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.928914,
-        "Longitude": -89.99400648807928
+        "Latitude": 29.9435216,
+        "Longitude": -90.0424322
     },
     {
         "Case #": "2024-5976",
@@ -3133,6 +3120,32 @@
         "Longitude": -90.06318737603499
     },
     {
+        "Case #": "2024-11204",
+        "Sales Date": "6/12/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "FEDERAL NATIONAL MORTGAGE ASSOCIATION vs MICHELLE BUSHEY WASHINGTON A/K/A MICHELLE BUSHEY IVY WASHINGTON",
+        "Address/Description": "248 CHEROKEE ST  NEW ORLEANS LA 70118",
+        "Picture": "",
+        "Attorney": "DEAN MORRIS, LLC",
+        "Writ Amount": "$253,204.38",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.936647,
+        "Longitude": -90.1323652
+    },
+    {
+        "Case #": "2024-11783",
+        "Sales Date": "6/12/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2005-KS8 vs DEBORAH STEELE THOMPSON",
+        "Address/Description": "1904 TOURO ST  NEW ORLEANS LA 70116",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLP",
+        "Writ Amount": "",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.976689200000003,
+        "Longitude": -90.06018709545626
+    },
+    {
         "Case #": "2025-475",
         "Sales Date": "6/12/2025",
         "Property Status": "Scheduled",
@@ -3172,16 +3185,42 @@
         "Longitude": -89.96640299434742
     },
     {
-        "Case #": "2024-11204",
+        "Case #": "2024-10201",
         "Sales Date": "6/12/2025",
         "Property Status": "Scheduled",
-        "Case Title": "FEDERAL NATIONAL MORTGAGE ASSOCIATION vs MICHELLE BUSHEY WASHINGTON A/K/A MICHELLE BUSHEY IVY WASHINGTON",
-        "Address/Description": "248 CHEROKEE ST  NEW ORLEANS LA 70118",
+        "Case Title": "CITY OF NEW ORLEANS vs 2201 CANAL STREET, LLC",
+        "Address/Description": "2228-30 IBERVILLE ST  NEW ORLEANS LA 70119",
+        "Picture": "",
+        "Attorney": "CITY OF NEW ORLEANS",
+        "Writ Amount": "$4,710.00",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.9634206,
+        "Longitude": -90.08218
+    },
+    {
+        "Case #": "2025-452",
+        "Sales Date": "6/26/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "UNITED WHOLESALE MORTGAGE, LLC vs NICOLE LASHAE JONES",
+        "Address/Description": "3633 FRANKLIN AV  NEW ORLEANS LA 70122",
         "Picture": "",
         "Attorney": "DEAN MORRIS, LLC",
-        "Writ Amount": "$253,204.38",
+        "Writ Amount": "$374,245.81",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 29.9962178,
+        "Longitude": -90.0494424488194
+    },
+    {
+        "Case #": "2025-198",
+        "Sales Date": "6/26/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "FIDELITY BANK vs TEXAS ROY TROTTIER",
+        "Address/Description": "1205 ST CHARLES AV  NEW ORLEANS LA 70130",
+        "Picture": "",
+        "Attorney": "GRAHAM, ARCENEAUX & ALLEN, LLC",
+        "Writ Amount": "$132,676.01",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.936647,
-        "Longitude": -90.1323652
+        "Latitude": 29.9412007,
+        "Longitude": -90.0742236
     }
 ]
