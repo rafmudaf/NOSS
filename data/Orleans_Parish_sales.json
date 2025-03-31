@@ -125,7 +125,7 @@
         "Picture": "",
         "Attorney": "JAMES E. USCHOLD, PLC",
         "Writ Amount": "",
-        "Terms and Conditions": "With appraisal; ",
+        "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.9615622,
         "Longitude": -90.037488
     },
@@ -737,8 +737,8 @@
         "Attorney": "SIMPLE TITLE LAW OFFICE",
         "Writ Amount": "$121,188.00",
         "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.9452502,
-        "Longitude": -90.0936481
+        "Latitude": null,
+        "Longitude": null
     },
     {
         "Case #": "2024-10764",
@@ -908,19 +908,6 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.976520899999997,
         "Longitude": -90.11430821650663
-    },
-    {
-        "Case #": "2024-3173",
-        "Sales Date": "4/24/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "TOWD POINT MORTGAGE TRUST 2018-3, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE vs JOSHUA FELIX, JR.",
-        "Address/Description": "4518 VIOLA ST  NEW ORLEANS LA 70126",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$28,129.40",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.01569475,
-        "Longitude": -89.99608720466765
     },
     {
         "Case #": "2021-6829",
@@ -2210,19 +2197,6 @@
         "Longitude": -89.98129315316535
     },
     {
-        "Case #": "2025-629",
-        "Sales Date": "6/5/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "U. S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF CITIGROUP MORTGAGE LOAN TRUST 2018-RP-2 vs LADONJA CALISTE",
-        "Address/Description": "1038 CADIZ ST  NEW ORLEANS LA 70115",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$110,698.64",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 29.9225069,
-        "Longitude": -90.1043089
-    },
-    {
         "Case #": "2024-11440",
         "Sales Date": "6/5/2025",
         "Property Status": "Scheduled",
@@ -2468,6 +2442,19 @@
         "Terms and Conditions": "Without appraisal; ",
         "Latitude": 29.99339325,
         "Longitude": -90.0522778488696
+    },
+    {
+        "Case #": "2025-1159",
+        "Sales Date": "6/12/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE ON BEHALF FOR CSMC 2018-RPL12 TRUST vs RAYMOND PITTMAN, DARIN ALPHONSE COLLINS, INDIVIDUALLY, AND IN HIS CAPACITY AS ADMINISTRATOR OF THE SUCCESSION OF KAY CHARLOT PITTMAN, ALLEN JOSEPH COLLINS,HOWARD CHRISTOPHER COLLINS, 4K'S PROPERTIES & CONSTRUCTION, LLC, AND NOIR INVESTMENT GROUP, LLC",
+        "Address/Description": "5713 COUNT LN  NEW ORLEANS LA 70126",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$59,628.68",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.0293638,
+        "Longitude": -90.0263836
     },
     {
         "Case #": "2024-11783",
@@ -2951,32 +2938,6 @@
         "Longitude": -90.118447
     },
     {
-        "Case #": "2025-871",
-        "Sales Date": "7/24/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "SELENE FINANCE, LP vs BRANDON J. BYES",
-        "Address/Description": "3543 TIMBER BLUFF LN  NEW ORLEANS LA 70131",
-        "Picture": "",
-        "Attorney": "LOGS LEGAL GROUP LLP",
-        "Writ Amount": "$140,415.12",
-        "Terms and Conditions": "With appraisal; ",
-        "Latitude": 29.899103500000002,
-        "Longitude": -89.99728216400001
-    },
-    {
-        "Case #": "2024-11158",
-        "Sales Date": "7/24/2025",
-        "Property Status": "Scheduled",
-        "Case Title": "FINANCE OF AMERICA REVERSE LLC vs THE UNOPENED SUCCESSION OF AND UNKNOWN HEIRS OF MILES R. PEREZ, SR. A/K/A MILES R. PEREZ, SR. A/K/A MILES PEREZ, SR. A/K/A MILES R. PEREZ A/K/A MILES PEREZ",
-        "Address/Description": "13734 LOURDES ST  NEW ORLEANS LA 70129",
-        "Picture": "",
-        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
-        "Writ Amount": "$125,107.73",
-        "Terms and Conditions": "Without appraisal; ",
-        "Latitude": 30.03623825,
-        "Longitude": -89.92160623988948
-    },
-    {
         "Case #": "2012-2428",
         "Sales Date": "7/24/2025",
         "Property Status": "Scheduled",
@@ -3014,6 +2975,32 @@
         "Terms and Conditions": "With appraisal; ",
         "Latitude": null,
         "Longitude": null
+    },
+    {
+        "Case #": "2025-871",
+        "Sales Date": "7/24/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "SELENE FINANCE, LP vs BRANDON J. BYES",
+        "Address/Description": "3543 TIMBER BLUFF LN  NEW ORLEANS LA 70131",
+        "Picture": "",
+        "Attorney": "LOGS LEGAL GROUP LLP",
+        "Writ Amount": "$140,415.12",
+        "Terms and Conditions": "With appraisal; ",
+        "Latitude": 29.899103500000002,
+        "Longitude": -89.99728216400001
+    },
+    {
+        "Case #": "2024-11158",
+        "Sales Date": "7/24/2025",
+        "Property Status": "Scheduled",
+        "Case Title": "FINANCE OF AMERICA REVERSE LLC vs THE UNOPENED SUCCESSION OF AND UNKNOWN HEIRS OF MILES R. PEREZ, SR. A/K/A MILES R. PEREZ, SR. A/K/A MILES PEREZ, SR. A/K/A MILES R. PEREZ A/K/A MILES PEREZ",
+        "Address/Description": "13734 LOURDES ST  NEW ORLEANS LA 70129",
+        "Picture": "",
+        "Attorney": "THE LAW OFFICES OF HERSCHEL C. ADCOCK, JR., L.L.C.",
+        "Writ Amount": "$125,107.73",
+        "Terms and Conditions": "Without appraisal; ",
+        "Latitude": 30.03623825,
+        "Longitude": -89.92160623988948
     },
     {
         "Case #": "2024-5866",
