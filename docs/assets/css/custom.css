@@ -1,0 +1,543 @@
+body {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+
+html {
+    height: 100%;
+}
+
+#map {
+    height: calc(100vh - var(--navbar-height, 60px));
+    width: 100%;
+}
+
+/* Calculate navbar height dynamically */
+.navbar {
+    --navbar-height: 45px;
+}
+
+/* Navbar styling - make it shorter */
+.navbar {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #e0e0e0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding-top: 0.125rem;
+    padding-bottom: 0.125rem;
+    min-height: auto;
+    height: var(--navbar-height);
+}
+
+/* Better navbar alignment */
+.navbar .container {
+    max-width: none;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+/* Remove extra white space between navbar and map */
+header {
+    margin-bottom: 0 !important;
+}
+
+.navbar-brand {
+    color: #333333 !important;
+    font-weight: 600;
+    font-size: 0.95rem;
+    padding-top: 0.125rem;
+    padding-bottom: 0.125rem;
+    margin-right: auto;
+}
+
+.navbar-brand:hover {
+    color: #555555 !important;
+}
+
+.navbar .btn {
+    color: #333333;
+    border: none;
+    background: transparent;
+    font-weight: 500;
+    font-size: 0.875rem;
+    padding: 0.125rem 0.5rem;
+    margin-left: 0.25rem;
+}
+
+.navbar .btn:hover {
+    background-color: #f8f9fa;
+    color: #333333;
+}
+
+.navbar-toggler {
+    border-color: #333333;
+    padding: 0.125rem 0.5rem;
+}
+
+/* Adjust button container spacing */
+.navbar-collapse .ms-auto {
+    margin-left: auto !important;
+    gap: 0;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%2833, 37, 41, 0.75%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+#bmc-wbtn {
+    left: 18px !important;
+    right: auto !important;
+}
+
+.property-count-tag {
+    position: fixed;
+    bottom: 20px;
+    left: 100px;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.90);
+    color: #333;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    pointer-events: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.leaflet-bottom.leaflet-right .leaflet-control {
+    margin-bottom: 0 !important;
+    margin-right: 0 !important;
+}
+
+/* Floating control buttons - responsive positioning */
+.floating-controls {
+    position: fixed;
+    bottom: 108px;
+    right: 10px;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.floating-btn {
+    width: 40px;
+    height: 40px;
+    background: #fff;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    position: relative;
+}
+
+.floating-btn:hover {
+    background: #f4f4f4;
+}
+
+.floating-btn svg {
+    color: #333;
+}
+
+/* Tooltip styles */
+.floating-btn .tooltip {
+    position: absolute;
+    right: 50px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 6px 10px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 500;
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s, visibility 0.2s;
+    pointer-events: none;
+    z-index: 800;
+}
+
+.floating-btn .tooltip::after {
+    content: '';
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    border: 5px solid transparent;
+    border-left-color: rgba(0, 0, 0, 0.8);
+}
+
+.floating-btn:hover .tooltip {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* Reset Leaflet zoom control positioning - use fixed positioning */
+.leaflet-bottom.leaflet-right {
+    position: fixed !important;
+    bottom: 10px !important;
+    right: 10px !important;
+    pointer-events: none !important;
+}
+
+.leaflet-bottom.leaflet-right .leaflet-control {
+    margin-bottom: 0 !important;
+    margin-right: 0 !important;
+    pointer-events: auto !important;
+}
+
+/* Style zoom controls to match floating buttons */
+.leaflet-control-zoom {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15) !important;
+    border: none !important;
+    background: #fff !important;
+    border-radius: 4px !important;
+    min-height: 80px !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+.leaflet-control-zoom a {
+    width: 40px !important;
+    height: 40px !important;
+    background: #fff !important;
+    border: none !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin: 0 !important;
+    text-decoration: none !important;
+    color: #333 !important;
+    font-size: 18px !important;
+    font-weight: bold !important;
+    line-height: 1 !important;
+    transition: background-color 0.2s !important;
+    border-bottom: 1px solid #ddd !important;
+    flex-shrink: 0 !important;
+}
+
+.leaflet-control-zoom a:hover {
+    background: #f4f4f4 !important;
+}
+
+.leaflet-control-zoom a:first-child {
+    border-top-left-radius: 4px !important;
+    border-top-right-radius: 4px !important;
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+
+.leaflet-control-zoom a:last-child {
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+    border-bottom-left-radius: 4px !important;
+    border-bottom-right-radius: 4px !important;
+    border-bottom: none !important;
+}
+
+/* Media queries for smaller screens */
+@media (max-width: 768px) {
+    .floating-controls {
+        bottom: 108px;
+        right: 5px;
+    }
+    
+    .leaflet-bottom.leaflet-right {
+        bottom: 5px !important;
+        right: 5px !important;
+    }
+}
+
+@media (max-height: 600px) {
+    .floating-controls {
+        bottom: 88px;
+    }
+}
+
+/* Filter Interface Styling */
+.filter-interface {
+    position: absolute;
+    top: 64px;
+    left: 16px;
+    right: 16px;
+    z-index: 1000;
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+/* Desktop Filter Dropdowns */
+.filter-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.filter-trigger {
+    background: rgba(255, 255, 255, 0.95);
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 14px;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.2s;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    min-width: 120px;
+    white-space: nowrap;
+}
+
+.filter-trigger:hover {
+    background: rgba(255, 255, 255, 1);
+    border-color: #007bff;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.filter-trigger.active {
+    background: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+
+.filter-trigger .filter-label {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.filter-trigger .filter-value {
+    font-weight: 600;
+    font-size: 13px;
+    flex: 1;
+}
+
+.filter-trigger .dropdown-arrow {
+    font-size: 10px;
+    opacity: 0.6;
+    margin-left: auto;
+}
+
+/* Filter Content (Dropdown Panels) */
+.filter-content {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+    z-index: 1001;
+    margin-top: 4px;
+    display: none;
+    min-width: 250px;
+}
+
+.filter-content.show {
+    display: block;
+}
+
+.filter-panel {
+    padding: 16px;
+}
+
+.filter-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.filter-panel .form-label {
+    font-size: 12px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 6px;
+}
+
+.filter-panel .form-control {
+    font-size: 13px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    padding: 6px 10px;
+}
+
+.filter-panel .input-group-text {
+    font-size: 13px;
+    background: #f8f9fa;
+    border: 1px solid #ddd;
+}
+
+.apply-filter-btn {
+    background: #e91e63;
+    border: none;
+    border-radius: 6px;
+    padding: 6px 16px;
+    font-size: 12px;
+    font-weight: 600;
+    width: 100%;
+}
+
+.apply-filter-btn:hover {
+    background: #c2185b;
+}
+
+/* Mobile Filter Summary */
+.mobile-filter-summary {
+    background: rgba(255, 255, 255, 0.95);
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.2s;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    backdrop-filter: blur(10px);
+    display: none;
+    align-items: center;
+    justify-content: space-between;
+    flex: 1;
+    min-width: 150px;
+}
+
+.mobile-filter-summary:hover {
+    background: rgba(255, 255, 255, 1);
+    border-color: #007bff;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.mobile-filter-summary .dropdown-arrow {
+    font-size: 10px;
+    opacity: 0.6;
+    margin-left: 8px;
+}
+
+/* Set Email Alert Button */
+.email-alert-btn {
+    background: #e91e63;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-left: auto;
+    white-space: nowrap;
+}
+
+.email-alert-btn:hover {
+    background: #c2185b;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.email-alert-btn .bell-icon {
+    font-size: 16px;
+}
+
+/* Responsive Behavior */
+@media (max-width: 768px) {
+    .filter-interface {
+        gap: 8px;
+        align-items: center;
+        left: 16px;
+        top: 64px;
+        flex-wrap: nowrap;
+    }
+    
+    .filter-dropdown {
+        display: none;
+    }
+    
+    .mobile-filter-summary {
+        display: flex;
+    }
+    
+    .email-alert-btn {
+        margin-left: 0;
+        flex-shrink: 0;
+    }
+    
+    .clear-filters-btn {
+        margin-left: 0;
+        flex-shrink: 0;
+        font-size: 13px;
+        padding: 8px 10px;
+    }
+}
+
+/* Adjust property count position */
+@media (max-width: 768px) {
+    .property-count-tag {
+        bottom: 15px;
+        left: 70px;
+        font-size: 13px;
+        padding: 5px 10px;
+    }
+}
+
+/* Clear All Filters Button */
+.clear-filters-btn {
+    background: rgba(255, 255, 255, 0.95);
+    border: 1px solid #dc3545;
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 14px;
+    color: #dc3545;
+    cursor: pointer;
+    transition: all 0.2s;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    white-space: nowrap;
+    font-weight: 500;
+}
+
+.clear-filters-btn:hover {
+    background: #dc3545;
+    color: white;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.clear-filters-btn.hidden {
+    display: none;
+}
+
+/* Individual Clear Buttons */
+.clear-individual-btn {
+    background: none;
+    border: none;
+    color: #e91e63;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    text-decoration: underline;
+    transition: color 0.2s;
+}
+
+.clear-individual-btn:hover {
+    color: #c2185b;
+    text-decoration: none;
+} 

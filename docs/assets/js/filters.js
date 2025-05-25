@@ -34,7 +34,7 @@ $(document).ready(function () {
     };
     //filters
     var result = App.searchData(filters);
-    $("#result-filtered").html(result);
+    document.getElementById('property-count-tag').textContent = result + ' Properties';
     $("#filters-modal").modal("hide");
   });
 

@@ -114,7 +114,22 @@ var App = {
         zoomLevel = mapStorage.zoom;
       }
 
-      var map = L.map("map").setView(centerLatLng, zoomLevel);
+      var map = L.map("map", {
+        zoomControl: false,
+        attributionControl: false
+      }).setView(centerLatLng, zoomLevel);
+      
+      // Add zoom control with error handling
+      try {
+        var zoomControl = L.control.zoom({
+          position: 'bottomright'
+        });
+        zoomControl.addTo(map);
+        console.log('Zoom control added successfully');
+      } catch (error) {
+        console.error('Error adding zoom control:', error);
+      }
+      
       thiz.map = map;
       L.tileLayer(tileUrl).addTo(map);
       thiz.renderMapLayers(App.data);
