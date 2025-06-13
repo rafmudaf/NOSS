@@ -24,7 +24,7 @@
   <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="thedecc" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF5F5F" data-position="Left" data-x_margin="18" data-y_margin="18"></script>
 </head>
 
-<body>
+<body class="map-page">
   <header>
     <!-- Fixed navbar -->
     <nav class="navbar navbar-expand-md navbar-light">
@@ -34,11 +34,17 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
-          <div class="ms-auto d-flex">
-            <button class="btn" data-bs-toggle="modal" data-bs-target="#about-modal">
-              About
-            </button>
-          </div>
+          <ul class="navbar-nav ms-auto mb-2 mb-md-0">
+            <li class="nav-item">
+              <a class="nav-link active" href="index.html">Foreclosures Map</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="resources.html">Resources</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#about-modal">About</a>
+            </li>
+          </ul>
         </div>
       </div>
     </nav>
@@ -147,7 +153,7 @@
     </button>
 
     <!-- Set Email Alert button -->
-    <button class="email-alert-btn">
+    <button class="email-alert-btn" data-bs-toggle="modal" data-bs-target="#email-alert-modal">
       <span class="bell-icon">🔔</span>
       Set Email Alert
     </button>
@@ -302,6 +308,20 @@
             For any feedback or feature requests, get in touch through the "Buy me a coffee"
             form at the bottom and include your contact info if you'd like to receive a response.
           </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="email-alert-modal" tabindex="-1" aria-labelledby="emailAlertModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="emailAlertModalLabel">Coming Soon!</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p>Email alerts are coming soon. Stay tuned!</p>
         </div>
       </div>
     </div>
@@ -730,6 +750,11 @@
       // Update clear button visibility
       updateMobileSummary();
     }
+
+    // Hide navbar collapse after clicking any nav-link (mobile)
+    $(document).on('click', '.navbar-collapse .nav-link', function(){
+      $('.navbar-collapse').collapse('hide');
+    });
   </script>
 
 </body>

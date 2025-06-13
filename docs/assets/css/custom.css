@@ -1,12 +1,18 @@
+/* Default body styles for all pages */
 body {
     padding: 0;
     margin: 0;
-    height: 100vh;
-    overflow: hidden;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
 
 html {
     height: 100%;
+}
+
+/* Map page specific body styles */
+body.map-page {
+    height: 100vh;
+    overflow: hidden;
 }
 
 #map {
@@ -17,6 +23,8 @@ html {
 /* Calculate navbar height dynamically */
 .navbar {
     --navbar-height: 45px;
+    position: relative;
+    z-index: 1040; /* below Bootstrap modal (1050) */
 }
 
 /* Navbar styling - make it shorter */
@@ -253,6 +261,19 @@ header {
     .leaflet-bottom.leaflet-right {
         bottom: 5px !important;
         right: 5px !important;
+    }
+    /* Ensure navbar and its collapse menu stay above the map */
+    .navbar-collapse {
+        position: absolute;
+        top: var(--navbar-height, 45px);
+        left: 0;
+        width: 100%;
+        background-color: #ffffff;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        padding: 0.5rem 1rem;
+    }
+    .navbar-collapse .nav-link {
+        padding: 0.5rem 0;
     }
 }
 
@@ -540,4 +561,186 @@ header {
 .clear-individual-btn:hover {
     color: #c2185b;
     text-decoration: none;
+}
+
+/* Email Alert Modal */
+#email-alert-modal .modal-content {
+    border-radius: 12px;
+    box-shadow: 0 2px 16px rgba(233, 30, 99, 0.15);
+    border: 1px solid #e91e63;
+}
+#email-alert-modal .modal-header {
+    background: #f8f9fa;
+    border-bottom: 1px solid #e91e63;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+#email-alert-modal .modal-title {
+    color: #e91e63;
+    font-weight: 700;
+}
+#email-alert-modal .modal-body {
+    font-size: 16px;
+    color: #333;
+    padding: 24px 16px 16px 16px;
+    text-align: center;
+}
+#email-alert-modal .btn-close {
+    filter: invert(40%) sepia(80%) saturate(400%) hue-rotate(310deg) brightness(1.1);
+}
+
+/* ===== RESOURCES STYLES ===== */
+
+/* Resources Landing Page */
+.blog-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 4rem 0;
+    margin-bottom: 3rem;
+}
+
+.blog-post-card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+    margin-bottom: 2rem;
+}
+
+.blog-post-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+}
+
+.read-more-btn {
+    background: linear-gradient(135deg, #ff6b9d, #c44569);
+    color: white;
+    border: none;
+    padding: 0.5rem 1.5rem;
+    border-radius: 25px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.read-more-btn:hover {
+    color: white;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(255, 107, 157, 0.3);
+}
+
+.blog-post-date {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Individual Resource Pages */
+.blog-article {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 0;
+}
+
+.blog-article .blog-header {
+    background: none;
+    color: inherit;
+    text-align: center;
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #eee;
+}
+
+.blog-date {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.blog-subtitle {
+    color: #666;
+    font-style: italic;
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+}
+
+.blog-content h2 {
+    color: #333;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.blog-content p {
+    line-height: 1.7;
+    margin-bottom: 1.5rem;
+    color: #444;
+}
+
+.blog-content ol {
+    margin-left: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.blog-content ol li {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+}
+
+.cta-section {
+    background: linear-gradient(135deg, #ff6b9d, #c44569);
+    color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    text-align: center;
+    margin: 3rem 0;
+}
+
+.cta-btn {
+    background: white;
+    color: #c44569;
+    border: none;
+    padding: 0.75rem 2rem;
+    border-radius: 25px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 600;
+    margin-top: 1rem;
+    transition: all 0.3s ease;
+}
+
+.cta-btn:hover {
+    color: #c44569;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.back-link {
+    color: #666;
+    text-decoration: none;
+    margin-bottom: 2rem;
+    display: inline-block;
+}
+
+.back-link:hover {
+    color: #333;
+}
+
+/* Resources Mobile Responsive */
+@media (max-width: 768px) {
+    .blog-header {
+        padding: 2rem 0;
+    }
+    
+    .blog-article {
+        padding: 1rem;
+    }
+    
+    .blog-content h2 {
+        margin-top: 2rem;
+    }
+    
+    .cta-section {
+        padding: 1.5rem;
+    }
 } 
