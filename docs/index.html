@@ -657,9 +657,13 @@
       const { createClient } = supabase;
       const _supabase = createClient('https://yzrchvjkugjhutloijih.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl6cmNodmprdWdqaHV0bG9pamloIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDkyNjU1NjUsImV4cCI6MjA2NDg0MTU2NX0.3xfi0GZUfEfBV4bsWhJNOr1TJqdaLbA_sLl6WfALLK0');
 
+      // Get today's date in YYYY-MM-DD format
+      const today = new Date().toISOString().split('T')[0];
+
       _supabase
       .from('auctions')
       .select('*')
+      .gt('sales_date', today)
       .then(({ data, error }) => {
         if (error) {
           console.error(error);
