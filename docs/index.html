@@ -22,6 +22,9 @@
   </script>
 
   <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="thedecc" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF5F5F" data-position="Left" data-x_margin="18" data-y_margin="18"></script>
+
+  <!-- Get the SupabaseJS library -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 </head>
 
 <body class="map-page">
@@ -650,46 +653,53 @@
     }
 
     $(function() {
-      $.ajax({
-        url: "https://raw.githubusercontent.com/rafmudaf/NOSS/db/data/Orleans_Parish_sales.json",
-        dataType: "json",
-        success: function(res) {
 
-          App.init(res, config);
-          document.getElementById('property-count-tag').textContent = App.data.length + ' Properties';
+      const { createClient } = supabase;
+      const _supabase = createClient('https://yzrchvjkugjhutloijih.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl6cmNodmprdWdqaHV0bG9pamloIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDkyNjU1NjUsImV4cCI6MjA2NDg0MTU2NX0.3xfi0GZUfEfBV4bsWhJNOr1TJqdaLbA_sLl6WfALLK0');
 
-          $("#unmapped-modal-list").html(
-            App.corruptData.map((item) => {return item["Address/Description"]}).join("\n")
-          );
+      _supabase
+      .from('auctions')
+      .select('*')
+      .then(({ data, error }) => {
+        if (error) {
+          console.error(error);
+          return;
+        }
 
-          // Initialize the new filter interface
-          initializeFilters();
+        App.init(data, config);
+        document.getElementById('property-count-tag').textContent = App.data.length + ' Properties';
 
-          // Add clear filters functionality
-          initializeClearFilters();
+        $("#unmapped-modal-list").html(
+          App.corruptData.map((item) => {return item["Address/Description"]}).join("\n")
+        );
 
-          // Sync mobile modal with desktop filters
-          $('#filters-modal').on('hidden.bs.modal', function() {
-            // When mobile modal closes, sync any changes back to desktop filters
-            const form = document.getElementById('filters-form');
-            if (form) {
-              const formData = new FormData(form);
-              
-              // Update activeFilters from modal form
-              activeFilters = {};
-              
-              if (formData.get('salesDate')) activeFilters.salesDate = formData.get('salesDate');
-              if (formData.get('minAmount')) activeFilters.minAmount = formData.get('minAmount');
-              if (formData.get('maxAmount')) activeFilters.maxAmount = formData.get('maxAmount');
-              if (formData.get('terms')) activeFilters.terms = formData.get('terms');
-              if (formData.get('zip')) activeFilters.zip = formData.get('zip');
-              
-              // Update desktop filter displays
-              updateDesktopFilterDisplays();
-              updateMobileSummary();
-            }
-          });
-        },
+        // Initialize the new filter interface
+        initializeFilters();
+
+        // Add clear filters functionality
+        initializeClearFilters();
+
+        // Sync mobile modal with desktop filters
+        $('#filters-modal').on('hidden.bs.modal', function() {
+          // When mobile modal closes, sync any changes back to desktop filters
+          const form = document.getElementById('filters-form');
+          if (form) {
+            const formData = new FormData(form);
+            
+            // Update activeFilters from modal form
+            activeFilters = {};
+            
+            if (formData.get('salesDate')) activeFilters.salesDate = formData.get('salesDate');
+            if (formData.get('minAmount')) activeFilters.minAmount = formData.get('minAmount');
+            if (formData.get('maxAmount')) activeFilters.maxAmount = formData.get('maxAmount');
+            if (formData.get('terms')) activeFilters.terms = formData.get('terms');
+            if (formData.get('zip')) activeFilters.zip = formData.get('zip');
+            
+            // Update desktop filter displays
+            updateDesktopFilterDisplays();
+            updateMobileSummary();
+          }
+        });
       });
     });
 

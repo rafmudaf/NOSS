@@ -54,14 +54,14 @@ var App = {
     var result = [];
     if (typeof data == "object") {
       for (var item of data) {
-        var Lat = item.Latitude;
-        var Lng = item.Longitude;
-        if (Lat && Lng) {
-          var WritAmount = item["Writ Amount"];
+        var lat = item.latitude;
+        var Lng = item.longitude;
+        if (lat && Lng) {
+          var WritAmount = item["writ_amount"];
           var amount = 0;
           if (WritAmount) {
-            amount = WritAmount.replace("$", "");
-            amount = amount.replace(/\,/g, "");
+            // amount = WritAmount.replace("$", "");
+            // amount = amount.replace(/\,/g, "");
             amount = parseFloat(amount);
           }
           item["amount"] = amount;
@@ -78,10 +78,10 @@ var App = {
     var result = [];
     if (typeof data == "object") {
       for (var item of data) {
-        var Lat = item.Latitude;
-        var Lng = item.Longitude;
+        var lat = item.latitude;
+        var Lng = item.longitude;
 
-        if (!Lat || !Lng) {
+        if (!lat || !Lng) {
           result.push(item);
         }
       }
@@ -250,13 +250,13 @@ var App = {
       for (var item of data) {
         var color = item["color"];
         var code = item["Case #"];
-        var Latitude = item.Latitude;
-        var Longitude = item.Longitude;
-        if (Latitude && Longitude) {
+        var latitude = item.latitude;
+        var longitude = item.longitude;
+        if (latitude && longitude) {
           var isSelected = thiz.helpers.checkPlaceInLS(code);
           var iconType = isSelected ? "checked" : "normal";
 
-          var maker = L.marker([Latitude, Longitude], {
+          var maker = L.marker([latitude, longitude], {
             icon: App.helpers.leafletIcon(iconType, color),
           }).addTo(thiz.map);
           maker.on("click", thiz.handleClickPlace);
@@ -283,24 +283,24 @@ var App = {
     var data = App.data;
     var lat = e.latlng.lat;
     var lng = e.latlng.lng;
-    var findItem = _.find(data, { Latitude: lat, Longitude: lng });
+    var findItem = _.find(data, { latitude: lat, longitude: lng });
     if (findItem) {
-      var code = findItem["Case #"];
+      var code = findItem["case_number"];
       //save to localstorage && checked
       App.helpers.addPlaceToLS(code);
       var icon = App.helpers.leafletIcon("checked", findItem.color);
       e.target.setIcon(icon);
 
-      var AddressDescription = findItem["Address/Description"];
-      var Attorney = findItem["Attorney"];
-      var CaseTitle = findItem["Case Title"];
-      // var Latitude = findItem["Latitude"];
-      // var Longitude = findItem["Longitude"];
-      var Picture = findItem["Picture"];
-      var PropertyStatus = findItem["Property Status"];
-      var SalesDate = findItem["Sales Date"];
-      var TermsConditions = findItem["Terms and Conditions"];
-      var WritAmount = findItem["Writ Amount"];
+      var AddressDescription = findItem["address_description"];
+      var Attorney = findItem["attorney"];
+      var CaseTitle = findItem["case_title"];
+      // var latitude = findItem["latitude"];
+      // var longitude = findItem["longitude"];
+      var Picture = findItem["picture_url"];
+      var PropertyStatus = findItem["property_status"];
+      var SalesDate = findItem["sales_date"];
+      var TermsConditions = findItem["terms_and_conditions"];
+      var WritAmount = findItem["writ_amount"];
 
       var modelElement = App.configs.modalElement;
       if (modelElement && modelElement.length) {
@@ -314,8 +314,8 @@ var App = {
         html += `<p><b>Address/Description</b>: ${AddressDescription}</p>`;
         html += `<p><b>Attorney</b>: ${Attorney}</p>`;
         html += `<p><b>Case Title</b>: ${CaseTitle}</p>`;
-        // html += `<p><b>Latitude</b>: ${Latitude}</p>`;
-        // html += `<p><b>Longitude</b>: ${Longitude}</p>`;
+        // html += `<p><b>latitude</b>: ${latitude}</p>`;
+        // html += `<p><b>longitude</b>: ${longitude}</p>`;
         html += `<p><b>Property Status</b>: ${PropertyStatus}</p>`;
         html += `<p><b>Sales Date</b>: ${SalesDate}</p>`;
         html += `<p><b>Terms and Conditions</b>: ${TermsConditions}</p>`;
@@ -401,9 +401,9 @@ var App = {
         var lats = [];
         var longs = [];
         data.map((loc) => {
-          if (loc.Latitude && loc.Longitude) {
-            lats.push(loc.Latitude);
-            longs.push(loc.Longitude);
+          if (loc.latitude && loc.longitude) {
+            lats.push(loc.latitude);
+            longs.push(loc.longitude);
           }
         });
 
@@ -414,16 +414,16 @@ var App = {
           var minLong = Math.min.apply(null, longs);
           var centerLat = (maxLat + minLat) / 2;
           var centerLong = (minLong + maxLong) / 2;
-          var point1 = _.find(data, { Longitude: maxLong });
-          var point2 = _.find(data, { Longitude: minLong });
+          var point1 = _.find(data, { longitude: maxLong });
+          var point2 = _.find(data, { longitude: minLong });
           let zoomLevel = 16;
 
           if (point1 && point2) {
             var distance = thiz.calcDistance(
-              point2.Latitude,
-              point2.Longitude,
-              point1.Latitude,
-              point1.Longitude
+              point2.latitude,
+              point2.longitude,
+              point1.latitude,
+              point1.longitude
             );
             zoomLevel = thiz.calcZoom(distance);
           }
