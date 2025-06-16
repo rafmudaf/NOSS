@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Resources - Orleans Parish Sheriff's Sale Map</title>
+  <link rel="stylesheet" href="./assets/vendors/bootstrap/bootstrap.min.css" />
+  <link rel="stylesheet" href="./assets/css/custom.css" />
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JCVRD1YDYD"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-JCVRD1YDYD');
+  </script>
+</head>
+
+<body>
+  <header>
+    <nav class="navbar navbar-expand-md navbar-light">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">Orleans Parish Sheriff's Sale Map</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav ms-auto mb-2 mb-md-0">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Foreclosures Map</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="resources.html">Resources</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#about-modal">About</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <div class="blog-header">
+    <div class="container">
+      <h1 class="display-4 mb-0">Resources</h1>
+      <p class="lead">Insights and guides for New Orleans property buyers</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2">
+        <div id="resources-container">
+          <!-- Resource posts will be loaded here -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- About Modal -->
+  <div class="modal fade" id="about-modal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">About</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p>
+            This map gets data from the Orleans Parish Sheriff's Office listing of real estate
+            foreclosures in New Orleans.
+            If any information seems out of date or inaccurate, please verify the record on the
+            Sheriff's Office site directly.
+          </p>
+          <p>
+            The database is updated on Monday, Wednesday, and Friday.
+            The color of the marks indicate a sooner (bright pink) to later (dark pink) auction
+            date.
+            Due to inaccurate or corrupted data in the OPSO listing, some properties may not be
+            mapped.
+            These are available by clicking "Unmapped".
+          </p>
+          <p>
+            Feature ideas:
+            <ul>
+              <li>Alert for a selected area - this currently works for a single user, but the general solution requires a login feature</li>
+              <li>Account / login support</li>
+              <li>Link to NOLA Assessor listing</li>
+            </ul>
+          </p>
+          <p>
+            For any feedback or feature requests, get in touch through the "Buy me a coffee"
+            form at the bottom and include your contact info if you'd like to receive a response.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="./assets/vendors/jquery/jquery-3.6.0.min.js"></script>
+  <script src="./assets/vendors/bootstrap/bootstrap.bundle.min.js"></script>
+  
+  <script>
+    $(document).ready(function() {
+      // Load resources
+      $.ajax({
+        url: './assets/data/resources.json',
+        dataType: 'json',
+        success: function(data) {
+          const container = $('#resources-container');
+          
+          data.posts.forEach(function(post) {
+            const postHtml = `
+              <div class="card blog-post-card">
+                <div class="card-body p-4">
+                  <h2 class="card-title h3 mb-3">${post.title}</h2>
+                  <p class="text-muted mb-4" style="font-style: italic;">${post.subtitle}</p>
+                  <a href="resources/${post.content_file}" class="read-more-btn">Read More →</a>
+                </div>
+              </div>
+            `;
+            
+            container.append(postHtml);
+          });
+        },
+        error: function() {
+          $('#resources-container').html('<p class="text-center">Unable to load resources.</p>');
+        }
+      });
+    });
+
+    // Hide navbar collapse after clicking any nav-link (mobile)
+    $(document).on('click', '.navbar-collapse .nav-link', function(){
+      $('.navbar-collapse').collapse('hide');
+    });
+  </script>
+</body>
+</html> 

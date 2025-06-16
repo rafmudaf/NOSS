@@ -9,17 +9,7 @@
   <link rel="stylesheet" href="./assets/vendors/leaflet/leaflet.css" />
   <link rel="stylesheet" href="./assets/vendors/daterangepicker/daterangepicker.css" />
   <link rel="stylesheet" href="./assets/vendors/bootstrap/bootstrap.min.css" />
-
-  <style>
-    body {
-        padding: 0;
-        margin: 0;
-    }
-    html, body, #map {
-        height: 94%;
-        width: 100%;
-    }
-  </style>
+  <link rel="stylesheet" href="./assets/css/custom.css" />
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-JCVRD1YDYD"></script>
@@ -31,44 +21,156 @@
     gtag('config', 'G-JCVRD1YDYD');
   </script>
 
-  <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="thedecc" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF5F5F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+  <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="thedecc" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF5F5F" data-position="Left" data-x_margin="18" data-y_margin="18"></script>
 </head>
 
-<body>
-  <header class="mb-4">
+<body class="map-page">
+  <header>
     <!-- Fixed navbar -->
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <nav class="navbar navbar-expand-md navbar-light">
       <div class="container">
         <a class="navbar-brand" href="#">Orleans Parish Sheriff's Sale Map</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
-          <div class="ms-auto d-flex">
-            <button class="btn btn-info me-2" data-bs-toggle="modal" data-bs-target="#filters-modal">
-              Filters
-            </button>
-            <button class="btn btn-warning me-2" data-bs-toggle="modal" data-bs-target="#settings-modal">
-              Settings
-            </button>
-            <button class="btn btn-danger me-2" data-bs-toggle="modal" data-bs-target="#unmapped-modal">
-              Unmapped
-            </button>
-            <button class="btn btn-light" data-bs-toggle="modal" data-bs-target="#about-modal">
-              About
-            </button>
-          </div>
+          <ul class="navbar-nav ms-auto mb-2 mb-md-0">
+            <li class="nav-item">
+              <a class="nav-link active" href="index.html">Foreclosures Map</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="resources.html">Resources</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#about-modal">About</a>
+            </li>
+          </ul>
         </div>
       </div>
     </nav>
   </header>
 
-  <div class="container">
-    <div class="result-count">
-      <span>Total: <span id="result-total">N/A</span></span> ,
-      <span>Filtered: <span id="result-filtered">N/A</span></span>
+  <div id="property-count-tag" class="property-count-tag">0 Properties</div>
+  
+  <!-- Filter Interface -->
+  <div class="filter-interface">
+    <!-- Desktop: Individual filter dropdowns -->
+    <div class="filter-dropdown" id="sales-date-dropdown">
+      <div class="filter-trigger" data-filter="sales-date">
+        <span class="filter-label">Sales Date:</span>
+        <span class="filter-value">All</span>
+        <span class="dropdown-arrow">▼</span>
+      </div>
+      <div class="filter-content">
+        <div class="filter-panel">
+          <div class="filter-header">
+            <label class="form-label">Select dates...</label>
+            <button class="clear-individual-btn" data-filter="sales-date">Clear</button>
+          </div>
+          <input type="text" class="form-control" name="salesDate" placeholder="Select dates..." />
+        </div>
+      </div>
     </div>
+
+    <div class="filter-dropdown" id="writ-amount-dropdown">
+      <div class="filter-trigger" data-filter="writ-amount">
+        <span class="filter-label">Writ Amount:</span>
+        <span class="filter-value">All</span>
+        <span class="dropdown-arrow">▼</span>
+      </div>
+      <div class="filter-content">
+        <div class="filter-panel">
+          <div class="filter-header">
+            <span class="form-label">Amount Range</span>
+            <button class="clear-individual-btn" data-filter="writ-amount">Clear</button>
+          </div>
+          <div class="row">
+            <div class="col-6">
+              <label class="form-label">Min</label>
+              <div class="input-group">
+                <span class="input-group-text">$</span>
+                <input type="text" class="form-control" name="minAmount" placeholder="Enter amount..." />
+              </div>
+            </div>
+            <div class="col-6">
+              <label class="form-label">Max</label>
+              <div class="input-group">
+                <span class="input-group-text">$</span>
+                <input type="text" class="form-control" name="maxAmount" placeholder="Enter amount..." />
+              </div>
+            </div>
+          </div>
+          <button class="btn btn-primary btn-sm mt-2 apply-filter-btn">Apply</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="filter-dropdown" id="terms-dropdown">
+      <div class="filter-trigger" data-filter="terms">
+        <span class="filter-label">Terms:</span>
+        <span class="filter-value">All</span>
+        <span class="dropdown-arrow">▼</span>
+      </div>
+      <div class="filter-content">
+        <div class="filter-panel">
+          <div class="filter-header">
+            <label class="form-label">Terms and Conditions</label>
+            <button class="clear-individual-btn" data-filter="terms">Clear</button>
+          </div>
+          <input type="text" class="form-control" name="terms" placeholder="Enter text..." />
+          <button class="btn btn-primary btn-sm mt-2 apply-filter-btn">Apply</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="filter-dropdown" id="zip-dropdown">
+      <div class="filter-trigger" data-filter="zip">
+        <span class="filter-label">Zip:</span>
+        <span class="filter-value">All</span>
+        <span class="dropdown-arrow">▼</span>
+      </div>
+      <div class="filter-content">
+        <div class="filter-panel">
+          <div class="filter-header">
+            <label class="form-label">Enter Zip Code</label>
+            <button class="clear-individual-btn" data-filter="zip">Clear</button>
+          </div>
+          <input type="number" class="form-control" name="zip" placeholder="Enter zip code..." />
+          <button class="btn btn-primary btn-sm mt-2 apply-filter-btn">Apply</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Mobile: Summary button -->
+    <div class="mobile-filter-summary" data-bs-toggle="modal" data-bs-target="#filters-modal">
+      <span class="filter-summary-text">Filters: 0 applied</span>
+      <span class="dropdown-arrow">▼</span>
+    </div>
+
+    <!-- Clear Filters button -->
+    <button class="clear-filters-btn hidden" id="clear-filters-btn">
+      Clear Filters
+    </button>
+
+    <!-- Set Email Alert button -->
+    <button class="email-alert-btn" data-bs-toggle="modal" data-bs-target="#email-alert-modal">
+      <span class="bell-icon">🔔</span>
+      Set Email Alert
+    </button>
   </div>
+  
+  <!-- Floating control buttons -->
+  <div class="floating-controls">
+    <button class="floating-btn settings-btn" data-bs-toggle="modal" data-bs-target="#settings-modal" data-tooltip="Settings">
+      <img src="./assets/images/settings.svg" alt="Settings" width="20" height="20">
+      <span class="tooltip">Settings</span>
+    </button>
+    <button class="floating-btn unmapped-btn" data-bs-toggle="modal" data-bs-target="#unmapped-modal" data-tooltip="Unmapped">
+      <img src="./assets/images/unmapped.svg" alt="Unmapped" width="20" height="20">
+      <span class="tooltip">Unmapped</span>
+    </button>
+  </div>
+  
   <div id="map"></div>
 
   <div class="modal fade" id="app-modal">
@@ -144,6 +246,9 @@
             <button class="btn btn-primary btn-block" type="submit">
               Apply Filters
             </button>
+            <button class="btn btn-outline-secondary btn-block mt-2" type="button" id="clear-filters-mobile-btn">
+              Clear All Filters
+            </button>
           </form>
         </div>
       </div>
@@ -208,6 +313,20 @@
     </div>
   </div>
 
+  <div class="modal fade" id="email-alert-modal" tabindex="-1" aria-labelledby="emailAlertModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="emailAlertModalLabel">Coming Soon!</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p>Email alerts are coming soon. Stay tuned!</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <script src="./assets/vendors/jquery/jquery-3.6.0.min.js"></script>
   <script src="./assets/vendors/bootstrap/bootstrap.bundle.min.js"></script>
   <script src="./assets/vendors/daterangepicker/moment.min.js"></script>
@@ -227,6 +346,309 @@
       },
     };
 
+    // Filter management
+    let activeFilters = {};
+    
+    function initializeFilters() {
+      // Handle dropdown triggers
+      document.querySelectorAll('.filter-trigger').forEach(trigger => {
+        trigger.addEventListener('click', function(e) {
+          e.stopPropagation();
+          const dropdown = this.closest('.filter-dropdown');
+          const content = dropdown.querySelector('.filter-content');
+          const isOpen = content.classList.contains('show');
+          
+          // Close all other dropdowns
+          document.querySelectorAll('.filter-content').forEach(c => c.classList.remove('show'));
+          document.querySelectorAll('.filter-trigger').forEach(t => t.classList.remove('active'));
+          
+          // Toggle current dropdown
+          if (!isOpen) {
+            content.classList.add('show');
+            this.classList.add('active');
+          }
+        });
+      });
+      
+      // Handle apply buttons
+      document.querySelectorAll('.apply-filter-btn').forEach(btn => {
+        btn.addEventListener('click', function(e) {
+          e.preventDefault();
+          const dropdown = this.closest('.filter-dropdown');
+          const filterType = dropdown.querySelector('.filter-trigger').dataset.filter;
+          
+          // Get values from inputs
+          const inputs = dropdown.querySelectorAll('input');
+          let hasValue = false;
+          let displayValue = 'All';
+          
+          if (filterType === 'sales-date') {
+            const dateInput = inputs[0];
+            if (dateInput.value.trim()) {
+              activeFilters.salesDate = dateInput.value;
+              displayValue = dateInput.value;
+              hasValue = true;
+            } else {
+              delete activeFilters.salesDate;
+            }
+          } else if (filterType === 'writ-amount') {
+            const minInput = inputs[0];
+            const maxInput = inputs[1];
+            if (minInput.value.trim() || maxInput.value.trim()) {
+              activeFilters.minAmount = minInput.value;
+              activeFilters.maxAmount = maxInput.value;
+              if (minInput.value && maxInput.value) {
+                displayValue = `$${minInput.value} - $${maxInput.value}`;
+              } else if (minInput.value) {
+                displayValue = `> $${minInput.value}`;
+              } else if (maxInput.value) {
+                displayValue = `< $${maxInput.value}`;
+              }
+              hasValue = true;
+            } else {
+              delete activeFilters.minAmount;
+              delete activeFilters.maxAmount;
+            }
+          } else if (filterType === 'terms') {
+            const termsInput = inputs[0];
+            if (termsInput.value.trim()) {
+              activeFilters.terms = termsInput.value;
+              displayValue = termsInput.value.length > 15 ? termsInput.value.substring(0, 15) + '...' : termsInput.value;
+              hasValue = true;
+            } else {
+              delete activeFilters.terms;
+            }
+          } else if (filterType === 'zip') {
+            const zipInput = inputs[0];
+            if (zipInput.value.trim()) {
+              activeFilters.zip = zipInput.value;
+              displayValue = zipInput.value;
+              hasValue = true;
+            } else {
+              delete activeFilters.zip;
+            }
+          }
+          
+          // Update display
+          const trigger = dropdown.querySelector('.filter-trigger');
+          const valueSpan = trigger.querySelector('.filter-value');
+          valueSpan.textContent = displayValue;
+          
+          if (hasValue) {
+            trigger.classList.add('active');
+          } else {
+            trigger.classList.remove('active');
+          }
+          
+          // Close dropdown
+          dropdown.querySelector('.filter-content').classList.remove('show');
+          trigger.classList.remove('active');
+          
+          // Update mobile summary
+          updateMobileSummary();
+          
+          // Sync with main form and apply filters
+          syncWithMainForm();
+          applyFilters();
+        });
+      });
+      
+      // Handle individual clear buttons
+      document.querySelectorAll('.clear-individual-btn').forEach(btn => {
+        btn.addEventListener('click', function(e) {
+          e.preventDefault();
+          const filterType = this.dataset.filter;
+          const dropdown = this.closest('.filter-dropdown');
+          
+          // Clear the specific filter
+          if (filterType === 'sales-date') {
+            delete activeFilters.salesDate;
+            const input = dropdown.querySelector('input[name="salesDate"]');
+            input.value = '';
+            // Reset date picker if it exists
+            if ($(input).data('daterangepicker')) {
+              $(input).data('daterangepicker').setStartDate(moment());
+              $(input).data('daterangepicker').setEndDate(moment());
+            }
+          } else if (filterType === 'writ-amount') {
+            delete activeFilters.minAmount;
+            delete activeFilters.maxAmount;
+            dropdown.querySelector('input[name="minAmount"]').value = '';
+            dropdown.querySelector('input[name="maxAmount"]').value = '';
+          } else if (filterType === 'terms') {
+            delete activeFilters.terms;
+            dropdown.querySelector('input[name="terms"]').value = '';
+          } else if (filterType === 'zip') {
+            delete activeFilters.zip;
+            dropdown.querySelector('input[name="zip"]').value = '';
+          }
+          
+          // Update display
+          const trigger = dropdown.querySelector('.filter-trigger');
+          const valueSpan = trigger.querySelector('.filter-value');
+          valueSpan.textContent = 'All';
+          trigger.classList.remove('active');
+          
+          // Close dropdown
+          dropdown.querySelector('.filter-content').classList.remove('show');
+          
+          // Update mobile summary and sync
+          updateMobileSummary();
+          syncWithMainForm();
+          applyFilters();
+        });
+      });
+      
+      // Close dropdowns when clicking outside
+      document.addEventListener('click', function(e) {
+        if (!e.target.closest('.filter-dropdown')) {
+          document.querySelectorAll('.filter-content').forEach(c => c.classList.remove('show'));
+          document.querySelectorAll('.filter-trigger').forEach(t => t.classList.remove('active'));
+        }
+      });
+      
+      // Initialize date picker for sales date
+      const salesDateInput = document.querySelector('#sales-date-dropdown input[name="salesDate"]');
+      if (salesDateInput) {
+        $(salesDateInput).daterangepicker({
+          autoUpdateInput: false,
+          locale: {
+            cancelLabel: 'Clear'
+          }
+        });
+        
+        $(salesDateInput).on('apply.daterangepicker', function(ev, picker) {
+          const dateRange = picker.startDate.format('MM/DD/YYYY') + ' - ' + picker.endDate.format('MM/DD/YYYY');
+          $(this).val(dateRange);
+          
+          // Immediately update the filter display
+          activeFilters.salesDate = dateRange;
+          const trigger = document.querySelector('#sales-date-dropdown .filter-trigger');
+          const valueSpan = trigger.querySelector('.filter-value');
+          valueSpan.textContent = dateRange;
+          trigger.classList.add('active');
+          
+          // Update mobile summary and apply filters
+          updateMobileSummary();
+          syncWithMainForm();
+          applyFilters();
+        });
+        
+        $(salesDateInput).on('cancel.daterangepicker', function(ev, picker) {
+          $(this).val('');
+          delete activeFilters.salesDate;
+          
+          const trigger = document.querySelector('#sales-date-dropdown .filter-trigger');
+          const valueSpan = trigger.querySelector('.filter-value');
+          valueSpan.textContent = 'All';
+          trigger.classList.remove('active');
+          
+          updateMobileSummary();
+          syncWithMainForm();
+          applyFilters();
+        });
+      }
+    }
+    
+    function updateMobileSummary() {
+      const activeCount = Object.keys(activeFilters).length;
+      const summaryText = document.querySelector('.filter-summary-text');
+      if (summaryText) {
+        summaryText.textContent = `Filters: ${activeCount} applied`;
+      }
+      
+      // Show/hide clear button based on active filters
+      const clearBtn = document.getElementById('clear-filters-btn');
+      if (clearBtn) {
+        if (activeCount > 0) {
+          clearBtn.classList.remove('hidden');
+        } else {
+          clearBtn.classList.add('hidden');
+        }
+      }
+    }
+    
+    function syncWithMainForm() {
+      const form = document.getElementById('filters-form');
+      if (!form) return;
+      
+      // Clear form
+      form.reset();
+      
+      // Set values from activeFilters
+      Object.keys(activeFilters).forEach(key => {
+        const input = form.querySelector(`[name="${key}"]`);
+        if (input) {
+          input.value = activeFilters[key];
+        }
+      });
+    }
+    
+    function applyFilters() {
+      // Trigger the existing filter logic using App.searchData
+      const filters = {
+        salesDate: activeFilters.salesDate || '',
+        maxAmount: activeFilters.maxAmount || '',
+        minAmount: activeFilters.minAmount || '',
+        terms: activeFilters.terms || '',
+        zip: activeFilters.zip || ''
+      };
+      
+      // Apply filters using the existing App system
+      if (window.App && App.searchData) {
+        const result = App.searchData(filters);
+        document.getElementById('property-count-tag').textContent = result + ' Properties';
+      }
+    }
+
+    function initializeClearFilters() {
+      // Desktop clear button
+      const clearBtn = document.getElementById('clear-filters-btn');
+      if (clearBtn) {
+        clearBtn.addEventListener('click', function() {
+          clearAllFilters();
+        });
+      }
+      
+      // Mobile clear button
+      const clearMobileBtn = document.getElementById('clear-filters-mobile-btn');
+      if (clearMobileBtn) {
+        clearMobileBtn.addEventListener('click', function() {
+          clearAllFilters();
+        });
+      }
+    }
+    
+    function clearAllFilters() {
+      // Reset activeFilters object
+      activeFilters = {};
+      
+      // Reset all desktop filter displays
+      document.querySelectorAll('.filter-trigger').forEach(trigger => {
+        const valueSpan = trigger.querySelector('.filter-value');
+        valueSpan.textContent = 'All';
+        trigger.classList.remove('active');
+      });
+      
+      // Reset all filter inputs
+      document.querySelectorAll('.filter-panel input').forEach(input => {
+        input.value = '';
+      });
+      
+      // Reset date picker
+      const salesDateInput = document.querySelector('#sales-date-dropdown input[name="salesDate"]');
+      if (salesDateInput && $(salesDateInput).data('daterangepicker')) {
+        $(salesDateInput).data('daterangepicker').setStartDate(moment());
+        $(salesDateInput).data('daterangepicker').setEndDate(moment());
+        $(salesDateInput).val('');
+      }
+      
+      // Update mobile summary and sync
+      updateMobileSummary();
+      syncWithMainForm();
+      applyFilters();
+    }
+
     $(function() {
       $.ajax({
         url: "https://raw.githubusercontent.com/rafmudaf/NOSS/db/data/Orleans_Parish_sales.json",
@@ -234,14 +656,104 @@
         success: function(res) {
 
           App.init(res, config);
-          $("#result-total").html(App.data.length);
+          document.getElementById('property-count-tag').textContent = App.data.length + ' Properties';
 
           $("#unmapped-modal-list").html(
             App.corruptData.map((item) => {return item["Address/Description"]}).join("\n")
           );
 
+          // Initialize the new filter interface
+          initializeFilters();
+
+          // Add clear filters functionality
+          initializeClearFilters();
+
+          // Sync mobile modal with desktop filters
+          $('#filters-modal').on('hidden.bs.modal', function() {
+            // When mobile modal closes, sync any changes back to desktop filters
+            const form = document.getElementById('filters-form');
+            if (form) {
+              const formData = new FormData(form);
+              
+              // Update activeFilters from modal form
+              activeFilters = {};
+              
+              if (formData.get('salesDate')) activeFilters.salesDate = formData.get('salesDate');
+              if (formData.get('minAmount')) activeFilters.minAmount = formData.get('minAmount');
+              if (formData.get('maxAmount')) activeFilters.maxAmount = formData.get('maxAmount');
+              if (formData.get('terms')) activeFilters.terms = formData.get('terms');
+              if (formData.get('zip')) activeFilters.zip = formData.get('zip');
+              
+              // Update desktop filter displays
+              updateDesktopFilterDisplays();
+              updateMobileSummary();
+            }
+          });
         },
       });
+    });
+
+    function updateDesktopFilterDisplays() {
+      // Sales Date
+      const salesDateTrigger = document.querySelector('#sales-date-dropdown .filter-trigger');
+      const salesDateValue = salesDateTrigger.querySelector('.filter-value');
+      if (activeFilters.salesDate) {
+        salesDateValue.textContent = activeFilters.salesDate;
+        salesDateTrigger.classList.add('active');
+      } else {
+        salesDateValue.textContent = 'All';
+        salesDateTrigger.classList.remove('active');
+      }
+      
+      // Writ Amount
+      const writAmountTrigger = document.querySelector('#writ-amount-dropdown .filter-trigger');
+      const writAmountValue = writAmountTrigger.querySelector('.filter-value');
+      if (activeFilters.minAmount || activeFilters.maxAmount) {
+        let displayValue = '';
+        if (activeFilters.minAmount && activeFilters.maxAmount) {
+          displayValue = `$${activeFilters.minAmount} - $${activeFilters.maxAmount}`;
+        } else if (activeFilters.minAmount) {
+          displayValue = `> $${activeFilters.minAmount}`;
+        } else if (activeFilters.maxAmount) {
+          displayValue = `< $${activeFilters.maxAmount}`;
+        }
+        writAmountValue.textContent = displayValue;
+        writAmountTrigger.classList.add('active');
+      } else {
+        writAmountValue.textContent = 'All';
+        writAmountTrigger.classList.remove('active');
+      }
+      
+      // Terms
+      const termsTrigger = document.querySelector('#terms-dropdown .filter-trigger');
+      const termsValue = termsTrigger.querySelector('.filter-value');
+      if (activeFilters.terms) {
+        const displayValue = activeFilters.terms.length > 15 ? activeFilters.terms.substring(0, 15) + '...' : activeFilters.terms;
+        termsValue.textContent = displayValue;
+        termsTrigger.classList.add('active');
+      } else {
+        termsValue.textContent = 'All';
+        termsTrigger.classList.remove('active');
+      }
+      
+      // Zip
+      const zipTrigger = document.querySelector('#zip-dropdown .filter-trigger');
+      const zipValue = zipTrigger.querySelector('.filter-value');
+      if (activeFilters.zip) {
+        zipValue.textContent = activeFilters.zip;
+        zipTrigger.classList.add('active');
+      } else {
+        zipValue.textContent = 'All';
+        zipTrigger.classList.remove('active');
+      }
+      
+      // Update clear button visibility
+      updateMobileSummary();
+    }
+
+    // Hide navbar collapse after clicking any nav-link (mobile)
+    $(document).on('click', '.navbar-collapse .nav-link', function(){
+      $('.navbar-collapse').collapse('hide');
     });
   </script>
 

@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": "what-is-foreclosure",
+      "title": "What is Foreclosure? A Simple Guide for New Orleans Property Buyers",
+      "subtitle": "A guide to understanding foreclosure in New Orleans.",
+      "content_file": "what-is-foreclosure.html",
+      "featured": true
+    },
+    {
+      "id": "tour-foreclosed-house",
+      "title": "Can You Tour a Foreclosed House Before Buying in New Orleans?",
+      "subtitle": "Your complete guide to inspecting foreclosure properties before you buy.",
+      "content_file": "tour-foreclosed-house.html",
+      "featured": false
+    }
+  ]
+} 
