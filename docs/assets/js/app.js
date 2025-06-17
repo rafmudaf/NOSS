@@ -174,7 +174,7 @@ var App = {
     var result = [];
     if (startDate || endDate || maxAmount || minAmount || terms || zip) {
       for (var item of App.data) {
-        var SalesTime = item["Sales Time"];
+        var SalesTime = item["sales_time"];
         var AddressDesc = item["Address/Description"];
         var TermsConditions = item["Terms and Conditions"];
         var Amount = item["amount"];
@@ -355,9 +355,9 @@ var App = {
       if (data.length) {
         var times = [];
         data = data.map((item) => {
-          var saleDate = item["Sales Date"];
+          var saleDate = item["sales_date"];
           var saleTime = new Date(saleDate).getTime();
-          item["Sales Time"] = saleTime;
+          item["sales_time"] = saleTime;
           times.push(saleTime);
           return item;
         });
@@ -367,7 +367,7 @@ var App = {
         var length = maxTime - minTime;
 
         data = data.map((item) => {
-          var saleTime = item["Sales Time"];
+          var saleTime = item["sales_time"];
           var spectrumRange = (maxTime - saleTime) / length;  // This is the distance from one of the range to the current value
           var spectrumRangePrecent = spectrumRange; //* 100;  // Use values from 0 - 1
           item["spectrumRange"] = spectrumRange;
