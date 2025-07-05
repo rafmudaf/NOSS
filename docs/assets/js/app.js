@@ -60,9 +60,7 @@ var App = {
           var WritAmount = item["writ_amount"];
           var amount = 0;
           if (WritAmount) {
-            // amount = WritAmount.replace("$", "");
-            // amount = amount.replace(/\,/g, "");
-            amount = parseFloat(amount);
+            amount = parseFloat(WritAmount) || 0;
           }
           item["amount"] = amount;
           result.push(item);
