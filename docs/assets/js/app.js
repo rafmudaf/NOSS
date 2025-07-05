@@ -35,7 +35,7 @@ var App = {
       e.preventDefault();
       e.stopImmediatePropagation();
       var code = $(this).data("code");
-      var findItem = _.find(App.data, { "Case #": code });
+      var findItem = _.find(App.data, { "case_number": code });
       if (findItem) {
         var findLayer = _.find(App.mapLayers, { code: code });
         if (findLayer) {
@@ -173,8 +173,8 @@ var App = {
     if (startDate || endDate || maxAmount || minAmount || terms || zip) {
       for (var item of App.data) {
         var SalesTime = item["sales_time"];
-        var AddressDesc = item["Address/Description"];
-        var TermsConditions = item["Terms and Conditions"];
+        var AddressDesc = item["address_description"];
+        var TermsConditions = item["terms_and_conditions"];
         var Amount = item["amount"];
 
         var itemCond = [];
@@ -247,7 +247,7 @@ var App = {
     if (typeof data == "object") {
       for (var item of data) {
         var color = item["color"];
-        var code = item["Case #"];
+        var code = item["case_number"];
         var latitude = item.latitude;
         var longitude = item.longitude;
         if (latitude && longitude) {
