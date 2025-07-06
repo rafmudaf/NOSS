@@ -56,13 +56,9 @@ var App = {
       for (var item of data) {
         var lat = item.latitude;
         var Lng = item.longitude;
+
         if (lat && Lng) {
-          var WritAmount = item["writ_amount"];
-          var amount = 0;
-          if (WritAmount) {
-            amount = parseFloat(WritAmount) || 0;
           }
-          item["amount"] = amount;
           result.push(item);
         }
       }
@@ -123,9 +119,9 @@ var App = {
           position: 'bottomright'
         });
         zoomControl.addTo(map);
-        console.log('Zoom control added successfully');
+        // console.log('Zoom control added successfully');
       } catch (error) {
-        console.error('Error adding zoom control:', error);
+        console.error('Error adding Leaflet zoom control:', error);
       }
       
       thiz.map = map;
@@ -146,68 +142,79 @@ var App = {
   },
 
   searchData: function (params) {
+    /**
+     * This function filters the data based on the provided parameters.
+     * The params argument should contain:
+     * - salesDate: A date range string in the format "MM/DD/YYYY - MM/DD/YYYY"
+     * - maxAmount: A string representing the maximum writ amount (can include commas)
+     * - minAmount: A string representing the minimum writ amount (can include commas)
+     * - terms: A string to search in the terms and conditions
+     * - zip: A string to search in the address description, typically a ZIP code
+     */
+
     var salesDate = params.salesDate;
-    var maxAmount = params.maxAmount
-      ? App.helpers.removeCommaString(params.maxAmount)
-      : 0;
-    var minAmount = params.minAmount
-      ? App.helpers.removeCommaString(params.minAmount)
-      : 0;
+    var maxAmount = params.maxAmount ? App.helpers.removeCommaString(params.maxAmount) : 0;
+    var minAmount = params.minAmount ? App.helpers.removeCommaString(params.minAmount) : 0;
     var terms = params.terms;
     var zip = params.zip;
 
+    // Convert the salesDate string to a start and end date for comparison later
     var startDate = "";
     var endDate = "";
     if (salesDate) {
       var datesArr = salesDate.split(" - ");
-      if (datesArr.length == 2) {
+      if (datesArr.length == 2) {                         // TODO: Handle if datesArr.length != 2
         var _startDate = new Date(datesArr[0]).getTime();
         var _endDate = new Date(datesArr[1]).getTime();
-        if (!isNaN(_startDate) && !isNaN(_endDate)) {
+        if (!isNaN(_startDate) && !isNaN(_endDate)) {     // TODO: Handle if _startDate or _endDate is NaN
           startDate = _startDate;
           endDate = _endDate;
         }
       }
     }
+
+    // console.log('searchData params:', params);
+    // console.log('Processed filter values:', { startDate, endDate, maxAmount, minAmount, terms, zip });
+
     var result = [];
-    if (startDate || endDate || maxAmount || minAmount || terms || zip) {
+
+    // If there are no filters set, return all data
+    if (!startDate && !endDate && !maxAmount && !minAmount && !terms && !zip) {
+      result = App.data;
+
+    // Otherwise, set up the filters and evaluate each data item
+    } else {
       for (var item of App.data) {
         var SalesTime = item["sales_time"];
         var AddressDesc = item["address_description"];
         var TermsConditions = item["terms_and_conditions"];
-        var Amount = item["amount"];
+        var Amount = item["writ_amount"];
 
         var itemCond = [];
+
         if (zip && AddressDesc) {
+          // TODO: This should be generalized to any search term; use .toLowerCase()
           var zipCheck = AddressDesc.match(new RegExp(zip));
-          if (zipCheck != null) {
-            itemCond.push(true);
-          } else {
-            itemCond.push(false);
-          }
+          itemCond.push(zipCheck !== null);
         }
 
         if (TermsConditions && terms) {
-          var termsCond = TermsConditions.indexOf(terms);
-          if (termsCond != "-1") {
-            itemCond.push(true);
-          } else {
-            itemCond.push(false);
-          }
+          // TODO: This should be a general search rather than a substring match
+          var termsCond = TermsConditions.toLowerCase().indexOf(terms.toLowerCase());
+          itemCond.push(termsCond !== -1);
         }
 
-        if (Amount) {
-          if (maxAmount || minAmount) {
-            var amountCond = false;
-            if (maxAmount && !minAmount) {
-              amountCond = Amount <= maxAmount;
-            } else if (!maxAmount && minAmount) {
-              amountCond = Amount > minAmount;
-            } else if (maxAmount && minAmount) {
-              amountCond = Amount <= maxAmount && Amount > minAmount;
-            }
-            itemCond.push(amountCond);
+        if (Amount && (maxAmount || minAmount)) {
+          // TODO: How is "undefined" amount handled?
+          var amountCond = true;    // Defaults to including this item; the following lines determine whether to remove it
+          if (maxAmount && !minAmount) {
+            amountCond = Amount <= maxAmount;
+          } else if (!maxAmount && minAmount) {
+            amountCond = Amount >= minAmount;
+          } else if (maxAmount && minAmount) {
+            amountCond = Amount >= minAmount && Amount <= maxAmount;
           }
+          itemCond.push(amountCond);
         }
         if (SalesTime) {
           if (startDate && endDate) {
@@ -216,14 +223,16 @@ var App = {
           }
         }
 
-        if (eval(itemCond.join("&&"))) {
+        // Use AND logic: all conditions must be true (or no conditions set)
+        var passesFilter = itemCond.length === 0 || itemCond.every(function(cond) { return cond === true; });
+        if (passesFilter) {
           result.push(item);
         }
       }
-    } else {
-      result = App.data;
     }
     this.renderMapLayers(result);
+    // console.log('Filter result: ' + result.length + ' properties found');
+    
     if (result) {
       var centerZoom = this.helpers.getCenterZoomLevel(result);
       if (centerZoom) {
