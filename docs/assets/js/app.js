@@ -58,7 +58,28 @@ var App = {
         var Lng = item.longitude;
 
         if (lat && Lng) {
+          // Set sales_time to beginning of the day (midnight) in local time
+          // Parse the sales date from the database and convert to local time format for Date()
+
+          var dateStr = item["sales_date"];
+          var saleDate;
+          
+          // Parse date manually to ensure local time interpretation
+          if (dateStr.includes('-')) {
+            // Handle YYYY-MM-DD format
+            var parts = dateStr.split('-');
+            saleDate = new Date(parts[0], parts[1] - 1, parts[2]); // Month is 0-indexed
+          } else if (dateStr.includes('/')) {
+            // Handle MM/DD/YYYY format
+            var parts = dateStr.split('/');
+            saleDate = new Date(parts[2], parts[0] - 1, parts[1]); // Month is 0-indexed
+          } else {
+            // Fallback to original parsing
+            saleDate = new Date(dateStr);
           }
+
+          saleDate.setHours(0, 0, 0, 0); // Set to beginning of day
+          item["sales_time"] = saleDate.getTime();
           result.push(item);
         }
       }
@@ -158,17 +179,24 @@ var App = {
     var terms = params.terms;
     var zip = params.zip;
 
-    // Convert the salesDate string to a start and end date for comparison later
+    // Convert the salesDate search string to a start and end date for comparison later
     var startDate = "";
     var endDate = "";
     if (salesDate) {
       var datesArr = salesDate.split(" - ");
       if (datesArr.length == 2) {                         // TODO: Handle if datesArr.length != 2
-        var _startDate = new Date(datesArr[0]).getTime();
-        var _endDate = new Date(datesArr[1]).getTime();
-        if (!isNaN(_startDate) && !isNaN(_endDate)) {     // TODO: Handle if _startDate or _endDate is NaN
-          startDate = _startDate;
-          endDate = _endDate;
+        var _startDate = new Date(datesArr[0])
+        var _endDate = new Date(datesArr[1])
+
+        _startDate.setHours(0, 0, 0, 0);    // Set to beginning of the day
+        _endDate.setHours(23, 59, 59, 999); // Set to end of the date
+
+        var startTimestamp = _startDate.getTime();
+        var endTimestamp = _endDate.getTime();
+        
+        if (!isNaN(startTimestamp) && !isNaN(endTimestamp)) {     // TODO: Handle if timestamps are NaN
+          startDate = startTimestamp;
+          endDate = endTimestamp;
         }
       }
     }
@@ -216,11 +244,11 @@ var App = {
           }
           itemCond.push(amountCond);
         }
-        if (SalesTime) {
-          if (startDate && endDate) {
-            var dateCond = SalesTime >= startDate && SalesTime <= endDate;
-            itemCond.push(dateCond);
-          }
+
+        if (SalesTime && startDate && endDate) {
+          // console.log(SalesTime, startDate, endDate, new Date(SalesTime), new Date(startDate), new Date(endDate));
+          var dateCond = SalesTime >= startDate && SalesTime <= endDate;
+          itemCond.push(dateCond);
         }
 
         // Use AND logic: all conditions must be true (or no conditions set)
@@ -361,12 +389,8 @@ var App = {
       var thiz = this;
       if (data.length) {
         var times = [];
-        data = data.map((item) => {
-          var saleDate = item["sales_date"];
-          var saleTime = new Date(saleDate).getTime();
-          item["sales_time"] = saleTime;
-          times.push(saleTime);
-          return item;
+        data.forEach(item => {
+          times.push(item["sales_time"]);
         });
 
         var maxTime = Math.max.apply(null, times);
