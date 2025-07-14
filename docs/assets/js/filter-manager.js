@@ -3,16 +3,99 @@ class FilterManager {
     this.activeFilters = {};
     this.config = {
       MAX_TERM_DISPLAY_LENGTH: 15,
-      DEBOUNCE_DELAY: 300
+      DEBOUNCE_DELAY: 300,
+      URL_UPDATE_DELAY: 500 // Separate delay for URL updates
     };
     this.debouncedApplyFilters = this.debounce(this.applyFilters.bind(this), this.config.DEBOUNCE_DELAY);
+    this.debouncedUpdateURL = this.debounce(this.updateURL.bind(this), this.config.URL_UPDATE_DELAY);
+    this.isInitialLoad = true;
   }
 
   init() {
+    // Load filters from URL first
+    this.loadFiltersFromURL();
+    
     this.initializeDropdowns();
     this.initializeDatePicker();
     this.initializeClearButtons();
     this.initializeClickOutside();
+    this.initializePopStateHandler();
+    this.initializeShareButton();
+    
+    // Apply initial filters from URL
+    if (Object.keys(this.activeFilters).length > 0) {
+      this.updateAllDisplays();
+      this.syncWithMainForm();
+      this.applyFilters();
+    }
+    
+    this.isInitialLoad = false;
+  }
+
+  loadFiltersFromURL() {
+    const urlParams = new URLSearchParams(window.location.search);
+    
+    // Sales date
+    if (urlParams.has('salesDate')) {
+      this.activeFilters.salesDate = urlParams.get('salesDate');
+    }
+    
+    // Amount filters
+    if (urlParams.has('minAmount')) {
+      this.activeFilters.minAmount = urlParams.get('minAmount');
+    }
+    if (urlParams.has('maxAmount')) {
+      this.activeFilters.maxAmount = urlParams.get('maxAmount');
+    }
+    
+    // Terms filter
+    if (urlParams.has('terms')) {
+      this.activeFilters.terms = urlParams.get('terms');
+    }
+    
+    // Zip filter
+    if (urlParams.has('zip')) {
+      this.activeFilters.zip = urlParams.get('zip');
+    }
+  }
+
+  updateURL() {
+    if (this.isInitialLoad) return;
+    
+    const url = new URL(window.location);
+    const params = url.searchParams;
+    
+    // Clear existing filter parameters
+    params.delete('salesDate');
+    params.delete('minAmount');
+    params.delete('maxAmount');
+    params.delete('terms');
+    params.delete('zip');
+    
+    // Add active filters to URL
+    Object.keys(this.activeFilters).forEach(key => {
+      if (this.activeFilters[key]) {
+        params.set(key, this.activeFilters[key]);
+      }
+    });
+    
+    // Update URL without page reload
+    const newURL = params.toString() ? `${url.pathname}?${params.toString()}` : url.pathname;
+    window.history.pushState({ filters: this.activeFilters }, '', newURL);
+  }
+
+  initializePopStateHandler() {
+    window.addEventListener('popstate', (event) => {
+      if (event.state && event.state.filters) {
+        this.activeFilters = { ...event.state.filters };
+      } else {
+        this.loadFiltersFromURL();
+      }
+      
+      this.updateAllDisplays();
+      this.syncWithMainForm();
+      this.applyFilters();
+    });
   }
 
   initializeDropdowns() {
@@ -54,6 +137,7 @@ class FilterManager {
     this.updateMobileSummary();
     this.syncWithMainForm();
     this.debouncedApplyFilters();
+    this.debouncedUpdateURL(); // Add URL update
   }
 
   processFilterValues(dropdown, filterType) {
@@ -189,6 +273,7 @@ class FilterManager {
     this.updateMobileSummary();
     this.syncWithMainForm();
     this.debouncedApplyFilters();
+    this.debouncedUpdateURL(); // Add URL update
   }
 
   clearFilter(filterType, dropdown) {
@@ -233,6 +318,11 @@ class FilterManager {
       locale: { cancelLabel: 'Clear' }
     });
 
+    // Set initial value if loaded from URL
+    if (this.activeFilters.salesDate) {
+      $(salesDateInput).val(this.activeFilters.salesDate);
+    }
+
     $(salesDateInput).on('apply.daterangepicker', (ev, picker) => {
       const dateRange = `${picker.startDate.format('MM/DD/YYYY')} - ${picker.endDate.format('MM/DD/YYYY')}`;
       $(salesDateInput).val(dateRange);
@@ -242,6 +332,7 @@ class FilterManager {
       this.updateMobileSummary();
       this.syncWithMainForm();
       this.debouncedApplyFilters();
+      this.debouncedUpdateURL(); // Add URL update
     });
 
     $(salesDateInput).on('cancel.daterangepicker', () => {
@@ -252,6 +343,7 @@ class FilterManager {
       this.updateMobileSummary();
       this.syncWithMainForm();
       this.debouncedApplyFilters();
+      this.debouncedUpdateURL(); // Add URL update
     });
   }
 
@@ -280,6 +372,71 @@ class FilterManager {
     }
   }
 
+  initializeShareButton() {
+    const shareBtn = document.getElementById('share-filters-btn');
+    if (shareBtn) {
+      shareBtn.addEventListener('click', this.handleShareClick.bind(this));
+    }
+  }
+
+  handleShareClick() {
+    const shareableURL = this.getShareableURL();
+
+    if (navigator.clipboard) {
+      navigator.clipboard.writeText(shareableURL).then(() => {
+        this.showShareSuccess();
+      }).catch(() => {
+        this.fallbackCopyToClipboard(shareableURL);
+      });
+    } else {
+      this.fallbackCopyToClipboard(shareableURL);
+    }
+  }
+
+  fallbackCopyToClipboard(text) {
+    const textArea = document.createElement('textarea');
+    textArea.value = text;
+    document.body.appendChild(textArea);
+    textArea.focus();
+    textArea.select();
+
+    try {
+      document.execCommand('copy');
+      this.showShareSuccess();
+    } catch (err) {
+      console.error('Failed to copy: ', err);
+      this.showShareError();
+    }
+
+    document.body.removeChild(textArea);
+  }
+
+  showShareSuccess() {
+    const shareBtn = document.getElementById('share-filters-btn');
+    const originalText = shareBtn.innerHTML;
+
+    shareBtn.innerHTML = '<span class="share-icon">✓</span> Copied!';
+    shareBtn.style.backgroundColor = '#28a745';
+
+    setTimeout(() => {
+      shareBtn.innerHTML = originalText;
+      shareBtn.style.backgroundColor = '';
+    }, 2000);
+  }
+
+  showShareError() {
+    const shareBtn = document.getElementById('share-filters-btn');
+    const originalText = shareBtn.innerHTML;
+
+    shareBtn.innerHTML = '<span class="share-icon">⚠</span> Error';
+    shareBtn.style.backgroundColor = '#dc3545';
+
+    setTimeout(() => {
+      shareBtn.innerHTML = originalText;
+      shareBtn.style.backgroundColor = '';
+    }, 2000);
+  }
+  
   initializeClickOutside() {
     document.addEventListener('click', (e) => {
       if (!e.target.closest('.filter-dropdown')) {
@@ -305,6 +462,7 @@ class FilterManager {
     this.updateMobileSummary();
     this.syncWithMainForm();
     this.debouncedApplyFilters();
+    this.updateURL(); // Immediate URL update for clear all
   }
 
   resetAllDisplays() {
@@ -337,8 +495,14 @@ class FilterManager {
     }
 
     const clearBtn = document.getElementById('clear-filters-btn');
+    const shareBtn = document.getElementById('share-filters-btn');
+
     if (clearBtn) {
       clearBtn.classList.toggle('hidden', activeCount === 0);
+    }
+
+    if (shareBtn) {
+      shareBtn.classList.toggle('hidden', activeCount === 0);
     }
   }
 
@@ -367,6 +531,71 @@ class FilterManager {
     });
 
     this.updateMobileSummary();
+  }
+
+  // New method to update all displays from loaded filters
+  updateAllDisplays() {
+    // Update desktop filter displays
+    document.querySelectorAll('.filter-dropdown').forEach(dropdown => {
+      const trigger = dropdown.querySelector('.filter-trigger');
+      const filterType = trigger.dataset.filter;
+      this.updateFilterDisplay(dropdown, filterType);
+
+      // Set input values
+      this.setInputValues(dropdown, filterType);
+    });
+
+    this.updateMobileSummary();
+  }
+
+  setInputValues(dropdown, filterType) {
+    switch (filterType) {
+      case 'sales-date':
+        const dateInput = dropdown.querySelector('input[name="salesDate"]');
+        if (dateInput && this.activeFilters.salesDate) {
+          dateInput.value = this.activeFilters.salesDate;
+        }
+        break;
+
+      case 'writ-amount':
+        const minInput = dropdown.querySelector('input[name="minAmount"]');
+        const maxInput = dropdown.querySelector('input[name="maxAmount"]');
+        if (minInput && this.activeFilters.minAmount) {
+          minInput.value = this.activeFilters.minAmount;
+        }
+        if (maxInput && this.activeFilters.maxAmount) {
+          maxInput.value = this.activeFilters.maxAmount;
+        }
+        break;
+
+      case 'terms':
+        const termsInput = dropdown.querySelector('input[name="terms"]');
+        if (termsInput && this.activeFilters.terms) {
+          termsInput.value = this.activeFilters.terms;
+        }
+        break;
+
+      case 'zip':
+        const zipInput = dropdown.querySelector('input[name="zip"]');
+        if (zipInput && this.activeFilters.zip) {
+          zipInput.value = this.activeFilters.zip;
+        }
+        break;
+    }
+  }
+
+  // Add method to generate shareable URL
+  getShareableURL() {
+    const url = new URL(window.location.origin + window.location.pathname);
+    const params = url.searchParams;
+
+    Object.keys(this.activeFilters).forEach(key => {
+      if (this.activeFilters[key]) {
+        params.set(key, this.activeFilters[key]);
+      }
+    });
+
+    return url.toString();
   }
 
   applyFilters() {
@@ -400,7 +629,7 @@ class FilterManager {
     };
   }
 
-  // Public method to sync mobile modal changes
+  // Public method to sync mobile modal changes (updated)
   syncFromMobileModal() {
     const form = document.getElementById('filters-form');
     if (!form) return;
@@ -415,6 +644,7 @@ class FilterManager {
     if (formData.get('zip')) this.activeFilters.zip = formData.get('zip');
 
     this.updateDesktopFilterDisplays();
+    this.debouncedUpdateURL(); // Add URL update
   }
 }
 

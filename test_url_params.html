@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>🔗 URL Parameters Test - NOSS Filter Manager</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .test-link {
+            display: inline-block;
+            background: #007bff;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 10px 10px 10px 0;
+            transition: background 0.2s;
+        }
+        .test-link:hover {
+            background: #0056b3;
+            color: white;
+            text-decoration: none;
+        }
+        .code {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            border-left: 4px solid #007bff;
+            margin: 10px 0;
+            font-family: monospace;
+            overflow-x: auto;
+        }
+        .feature {
+            background: #f0f8ff;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>🔗 URL Parameters Test for NOSS Filter Manager</h1>
+    
+    <p>The filter manager now supports URL parameters for sharing and bookmarking specific filter combinations. Test the examples below:</p>
+
+    <div class="feature">
+        <h3>✨ New Features Added:</h3>
+        <ul>
+            <li><strong>URL Parameter Support</strong> - Filters are saved in the URL for sharing</li>
+            <li><strong>Browser Navigation</strong> - Back/forward buttons work with filter states</li>
+            <li><strong>Share Button</strong> - Copy shareable links with current filters</li>
+            <li><strong>Deep Linking</strong> - Direct access to filtered views</li>
+            <li><strong>Persistent State</strong> - Filters persist across page reloads</li>
+        </ul>
+    </div>
+
+    <h2>Test URLs</h2>
+    
+    <h3>Sales Date Filter</h3>
+    <a href="docs/index.html?salesDate=01/01/2024%20-%2001/31/2024" class="test-link">
+        January 2024 Sales
+    </a>
+    <div class="code">
+        docs/index.html?salesDate=01/01/2024%20-%2001/31/2024
+    </div>
+
+    <h3>Amount Range Filter</h3>
+    <a href="docs/index.html?minAmount=50000&maxAmount=150000" class="test-link">
+        $50K - $150K Range
+    </a>
+    <div class="code">
+        docs/index.html?minAmount=50000&maxAmount=150000
+    </div>
+
+    <h3>Zip Code Filter</h3>
+    <a href="docs/index.html?zip=70112" class="test-link">
+        Zip Code 70112
+    </a>
+    <div class="code">
+        docs/index.html?zip=70112
+    </div>
+
+    <h3>Terms Filter</h3>
+    <a href="docs/index.html?terms=cash" class="test-link">
+        Cash Terms Only
+    </a>
+    <div class="code">
+        docs/index.html?terms=cash
+    </div>
+
+    <h3>Combined Filters</h3>
+    <a href="docs/index.html?salesDate=01/01/2024%20-%2003/31/2024&minAmount=75000&zip=70112&terms=cash" class="test-link">
+        Q1 2024, $75K+, Zip 70112, Cash
+    </a>
+    <div class="code">
+        docs/index.html?salesDate=01/01/2024%20-%2003/31/2024&minAmount=75000&zip=70112&terms=cash
+    </div>
+
+    <h2>How to Use</h2>
+    <div class="feature">
+        <h3>For Users:</h3>
+        <ol>
+            <li>Apply filters on the main map page</li>
+            <li>Click the <strong>🔗 Share</strong> button to copy the current URL</li>
+            <li>Share the URL with others or bookmark it</li>
+            <li>The URL will automatically restore the same filters when visited</li>
+        </ol>
+
+        <h3>For Developers:</h3>
+        <p>Supported URL parameters:</p>
+        <ul>
+            <li><code>salesDate</code> - Date range in "MM/DD/YYYY - MM/DD/YYYY" format</li>
+            <li><code>minAmount</code> - Minimum writ amount (number)</li>
+            <li><code>maxAmount</code> - Maximum writ amount (number)</li>
+            <li><code>terms</code> - Terms and conditions text search</li>
+            <li><code>zip</code> - ZIP code filter (5 digits)</li>
+        </ul>
+    </div>
+
+    <h2>Implementation Details</h2>
+    <div class="feature">
+        <h3>Technical Features:</h3>
+        <ul>
+            <li><strong>Debounced URL Updates</strong> - Prevents excessive history entries</li>
+            <li><strong>History API</strong> - Uses pushState for seamless navigation</li>
+            <li><strong>URL Encoding</strong> - Properly handles special characters</li>
+            <li><strong>Fallback Support</strong> - Works with older browsers using execCommand</li>
+            <li><strong>State Synchronization</strong> - Keeps all UI elements in sync</li>
+        </ul>
+    </div>
+
+    <p><a href="docs/index.html" class="test-link">← Back to Main Map</a></p>
+</body>
+</html>
