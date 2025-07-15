@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://nolageauxbid.com/sitemap.xml
+
+# Optimize crawl budget
+Crawl-delay: 1
+
+# Block unnecessary resources
+Disallow: /assets/vendors/
+Disallow: *.js$
+Disallow: *.css$
+
+# Allow important assets for rich snippets
+Allow: /assets/images/
+Allow: /assets/data/

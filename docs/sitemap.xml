@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- Main foreclosure map page -->
+  <url>
+    <loc>https://nolageauxbid.com/</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Resources section -->
+  <url>
+    <loc>https://nolageauxbid.com/resources.html</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Educational content -->
+  <url>
+    <loc>https://nolageauxbid.com/resources/what-is-foreclosure.html</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://nolageauxbid.com/resources/tour-foreclosed-house.html</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- SEO Landing Pages -->
+  <url>
+    <loc>https://nolageauxbid.com/new-orleans-foreclosure-auction-guide.html</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nolageauxbid.com/orleans-parish-sheriff-sale-by-zip-code.html</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Dynamic filtered pages for better indexing -->
+  <url>
+    <loc>https://nolageauxbid.com/?zip=70112</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://nolageauxbid.com/?zip=70115</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://nolageauxbid.com/?zip=70117</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://nolageauxbid.com/?zip=70118</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
