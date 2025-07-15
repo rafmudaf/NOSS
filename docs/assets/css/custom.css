@@ -544,6 +544,41 @@ header {
     display: none;
 }
 
+/* Share Filters Button */
+.share-filters-btn {
+    background: rgba(255, 255, 255, 0.95);
+    border: 1px solid #007bff;
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 14px;
+    color: #007bff;
+    cursor: pointer;
+    transition: all 0.2s;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    white-space: nowrap;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.share-filters-btn:hover {
+    background: #007bff;
+    color: white;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    transform: translateY(-1px);
+}
+
+.share-filters-btn.hidden {
+    display: none;
+}
+
+.share-icon {
+    margin-right: 4px;
+}
+
 /* Individual Clear Buttons */
 .clear-individual-btn {
     background: none;
