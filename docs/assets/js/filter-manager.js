@@ -219,7 +219,7 @@ class FilterManager {
       case 'terms':
         return this.getTermsDisplayValue();
       case 'zip':
-        return this.activeFilters.zip || 'All';
+        return this.getZipDisplayValue();
       default:
         return 'All';
     }
@@ -245,6 +245,19 @@ class FilterManager {
     return terms.length > this.config.MAX_TERM_DISPLAY_LENGTH
       ? terms.substring(0, this.config.MAX_TERM_DISPLAY_LENGTH) + '...'
       : terms;
+  }
+
+  getZipDisplayValue() {
+    if (!this.activeFilters.zip) return 'All';
+
+    const zipCodes = this.activeFilters.zip.split(',').map(z => z.trim()).filter(z => z);
+    
+    if (zipCodes.length === 0) return 'All';
+    if (zipCodes.length === 1) return zipCodes[0];
+    if (zipCodes.length <= 3) return zipCodes.join(', ');
+    
+    // If more than 3 ZIP codes, show first 2 and count
+    return `${zipCodes.slice(0, 2).join(', ')} +${zipCodes.length - 2} more`;
   }
 
   hasActiveFilter(filterType) {

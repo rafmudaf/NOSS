@@ -133,17 +133,17 @@
 
     <div class="filter-dropdown" id="zip-dropdown">
       <div class="filter-trigger" data-filter="zip">
-        <span class="filter-label">Zip:</span>
+        <span class="filter-label">Zip Codes:</span>
         <span class="filter-value">All</span>
         <span class="dropdown-arrow">▼</span>
       </div>
       <div class="filter-content">
         <div class="filter-panel">
           <div class="filter-header">
-            <label class="form-label">Enter Zip Code</label>
+            <label class="form-label">Enter Zip Codes</label>
             <button class="clear-individual-btn" data-filter="zip">Clear</button>
           </div>
-          <input type="number" class="form-control" name="zip" placeholder="Enter zip code..." />
+          <input type="text" class="form-control" name="zip" placeholder="Enter zip codes (e.g., 70117,70130,70128)..." />
           <button class="btn btn-primary btn-sm mt-2 apply-filter-btn" id="apply-zip-filter">Apply</button>
         </div>
       </div>
@@ -254,8 +254,8 @@
               <input type="text" class="form-control" name="terms" placeholder="Enter text..." />
             </div>
             <div class="mb-2">
-              <label class="form-label">Zip</label>
-              <input type="number" class="form-control" name="zip" placeholder="Enter zip code..." />
+              <label class="form-label">Zip Codes</label>
+              <input type="text" class="form-control" name="zip" placeholder="Enter zip codes (e.g., 70117,70130,70128)..." />
             </div>
             <button class="btn btn-primary btn-block" type="submit">
               Apply Filters

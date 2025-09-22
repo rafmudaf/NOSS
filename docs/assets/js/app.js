@@ -170,7 +170,7 @@ var App = {
      * - maxAmount: A string representing the maximum writ amount (can include commas)
      * - minAmount: A string representing the minimum writ amount (can include commas)
      * - terms: A string to search in the terms and conditions
-     * - zip: A string to search in the address description, typically a ZIP code
+     * - zip: A string or comma-separated list of ZIP codes to search in the address description
      */
 
     var salesDate = params.salesDate;
@@ -222,8 +222,21 @@ var App = {
 
         if (zip && AddressDesc) {
           // TODO: This should be generalized to any search term; use .toLowerCase()
-          var zipCheck = AddressDesc.match(new RegExp(zip));
-          itemCond.push(zipCheck !== null);
+          // Handle multiple ZIP codes separated by commas
+          var zipMatched = false;
+          var zipCodes = zip.split(',').map(function(z) { return z.trim(); });
+          
+          for (var i = 0; i < zipCodes.length; i++) {
+            if (zipCodes[i]) {
+              var zipCheck = AddressDesc.match(new RegExp(zipCodes[i]));
+              if (zipCheck !== null) {
+                zipMatched = true;
+                break;
+              }
+            }
+          }
+          
+          itemCond.push(zipMatched);
         }
 
         if (TermsConditions && terms) {
